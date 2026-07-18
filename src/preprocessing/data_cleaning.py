@@ -32,4 +32,16 @@ def clean_pharmacy_data():
     )
     print(missing_df)
 
+    missing_threshold=90
+
+    columns_to_drop=missing_df[missing_df["Missing percentage"]>missing_threshold]["Column"].tolist()
+    print("columns_to_drop")
+    print(columns_to_drop)
+
+    df=df.drop(columns=columns_to_drop)
+
+    print(df.shape)
+    print(df.columns)
+
+
     
