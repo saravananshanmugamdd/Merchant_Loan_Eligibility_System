@@ -17,5 +17,19 @@ def clean_pharmacy_data():
     print(df.columns)
     print(df.head())
     print(df.isnull().sum())
-        
+
+    missing_percentage=(df.isnull().sum()/ len(df))*100
+
+    missing_df=pd.DataFrame({
+        "Column"        :df.columns,
+        "Missing Values":df.isnull().sum(),
+        "Missing percentage":missing_percentage.round(2)
+
+    })
+    missing_df=missing_df.sort_values(
+        by="Missing Values",
+        ascending=False
+    )
+    print(missing_df)
+
     
