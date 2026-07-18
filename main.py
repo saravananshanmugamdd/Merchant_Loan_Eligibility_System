@@ -1,4 +1,5 @@
-from src.collectors.osm_collector import collector_pharmacies
+from src.preprocessing.data_cleaning import clean_pharmacy_data
 
 if __name__== "__main__":
-    collector_pharmacies()
+    clean_pharmacy_data()
+    
