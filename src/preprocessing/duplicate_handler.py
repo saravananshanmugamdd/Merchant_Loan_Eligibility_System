@@ -1,47 +1,56 @@
 import os
-import pandas as pd
 
-from src.utils.helper import save_dataframe, load_dataframe
+from src.utils.helper import (
+    load_dataframe,
+    save_dataframe
+)
 from src.utils.logger import Logger
 from src.config.config import processed_data_path
 
-def duplicate_handler():
 
-    Logger.info("started handling duplicate values")
+def duplicate_handler(
+    input_filename: str,
+    output_filename: str
+):
 
-    input_path=os.path.join(
-        processed_data_path,
-        "chennai_pharmacies_null_handled.csv"
+    Logger.info(
+        f"Starting Duplicate Handler for {input_filename}"
     )
 
-    df=load_dataframe(input_path)
+    input_path = os.path.join(
+        processed_data_path,
+        input_filename
+    )
 
-    print("\n Dataset shape before handling duplicate values")
+    df = load_dataframe(input_path)
+
+    print("\nDataset Shape Before Handling Duplicate Values:")
     print(df.shape)
 
-    duplicate_count=df.duplicated().sum()
+    duplicate_count = df.duplicated().sum()
 
-    print("\n Duplicate Rows ")
+    print("\nDuplicate Rows:")
     print(duplicate_count)
 
     df.drop_duplicates(inplace=True)
 
-    print("\n shape after handling duplicate values")
+    print("\nShape After Handling Duplicate Values:")
     print(df.shape)
 
-    output_path=os.path.join(
+    output_path = os.path.join(
         processed_data_path,
-        "chennai_pharmacies_duplicate_removed.csv"
+        output_filename
     )
 
-    Logger.info("Duplicate Handler completed")
+    save_dataframe(
+        df,
+        output_path
+    )
+
+    Logger.info(
+        f"Duplicate-free dataset saved as {output_filename}"
+    )
 
     print("\nDuplicate-free dataset saved successfully.")
 
-    print("======Data Type check===========")
-
-    print("\n Current Datatypes")
-    print(df.dtypes)
-
-    print("\n Datatype Information")
-    print(df.info())
+    return df

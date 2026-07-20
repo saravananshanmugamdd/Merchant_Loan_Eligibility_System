@@ -1,0 +1,362 @@
+geometry,amenity,name,addr:postcode,healthcare,addr:district,addr:full,addr:state,source,longitude,latitude
+POINT (80.1980375 13.0720236),clinic,Koyambedu,,,,,,,80.1980375,13.072023599999994
+POINT (80.2231706 13.024235),clinic,24 Hours Hospital,600015.0,clinic,,,,,80.2231706,13.024235000000004
+POINT (80.2230108 13.022387),clinic,Dr. Reddi's Poly Clinic,600015.0,clinic,,,,,80.2230108,13.022387000000002
+POINT (80.2208806 13.0248543),clinic,Sugam Poly Clinic,600015.0,clinic,,,,,80.2208806,13.0248543
+POINT (80.2203784 13.0248243),clinic,24 Hours Health care centre,600015.0,clinic,,,,,80.2203784,13.0248243
+POINT (80.2285827 13.041711),clinic,"Sri Meenakshi Nursing Home, Chennai",600001.0,clinic,Chennai,"No. 3A, Baroda Street, West Mambalam, T Nagar",Tamil Nadu,OpenGovernmentData,80.2285827,13.041711
+POINT (80.183588 13.0286757),clinic,,,,,,,,80.183588,13.0286757
+POINT (80.1832579 13.0278142),clinic,,,,,,,,80.1832579,13.027814200000002
+POINT (80.2201536 12.9745585),clinic,,,clinic,,,,,80.2201536,12.9745585
+POINT (80.2496008 13.0672454),clinic,,,clinic,,,,,80.2496008,13.067245399999996
+POINT (80.1694976 13.0594837),clinic,,,,,,,,80.1694976,13.0594837
+POINT (80.2526813 13.0327786),clinic,,600018.0,clinic,,,,,80.2526813,13.0327786
+POINT (80.2247278 13.0313209),clinic,Siva clinic,,clinic,,,,,80.2247278,13.0313209
+POINT (80.2048268 13.0862108),clinic,Neuro Clinic,,clinic,,,,,80.2048268,13.086210799999998
+POINT (80.1983714 13.0860731),clinic,Dr. Ram's Diabetes & Endocrine Clinic,,clinic,,,,,80.1983714,13.0860731
+POINT (80.1983243 13.0856328),clinic,Heart Care Clinic,,,,,,,80.1983243,13.0856328
+POINT (80.2077881 13.1058085),clinic,Swami Eye Clinic & Surgi Center,,clinic,,,,,80.2077881,13.1058085
+POINT (80.192537 13.0855051),clinic,Anbu Dental Implant & Maxillofacial Clinic,,clinic,,,,,80.192537,13.085505099999995
+POINT (80.2217057 13.0298741),clinic,Viji Clinic,600033.0,clinic,,,,,80.2217057,13.0298741
+POINT (80.2098688 13.1055632),clinic,GK Clinic,,clinic,,,,,80.2098688,13.1055632
+POINT (80.2474284 13.0291736),clinic,Diabetes and Heart Care Clinic,,clinic,,,,,80.2474284,13.029173599999996
+POINT (80.2697182 13.0199102),clinic,,,clinic,,,,,80.26971820000001,13.019910199999998
+POINT (80.2362823 13.057865),clinic,BK ENT care,600034.0,clinic,,,,,80.2362823,13.057864999999998
+POINT (80.2348714 13.055823),clinic,Suman Clinic,600034.0,clinic,,,,,80.2348714,13.055823
+POINT (80.2530089 13.0723143),clinic,,,,,,,,80.2530089,13.0723143
+POINT (80.2457288 13.0464568),clinic,Aryan Clinic,,clinic,,,,,80.2457288,13.0464568
+POINT (80.2657441 13.0708359),clinic,,,clinic,,,,,80.2657441,13.0708359
+POINT (80.2254523 13.1193228),clinic,"Raju Nursing Home, Chennai",600082.0,clinic,Chennai,"7/1, Laxmanan Nagar Paper Mills Road",Tamil Nadu,OpenGovernmentData,80.2254523,13.1193228
+POINT (80.1876882 13.0844879),clinic,"Raj Nursing Home, Tiruvallur",600037.0,clinic,Tiruvallur,"1/234, Mmda, Mogappair East",Tamil Nadu,OpenGovernmentData,80.1876882,13.0844879
+POINT (80.2560469 13.0793555),clinic,Sundaravadanan Nursing Home,600010.0,clinic,Chennai,"#136, Ponamallee High Road",Tamil Nadu,OpenGovernmentData,80.2560469,13.0793555
+POINT (80.2847452 13.1116559),clinic,"Angel Nursing Home, Washermenpet",600021.0,clinic,Chennai,"26/21, Telugu St, Washermanpet",Tamil Nadu,OpenGovernmentData,80.2847452,13.111655900000002
+POINT (80.2065495 13.0477799),clinic,Vijaya Institute Of Trauma and Orthopadics,600026.0,clinic,Chennai,"No.175, N.S.K.Salai, Vadapalani",Tamil Nadu,OpenGovernmentData,80.2065495,13.047779899999998
+POINT (80.2042052 13.0223545),clinic,"Mother and Child Care Clinic, Chennai",600032.0,,Chennai,"No:5/4, 3Road Cross Street, Balaji Nagar , Ekkattuthangal",Tamil Nadu,OpenGovernmentData,80.2042052,13.0223545
+POINT (80.2090412 13.1025336),clinic,"Mohan Nursing Home, Tiruvallur",600049.0,clinic,Tiruvallur,M.T.H.. Road Villivakkam Chennai - 49,Tamil Nadu,OpenGovernmentData,80.2090412,13.1025336
+POINT (80.206874 13.0074586),clinic,Mina Nursing Home,600032.0,,Chennai,"22/12, G.S.T Road, Guindy",Tamil Nadu,OpenGovernmentData,80.206874,13.0074586
+POINT (80.2355951 13.0440054),clinic,R.M.D. Nursing Home,600017.0,clinic,Chennai,"13, Raghaviah Road, T Nagar",Tamil Nadu,OpenGovernmentData,80.2355951,13.044005399999998
+POINT (80.2496512 13.1122071),clinic,"Priya Nursing Home, Perambur",600011.0,,Chennai,"10/84, Paddy Field Road, Perambur",Tamil Nadu,OpenGovernmentData,80.2496512,13.112207099999996
+POINT (80.2889456 13.1192888),clinic,"Priya Nursing Home, Chennai",600021.0,clinic,Chennai,"82, Kappal Polu Street Old Washermenpet",Tamil Nadu,OpenGovernmentData,80.2889456,13.1192888
+POINT (80.2430315 13.0425395),clinic,Sri Ramana Eye Center,600001.0,clinic,Chennai,"11, Gopalakrishna Street, T Nagar",Tamil Nadu,OpenGovernmentData,80.2430315,13.042539500000002
+POINT (80.2315973 13.1173689),clinic,Sri Sai Sankara Dental Clinic And Orthodontic Cent,600082.0,clinic,Chennai,"80/2, 34 Srp Koil St., T.V.K.Nagar",Tamil Nadu,OpenGovernmentData,80.2315973,13.1173689
+POINT (80.2665116 13.0422887),clinic,Sri Sayee Poly Clinic,600004.0,clinic,Chennai,"#37,Oid#17Bheemasena Garden St., Mylapore",Tamil Nadu,OpenGovernmentData,80.2665116,13.0422887
+POINT (80.2639461 13.0224512),clinic,Prakriti Ayurvedic Center,600028.0,clinic,Chennai,"No.22,2nd Main Road,R.A. Puram",Tamil Nadu,OpenGovernmentData,80.2639461,13.022451200000004
+POINT (80.1891057 12.9850289),clinic,Sriram Dental Clinic and Orthodontic Centre,600060.0,clinic,Tiruvallur,"5/4, 29Th St., Nanganallur, Chennai",Tamil Nadu,OpenGovernmentData,80.1891057,12.985028899999998
+POINT (80.2858047 13.1217763),clinic,M.K. Nursing Home,600021.0,clinic,Chennai,"Clock Tower, Tondiarpet, Rathna Sabapathy Street",Tamil Nadu,OpenGovernmentData,80.2858047,13.121776300000002
+POINT (80.2343653 13.0727703),clinic,Padmini Nursing Home,600031.0,clinic,Chennai,"9, Pachaiyappa College Hostel Road Chetpet",Tamil Nadu,OpenGovernmentData,80.2343653,13.072770300000004
+POINT (80.2596237 13.0213249),clinic,Raja Annamalai Puram Dispensary No.6,600028.0,centre,Chennai,"Kamaraj Saalai, R.A.Puram",Tamil Nadu,OpenGovernmentData,80.2596237,13.021324900000002
+POINT (80.2588713 13.0813437),clinic,Joseph Eye Clinic,600007.0,clinic,Chennai,"21.Ritherdon Road,Vepery",Tamil Nadu,OpenGovernmentData,80.2588713,13.0813437
+POINT (80.2044077 13.0057455),clinic,Dr Radha Rajendran Nursing Home Pvt Ltd,600016.0,clinic,Kanchipuram,"New No:9, Old No 4A Vembuliamman Koil Street Alandur",Tamil Nadu,OpenGovernmentData,80.2044077,13.005745499999998
+POINT (80.2339844 13.0863886),clinic,Regina Nursing Home,600010.0,clinic,Chennai,"3, Mandapam Road, Kilpauk",Tamil Nadu,OpenGovernmentData,80.2339844,13.086388599999998
+POINT (80.2681853 13.028161),clinic,The Surgical Clinic and Nursing Home,600028.0,clinic,Chennai,"Old No -15 /New 26-28, Norton Road",Tamil Nadu,OpenGovernmentData,80.2681853,13.028161
+POINT (80.2586031 12.9959072),clinic,Balaji Nursing Home - Chennai,600041.0,clinic,Chennai,"No.3,Third Street Malavia Avenue, Thiruvanmiyur",Tamil Nadu,OpenGovernmentData,80.2586031,12.995907199999998
+POINT (80.1493795 13.0247168),clinic,Getwel Dental Clinic,600016.0,,Kanchipuram,"N..94 First Floor,Kundrathure Main Road,Porur,Chennai",Tamil Nadu,OpenGovernmentData,80.1493795,13.024716800000002
+POINT (80.2207484 12.9815305),clinic,Ramana Clinic And Nursing Home,600004.0,clinic,Chennai,"320-A(47-A), Velachery Main Road, Velachery",Tamil Nadu,OpenGovernmentData,80.2207484,12.981530499999998
+POINT (80.2576214 13.0490968),clinic,Gopalapuram Dispensary,600086.0,centre,Chennai,"No.1, 1st Street,Gopalapuram",Tamil Nadu,OpenGovernmentData,80.2576214,13.0490968
+POINT (80.2034474 13.0854776),clinic,Uma Eye Clinic Pvt.Ltd,600040.0,clinic,Chennai,"182,Plot No.995 `O` 2nd, Anna Nagar",Tamil Nadu,OpenGovernmentData,80.2034474,13.0854776
+POINT (80.2712363 13.0177421),clinic,Apollo Cosmetic Clinic,600018.0,,Chennai,"No. 14, Jayammal Street Teynampat",Tamil Nadu,OpenGovernmentData,80.2712363,13.0177421
+POINT (80.2419198 13.1118191),clinic,Subiksha Nursing Home,600011.0,clinic,Chennai,"New.No.32,(Old No.45), Bunder Garden,2nd Street, Perambur",Tamil Nadu,OpenGovernmentData,80.2419198,13.1118191
+POINT (80.2127641 13.0473231),clinic,SMV Nursing Home,600026.0,clinic,Chennai,"No:68, Near Vengeshwaran Temple, Vadapalani, South Sivan Koil St",Tamil Nadu,OpenGovernmentData,80.2127641,13.0473231
+POINT (80.2461 13.1272912),clinic,Fathima Nursing Home,600118.0,clinic,Chennai,"No.6, Moolakadai Junction, Moolakadai, Kamarajar High Road",Tamil Nadu,OpenGovernmentData,80.2461,13.1272912
+POINT (80.2415872 13.0780413),clinic,Halsted Surgical Clinic,600010.0,clinic,Chennai,"815, Poonamalle High Road",Tamil Nadu,OpenGovernmentData,80.2415872,13.0780413
+POINT (80.2217737 13.010217),clinic,Guindy Dispensary,600032.0,centre,Chennai,"Block No.6/1-5, BCGStaff Quarters, Guindy",Tamil Nadu,OpenGovernmentData,80.2217737,13.010217
+POINT (80.2775791 13.0290932),clinic,Fathimah Eye Clinic,600004.0,clinic,Chennai,"No. 23, Arulanandam Street, Santhome",Tamil Nadu,OpenGovernmentData,80.2775791,13.0290932
+POINT (80.2468979 13.086608),clinic,Dr. Meera Nursing Home,600010.0,clinic,Chennai,"# 142/9, Akshaya Building , Purasawalkam High Road, Kellys",Tamil Nadu,OpenGovernmentData,80.2468979,13.086607999999998
+POINT (80.1800171 13.0828407),clinic,Nivaren Maternity Clinic,600037.0,clinic,Tiruvallur,J J Nagar East Mugappair,Tamil Nadu,OpenGovernmentData,80.1800171,13.082840699999997
+POINT (80.2469087 13.0027257),clinic,Voluntary Health Services Medical Centre,600113.0,,Chennai,Chennai,Tamil Nadu,OpenGovernmentData,80.2469087,13.002725699999996
+POINT (80.2200463 12.9743958),clinic,Aarthi Priyas Tooth Care Clinic,600042.0,clinic,Chennai,"No. 5, C-Block, Paramount Park, Mega Mart(Upstair), Vijaya Nagar, Velachery",Tamil Nadu,OpenGovernmentData,80.2200463,12.974395800000002
+POINT (80.2376792 13.1102609),clinic,Bharani Nursing Home,600011.0,clinic,Chennai,"No.62,Foxen Street Perambur",Tamil Nadu,OpenGovernmentData,80.2376792,13.1102609
+POINT (80.2082151 12.9378832),clinic,Balagandhara Varma Nursing Home and Research Center,600100.0,clinic,Kanchipuram,"17, First Main Road Iit Colony",Tamil Nadu,OpenGovernmentData,80.20821510000002,12.937883200000002
+POINT (80.2374941 13.0533846),clinic,Bagdi Nursing Home,600017.0,clinic,Chennai,"2, New Giri Road, T. Nagar",Tamil Nadu,OpenGovernmentData,80.2374941,13.053384599999998
+POINT (80.2583543 13.0863304),clinic,C.U. Shah Clinic And Diagnostic Center,600007.0,clinic,Chennai,"# 4,Ritherdon Road,Pursaivakam",Tamil Nadu,OpenGovernmentData,80.2583543,13.086330399999998
+POINT (80.2587748 13.0815684),clinic,Ritherdon Nursing Home,600007.0,clinic,Chennai,"21, Ritherdon Road, Vepery",Tamil Nadu,OpenGovernmentData,80.2587748,13.081568399999998
+POINT (80.2909854 13.1098612),clinic,Rathina Clinic,600013.0,clinic,Chennai,"# 15, Thoppai Street, Royapuram",Tamil Nadu,OpenGovernmentData,80.2909854,13.109861199999996
+POINT (80.284929 13.1113476),clinic,Rathenam Nursing Home,600021.0,clinic,Chennai,"No.1, Kaligarayan Street, Iii Lane, Old Washermenpet",Tamil Nadu,OpenGovernmentData,80.284929,13.111347599999998
+POINT (80.258056 13.0331886),clinic,Suraksha Ent Care Centre,600018.0,,Chennai,"Thoppu New No 2 (Old No 64) Dr. Ranga Road, Abhiramapuram",Tamil Nadu,OpenGovernmentData,80.258056,13.0331886
+POINT (80.2821958 13.0970567),clinic,Janaki E.N.T. Nursing Home,600001.0,clinic,Chennai,"29, Nagamani Garden Street, Seven Wells South, Near Govindappa Naicken Street end, George Town, Flower Bazar Police Station",Tamil Nadu,OpenGovernmentData,80.28219580000001,13.097056699999998
+POINT (80.2822602 13.1129411),clinic,Ishwarya Nursing Home,600021.0,clinic,Chennai,"New # 7, Kooresan Street",Tamil Nadu,OpenGovernmentData,80.2822602,13.1129411
+POINT (80.2279428 13.1168517),clinic,Sheeba Multi Speciality Clinic,600082.0,clinic,Chennai,"No.25/17,70 Feet Road,Jawahar Nagar",Tamil Nadu,OpenGovernmentData,80.2279428,13.1168517
+POINT (80.20008 12.9926586),clinic,Sarathy Nursing Home,600088.0,,Kanchipuram,"28, Vellala East 2nd Street, Adambakkam",Tamil Nadu,OpenGovernmentData,80.20008,12.9926586
+POINT (80.2506946 13.1063124),clinic,Julian Nursing Home,600012.0,clinic,Chennai,"96, Perambur High Road, Near Jamalia Bus Stop Kamalia",Tamil Nadu,OpenGovernmentData,80.2506946,13.1063124
+POINT (80.2894968 13.122272),clinic,Jayam Nursing Home,600021.0,clinic,Chennai,"53,Thandavaraya Mudali Street,Old Washermanpet",Tamil Nadu,OpenGovernmentData,80.2894968,13.122272000000002
+POINT (80.2699743 13.0265892),clinic,Jaya Eye Clinic,600028.0,clinic,Chennai,"12, Norton 3Road Lane Mandavelipakkam",Tamil Nadu,OpenGovernmentData,80.2699743,13.026589199999998
+POINT (80.2097064 13.0313072),clinic,Maya Nursing Home Pvt Ltd,600083.0,clinic,Chennai,"B - 225, 15Th Avenue Ashok Nagar",Tamil Nadu,OpenGovernmentData,80.2097064,13.031307200000002
+POINT (80.2263898 13.1165682),clinic,Eswari Nursing Home,600082.0,clinic,Chennai,"1/255, 10Th Street S R P Colony",Tamil Nadu,OpenGovernmentData,80.22638980000002,13.1165682
+POINT (80.2730508 13.0644964),clinic,Lister Nursing Home,600002.0,clinic,Chennai,"#3/2,Appavood Street",Tamil Nadu,OpenGovernmentData,80.2730508,13.0644964
+POINT (80.2575208 13.0007709),clinic,"Lifeline Cliniq , Adyar",600020.0,clinic,Chennai,"37, 1st Avenue, Sastri Nagar, Adyar",Tamil Nadu,OpenGovernmentData,80.2575208,13.000770899999996
+POINT (80.2481371 13.1089757),clinic,Sree Narayana Nursing Home,600011.0,clinic,Chennai,"No 7, Bharathi Road Perambur",Tamil Nadu,OpenGovernmentData,80.2481371,13.1089757
+POINT (80.1712127 13.0395058),clinic,Sri Hanu Nursing Home,600087.0,,Tiruvallur,"New No.2,Old No.22,Vani Nagar,Valasaravakkam",Tamil Nadu,OpenGovernmentData,80.1712127,13.0395058
+POINT (80.1854472 13.0455758),clinic,Sri Ganesa Eye Clinic,600087.0,clinic,Tiruvallur,"3/A, Sathyam Flats Ground Floor, Cholan Street, Alwarthirunagar",Tamil Nadu,OpenGovernmentData,80.1854472,13.045575799999998
+POINT (80.2137016 13.0388943),clinic,Vaman Clinic Eye and Ent Care,600083.0,clinic,Chennai,"Kala Flats, Ashok Nagar",Tamil Nadu,OpenGovernmentData,80.21370160000001,13.0388943
+POINT (80.2573344 12.969346),clinic,S.S Nursing Home,600041.0,clinic,Chennai,"1/28, Vasudevan Street East Coast Road",Tamil Nadu,OpenGovernmentData,80.2573344,12.969345999999998
+POINT (80.2159499 13.0696298),clinic,"Peoples Nursing Home, Chennai",600029.0,clinic,Chennai,"No.12/16, New Natarajapuram, Aminjikarai",Tamil Nadu,OpenGovernmentData,80.2159499,13.0696298
+POINT (80.2819745 13.1101185),clinic,"Shyamala Nursing Home, Chennai",600021.0,clinic,Chennai,"32, Cemetry Road Old Washermenpet",Tamil Nadu,OpenGovernmentData,80.2819745,13.110118500000004
+POINT (80.1861023 13.0452205),clinic,M.L Dental Clinic,600092.0,clinic,Chennai,"91/2,Arcot Road,Virugambakkam",Tamil Nadu,OpenGovernmentData,80.1861023,13.0452205
+POINT (80.2079885 12.998194),clinic,N.K Clinic,600032.0,clinic,Chennai,"No.51/3 Cart Truck Road, Maduvankarai,Near Beta Matriculation School Guindy",Tamil Nadu,OpenGovernmentData,80.2079885,12.998194
+POINT (80.2723642 13.0576423),clinic,Nambi Nursing Home and Research Centre,603001.0,,Kanchipuram,"#21, Devarajan Street",Tamil Nadu,OpenGovernmentData,80.2723642,13.0576423
+POINT (80.1932403 13.0154215),clinic,Nandambakkam Dispensary,600089.0,centre,Chennai,"Quarter No.16-19 CDA Residential Complex, Nandambakkam",Tamil Nadu,OpenGovernmentData,80.1932403,13.015421500000002
+POINT (80.2481747 13.0666173),clinic,Nungambakkam Dispensary CandB Block,600006.0,centre,Chennai,"Nungambakkam Dispensary CandB Block, 1stFloor, Shastri Bhavan, Haddows Road",Tamil Nadu,OpenGovernmentData,80.2481747,13.066617299999995
+POINT (80.2351539 13.0768865),clinic,Padma Clinic And Nursing Home,600010.0,clinic,Chennai,"753, Poonamallee High Road Kilpauk",Tamil Nadu,OpenGovernmentData,80.2351539,13.0768865
+POINT (80.2124181 13.0479576),clinic,P&G Nursing Home,600026.0,clinic,Chennai,"No. 42, Near Sivan Koil (Venueshwarar Temple), Vadapalani, 100 Feet Road Jawaharlal Nehru Road",Tamil Nadu,OpenGovernmentData,80.2124181,13.047957599999998
+POINT (80.2008538 13.0939374),clinic,Shivas Eye Care,600040.0,,Chennai,"Plot No:1824/1, 18Th Main Road, Anna Nagar",Tamil Nadu,OpenGovernmentData,80.2008538,13.093937400000002
+POINT (80.2260934 13.1255776),clinic,Shepherd Nursing Home,600022.0,clinic,Chennai,"No. 19, Kumaran Nagar, Main Road, Peravallur Peravallur",Tamil Nadu,OpenGovernmentData,80.2260934,13.1255776
+POINT (80.2594614 13.0976393),clinic,Perambur Dispensary,600012.0,centre,Chennai,"No 28, Perambur HighRoad, Perambur",Tamil Nadu,OpenGovernmentData,80.2594614,13.097639300000004
+POINT (80.2463347 13.0029165),clinic,Vhs Diabeted Research Centre,600113.0,,Chennai,T.T.T.I Post,Tamil Nadu,OpenGovernmentData,80.2463347,13.002916499999998
+POINT (80.2554783 12.9892035),clinic,Ponraj Eye Clinic,600002.0,clinic,Chennai,"138/2 L B Road,Thiruvanmiyur",Tamil Nadu,OpenGovernmentData,80.2554783,12.9892035
+POINT (80.2743041 13.0633102),clinic,Star Bone Joint Center,600005.0,clinic,Chennai,"# 2, Pillaiyar Koil Street, Triplicane",Tamil Nadu,OpenGovernmentData,80.2743041,13.0633102
+POINT (80.2462569 13.0836428),clinic,Akn Nursing Home,600010.0,clinic,Chennai,"20, Kellys Road Kilpauk",Tamil Nadu,OpenGovernmentData,80.2462569,13.083642799999996
+POINT (80.2728282 13.0365779),clinic,Sampat Nursing Home,600004.0,clinic,Chennai,"4, Nachiappa Street, Mylapore",Tamil Nadu,OpenGovernmentData,80.2728282,13.0365779
+POINT (80.2325615 13.0341895),clinic,Dr Vas Dental Clinic,600017.0,clinic,Chennai,"Old No.33,New No.10.Mannar Street,T.Nagar",Tamil Nadu,OpenGovernmentData,80.2325615,13.034189499999998
+POINT (80.146014 13.1164154),clinic,Sri Vaishnavi Nursing Home,600053.0,,Tiruvallur,"C-57,2nd Main Road, Thiruvenkada Nagar, Ambattur",Tamil Nadu,OpenGovernmentData,80.146014,13.1164154
+POINT (80.2247456 13.084629),clinic,Rajalakshmi Nursing Home,600102.0,clinic,Chennai,"D-93 (D-107), First Main Road, Anna Nagar",Tamil Nadu,OpenGovernmentData,80.2247456,13.084628999999998
+POINT (80.185183 13.0477067),clinic,Lalitha Nurshing Home,600087.0,clinic,Tiruvallur,"192,Nakeeran Street, Alwarthirunagar, Chennai",Tamil Nadu,OpenGovernmentData,80.185183,13.0477067
+POINT (80.224244 13.1225671),clinic,Kts Nursing Home,600099.0,clinic,Tiruvallur,"7/10, Bharathi Nagar, Balaji Nagar Main Road, Kolathur",Tamil Nadu,OpenGovernmentData,80.224244,13.122567099999998
+POINT (80.2162363 13.0883153),clinic,Darshan Eye Clinic,600040.0,clinic,Chennai,T-80 (New no.24) 5th Main Road,Tamil Nadu,OpenGovernmentData,80.2162363,13.0883153
+POINT (80.2883984 13.1169712),clinic,Sanjeevini Nursing Home,600021.0,clinic,Chennai,"80, Kappal Polu Street, Old Washermenpet",Tamil Nadu,OpenGovernmentData,80.2883984,13.1169712
+POINT (80.2876957 13.1168268),clinic,Vasantha Nursing Home,600012.0,clinic,Chennai,119 Sanjeevarayan Koil Street Old Washerman Pet,Tamil Nadu,OpenGovernmentData,80.2876957,13.1168268
+POINT (80.2227634 13.0257935),clinic,Sri Balaji Ent And Maternity Clinic,600015.0,clinic,Chennai,"29/59, Near West Jones Road, Saidapet, Sadayappan St",Tamil Nadu,OpenGovernmentData,80.2227634,13.0257935
+POINT (80.2283525 13.0266147),clinic,Vijay's Nursing Home,600035.0,clinic,Chennai,"39, West Road, West City Nagar",Tamil Nadu,OpenGovernmentData,80.2283525,13.0266147
+POINT (80.301336 13.1584009),clinic,Vinayak Clinic,600019.0,clinic,Tiruvallur,"76,South Mada St.,Thiruvottiyur",Tamil Nadu,OpenGovernmentData,80.301336,13.1584009
+POINT (80.1931438 13.0390577),clinic,Sucha Eye Cure,600078.0,clinic,Chennai,"Jothir Akshaya Flat-1 No-59, Munusamy Salai Kk Nagar West Near Pondy State Guest House",Tamil Nadu,OpenGovernmentData,80.1931438,13.039057700000004
+POINT (80.2415751 13.097668),clinic,Amruth Siddha and Ayurvedic Clinic,600023.0,clinic,Chennai,"#45/11,K.H Road,Ayanavaram,Opp T N S C Bank Near Ayanavaram Signal",Tamil Nadu,OpenGovernmentData,80.24157510000002,13.097668
+POINT (80.2217676 13.0607823),clinic,Siva Sakthi Nursing Home,600094.0,,Chennai,"No. 7, Venkateswara Lane, Anna Nednmpathai, Choolaimeda, Near Kodambakkam (Power House)",Tamil Nadu,OpenGovernmentData,80.2217676,13.0607823
+POINT (80.2170509 13.037934),clinic,Csm Nursing Home,600033.0,clinic,Chennai,"Old No:18 New No: 10, Westmambalam, Rukmani St",Tamil Nadu,OpenGovernmentData,80.2170509,13.037933999999998
+POINT (80.236031 13.0838165),clinic,Sree Sai Krishna Poly Clinic Hospital,600010.0,clinic,Chennai,"#32/1, (Old No.463/1),Kilpauk Garden Road ,Kilpauk",Tamil Nadu,OpenGovernmentData,80.236031,13.083816499999998
+POINT (80.2576784 13.0346684),clinic,Aarthi Scans,600018.0,,Chennai,"No 17, CV Raman Road",Tamil Nadu,OpenGovernmentData,80.2576784,13.0346684
+POINT (80.2321847 13.0312145),clinic,Sri Visa Clinic,600017.0,clinic,Chennai,"A Unit Of Sre Visa Clinic (P) Ltd, No.13,New Boag Road, T Nagar",Tamil Nadu,OpenGovernmentData,80.2321847,13.0312145
+POINT (80.2164307 13.0352086),clinic,Sri Hari Clinic,600083.0,clinic,Chennai,"61, 7Th Avenue, Ashok Kumar",Tamil Nadu,OpenGovernmentData,80.2164307,13.0352086
+POINT (80.2354315 13.0768382),clinic,Dr. A.G. Arumugam Nursing Home,600010.0,clinic,Chennai,"Old No.764, New No.402, Poonamallee High Road, (Chathurpujadoss Road), Kilpauk, Madras",Tamil Nadu,OpenGovernmentData,80.2354315,13.076838199999996
+POINT (80.2596062 13.0872141),clinic,Dr Ravishankars Eye Clinic and Nursing Home,600112.0,clinic,Chennai,"No.11, Hunters Road, (Near Clock Tower) Vepery",Tamil Nadu,OpenGovernmentData,80.2596062,13.0872141
+POINT (80.2645898 13.0489087),clinic,Seethapathy Nursing Home,600014.0,clinic,Chennai,"241,Royupattak High Road",Tamil Nadu,OpenGovernmentData,80.2645898,13.048908699999997
+POINT (80.2533312 12.991685),clinic,Adyar Dispensary,600020.0,centre,Chennai,"Block No l.122/169-170,CPWD Quarters, Indira Nagar, Adyar",Tamil Nadu,OpenGovernmentData,80.2533312,12.991685
+POINT (80.2436035 13.1216418),clinic,Dr. M. Mohamed Meeran Clinic,600039.0,clinic,Chennai,"77, Paper Mills Road, Perambur",Tamil Nadu,OpenGovernmentData,80.2436035,13.121641800000004
+POINT (80.2456386 13.0782438),clinic,Ramarau Polyclinic,600010.0,clinic,Chennai,"New.No.264 (Old No 829/2), Poonamallee High Road, Kilpauk",Tamil Nadu,OpenGovernmentData,80.2456386,13.0782438
+POINT (80.2079107 13.0368),clinic,K.K. Nagar Dispensary and Polyclinic,600078.0,clinic,Chennai,"GPRA Complex, CPWD Quarters, K.K.Nagar",Tamil Nadu,OpenGovernmentData,80.2079107,13.0368
+POINT (80.2518544 13.0017764),clinic,Adyar Ortho Clinic,600020.0,clinic,Chennai,"108/2, Akhil Apartment, Kamaraj Avenue First Street, Kasturba Nagar Main Road, Adyar, near Nalli Silks, Chennai",Tamil Nadu,OpenGovernmentData,80.2518544,13.0017764
+POINT (80.2498239 13.0012776),clinic,Siloam Hospital,600020.0,clinic,Chennai,"Justice Ramaswamy Ave, Venkata Rathnam Nagar Extension, Rukmani Nagar, Adyar",Tamil Nadu,OpenGovernmentData,80.2498239,13.0012776
+POINT (80.2497784 13.0015495),clinic,Dr VK Jayalakshmi - Vishnu Fertility Centre,600020.0,clinic,Chennai,"No: 148, Kamaraj Ave 2nd St, Adyar",Tamil Nadu,OpenGovernmentData,80.2497784,13.0015495
+POINT (80.2517777 13.1308512),clinic,Shri Pooja Maternity Clinic,600118.0,clinic,Chennai,"Opp. Relince Fressh, M.R. Nagar, Tondiarpet High Road",Tamil Nadu,OpenGovernmentData,80.2517777,13.130851200000004
+POINT (80.302246 13.18013),clinic,Urban Health Poly Clinic,600057.0,clinic,Chennai,"Street No. 2 Jothi Nagar, Tiruvottiyur",Tamil Nadu,OpenGovernmentData,80.302246,13.180130000000002
+POINT (80.2012267 13.0583373),clinic,Sakthi Nursing Home,600093.0,,Chennai,"No.4, Near Nagathamman Koil St, Saligramam, M.G.R. Salai",Tamil Nadu,OpenGovernmentData,80.2012267,13.058337299999998
+POINT (80.2217663 13.0605437),clinic,Siva Sakthi Nursing Home,600094.0,,Chennai,"No:7, Near Anna Nedumapadhai Market, Choolaimedu, Venkateswara Lane",Tamil Nadu,OpenGovernmentData,80.2217663,13.060543699999998
+POINT (80.223972 13.12222),clinic,Kts Nursing Home,600099.0,clinic,Chennai,"No: 7/10, Near By Perambur Srinivasa Sweets, Kolathur, Bharathi Nagar Balaji Nagar Main Road",Tamil Nadu,OpenGovernmentData,80.223972,13.12222
+POINT (80.194729 13.05943),clinic,SBS Hospital Nursing Home,600092.0,,Chennai,"No.3, Virugambakkam, Iind Main Road Natesan Nagar",Tamil Nadu,OpenGovernmentData,80.194729,13.05943
+POINT (80.273916 13.05774),clinic,Subam Clinic,600005.0,clinic,Chennai,"239/4, Rathna Cafebus Stand, Triplicane, Triplicane High Road",Tamil Nadu,OpenGovernmentData,80.273916,13.057740000000004
+POINT (80.2857643 13.1192346),clinic,Ranga Nursing Home,600021.0,clinic,Chennai,"Near Maharani Post Office, Old Washermenpet, Thiruvottiyur High Road",Tamil Nadu,OpenGovernmentData,80.2857643,13.1192346
+POINT (80.2745047 13.0621485),clinic,RIDA Physiotherapy Clinic,600005.0,clinic,Chennai,"Near Star Theatre, Triplicane High Road, Triplicane, Quaide-Millath High Road",Tamil Nadu,OpenGovernmentData,80.2745047,13.062148499999996
+POINT (80.2796126 13.1069544),clinic,Hemakamal Nursing Home,600001.0,clinic,Cuddalore,"Kathbada Rd, Basin Bridge, Kathibada, Royapuram, Chennai",Tamil Nadu,OpenGovernmentData,80.2796126,13.106954399999998
+POINT (80.2350491 13.0566709),clinic,Dr. Premkumar's Orthopedic Clinic,,clinic,,,,,80.2350491,13.0566709
+POINT (80.2246285 13.0348047),clinic,Shree Chakra Maternity Clinic and Nursing Home,600033.0,clinic,Chennai,"Old No 108 New No: 4, T. Nagar Bus Stand Madley Subway, West Mambalam, Ellaiamman Koil Street",Tamil Nadu,OpenGovernmentData,80.2246285,13.0348047
+POINT (80.2419057 13.0340836),clinic,Kavitha Clinic,600017.0,clinic,Chennai,"71/89, T. Nagar, South Westboag Road",Tamil Nadu,OpenGovernmentData,80.2419057,13.034083600000002
+POINT (80.1911357 13.0298958),clinic,Hirsh Nursing Home,600089.0,clinic,Chennai,"No.35 Old No:5, Near Mgr Statue, Nesapakkam, Bharathi Nagar Main Road",Tamil Nadu,OpenGovernmentData,80.1911357,13.029895800000004
+POINT (80.192207 12.9854281),clinic,Acharya Clinic,600061.0,clinic,Chennai,"2Nd Main Rd, Ncbs Colony, Nanganallur",Tamil Nadu,OpenGovernmentData,80.192207,12.985428100000002
+POINT (80.2040772 12.9771173),clinic,Ram Skin Clinic,600021.0,clinic,Chennai,"248/777, Opp. H-3 Police Station, Tondiarpet, Thiruvottriyur High Road",Tamil Nadu,OpenGovernmentData,80.2040772,12.9771173
+POINT (80.2533929 13.1534531),clinic,Memisa Skin Clinic,600051.0,,Tiruvallur,Manali,Tamil Nadu,Local Knowledge,80.2533929,13.153453099999998
+POINT (80.246488 13.167576),clinic,Sri Jayakala Clinic,600051.0,clinic,Tiruvallur,Mathur,Tamil Nadu,Local Knowledge,80.246488,13.167576
+POINT (80.2121709 13.131644),clinic,Maaya Nursing Home,600099.0,clinic,Tiruvallur,Vadapalani,Tamil Nadu,Local Knowledge,80.2121709,13.131644
+POINT (80.3007588 13.1523024),clinic,M.A. Nursing Home,600019.0,clinic,Tiruvallur,"Rajakadai, Tiruvottiyur, Chennai",Tamil Nadu,Local Knowledge,80.3007588,13.1523024
+POINT (80.3009641 13.1521212),clinic,Gowtham Clinic,600019.0,clinic,Tiruvallur,"Thyagarajapuram, Tiruvottiyur, Chennai",Tamil Nadu,Local Knowledge,80.3009641,13.1521212
+POINT (80.2098306 13.1651744),clinic,Acharya Tulsi Clinic,600066.0,,Tiruvallur,"Puzhal, Lyon",Tamil Nadu,Local Knowledge,80.2098306,13.1651744
+POINT (80.200226 13.1724224),clinic,Mahalakshmi Clinic,600066.0,,Tiruvallur,"Gurushanthi Nagar, Kavankarai, Puzhal",Tamil Nadu,Local Knowledge,80.200226,13.1724224
+POINT (80.3012914 13.1517568),clinic,Dr. Anupama Roshan Skin Specialist,600019.0,clinic,Tiruvallur,"Kaladipet, Tiruchanankuppam, Chennai",Tamil Nadu,Local Knowledge,80.3012914,13.151756799999996
+POINT (80.199551 13.170706),clinic,Sri Kannan Clinic,600066.0,,Tiruvallur,,Tamil Nadu,Local Knowledge,80.199551,13.170706
+POINT (80.2073327 13.1327627),clinic,Dr. Ezhilarasi Clinic,600099.0,clinic,Tiruvallur,"Rajan Nagar, Lakshmipuram",Tamil Nadu,Local Knowledge,80.2073327,13.1327627
+POINT (80.3012826 13.1520648),clinic,Dr. Merwin Clinic,600019.0,clinic,Tiruvallur,"Thyagarajapuram, Tondiarpet, Chennai",Tamil Nadu,Local Knowledge,80.3012826,13.152064799999998
+POINT (80.2978175 13.1463416),clinic,Ropheka Polyclinic,600019.0,clinic,Tiruvallur,"Vasantha Nagar, Tiruvottiyur",Tamil Nadu,Local Knowledge,80.29781750000001,13.1463416
+POINT (80.2594403 13.1625945),clinic,Kvm Physiotherapy Clinic,600051.0,clinic,Tiruvallur,"Chinnasekkadu, Manali",Tamil Nadu,Local Knowledge,80.2594403,13.162594500000004
+POINT (80.247696 13.1675158),clinic,Srs Healthcare Clinic,600068.0,clinic,Tiruvallur,,Tamil Nadu,Local Knowledge,80.247696,13.1675158
+POINT (80.3009519 13.156041),clinic,Prasad ENT,600019.0,clinic,Tiruvallur,"Rajakadai, Tondiarpet, Chennai",Tamil Nadu,Local Knowledge,80.3009519,13.156040999999998
+POINT (80.2092573 13.1358049),clinic,Dr. Saravana's Ortho Clinic,600099.0,clinic,Tiruvallur,"Lakshmipuram, Kolathur",Tamil Nadu,Local Knowledge,80.2092573,13.1358049
+POINT (80.205369 13.1621341),clinic,Sri Malar Clinic,600066.0,,Tiruvallur,"Sakthivel Nagar, Puzhal",Tamil Nadu,Local Knowledge,80.205369,13.162134099999998
+POINT (80.2000625 13.1711581),clinic,GK Shree Health Clinic,600066.0,,Tiruvallur,Kavanagarai,Tamil Nadu,Local Knowledge,80.2000625,13.171158099999998
+POINT (80.2584421 13.1602832),clinic,Sri Vishnu Clinic,600068.0,clinic,Tiruvallur,"Chinnasekkadu, Manali",Tamil Nadu,Local Knowledge,80.2584421,13.1602832
+POINT (80.1814527 13.0471927),clinic,Yagnyaa Diabetes Clinic,600087.0,,Tiruvallur,Valasaravakkam,Tamil Nadu,Local Knowledge,80.1814527,13.047192699999998
+POINT (80.1858062 13.0456848),clinic,Maf Clinic,600087.0,clinic,Tiruvallur,"Alwartiru Ngar, Valasaravakkam",Tamil Nadu,Local Knowledge,80.1858062,13.045684800000002
+POINT (80.1844199 13.0447838),clinic,Sri Venkatesvara Physio and Obesity Centre,600087.0,clinic,Tiruvallur,"Arcot Road, Chennai",Tamil Nadu,Local Knowledge,80.1844199,13.044783799999998
+POINT (80.1820026 13.0456183),clinic,Latha Ravichandran Clinic,600087.0,,Tiruvallur,"Palaniappa Nagar, Valasaravakkam",Tamil Nadu,Local Knowledge,80.1820026,13.0456183
+POINT (80.184247 13.0442533),clinic,Jeevan Women Care Clinic,600095.0,clinic,Tiruvallur,"Valasaravakkam, Chennai",Tamil Nadu,Local Knowledge,80.184247,13.044253299999998
+POINT (80.1807184 13.0382058),clinic,Udhaya Sai Clinic,600087.0,,Tiruvallur,"Chowthri Nagar, Valasaravakkam",Tamil Nadu,Local Knowledge,80.1807184,13.038205800000002
+POINT (80.2370143 12.9428602),clinic,Sri Kumaran Clinic,600097.0,,Chengalpattu,Oggiyamduraipakkam,Tamil Nadu,Local Knowledge,80.2370143,12.9428602
+POINT (80.2327258 12.9347551),clinic,Jayadeva Fertility Centre and Women's Hospital,600097.0,clinic,Chengalpattu,Thoraipakkam,Tamil Nadu,Local Knowledge,80.2327258,12.9347551
+POINT (80.2361968 12.9458692),clinic,GV's Good Health Centre,600097.0,,Chengalpattu,Oggiyamduraipakkam,Tamil Nadu,Local Knowledge,80.2361968,12.945869200000004
+POINT (80.233537 12.933657),clinic,Sara Skin Clinic,600097.0,clinic,Chengalpattu,Oggiyamduraipakkam,Tamil Nadu,Local Knowledge,80.233537,12.933656999999998
+POINT (80.2355344 12.9338927),clinic,Eashwar Multispeciality Clinic,600097.0,clinic,Chengalpattu,"Raj Nagar, Oggiyamduraipakkam",Tamil Nadu,Local Knowledge,80.2355344,12.933892699999998
+POINT (80.2326608 12.9020392),clinic,Tharamai Child Care Clinic,600119.0,clinic,Chengalpattu,Sholinganallur,Tamil Nadu,Local Knowledge,80.2326608,12.9020392
+POINT (80.2331464 12.9337566),clinic,Apollo Clinic,600097.0,clinic,Chengalpattu,,Tamil Nadu,Local Knowledge,80.2331464,12.9337566
+POINT (80.228171 12.8994432),clinic,Dr. Nithiya Clinic,600119.0,clinic,Chengalpattu,"Ezhil Nagar, Sholinganallur",Tamil Nadu,Local Knowledge,80.228171,12.8994432
+POINT (80.2397616 12.9424446),clinic,Rayar Clinic,600097.0,,Chengalpattu,"Mettukuppam, Oggiyamduraipakkam",Tamil Nadu,Local Knowledge,80.2397616,12.9424446
+POINT (80.2344666 12.9334179),clinic,H.K. Clinic,600097.0,clinic,Chengalpattu,Oggiyamduraipakkam,Tamil Nadu,Local Knowledge,80.2344666,12.933417899999997
+POINT (80.2345155 12.9330206),clinic,Angel Child Clinic,600097.0,clinic,Chengalpattu,Oggiyamduraipakkam,Tamil Nadu,Local Knowledge,80.2345155,12.9330206
+POINT (80.2321791 12.9136451),clinic,Cure and Care Family Clinic,600097.0,clinic,Chengalpattu,Karappakam,Tamil Nadu,Local Knowledge,80.2321791,12.913645100000002
+POINT (80.2015489 12.9208368),clinic,Sri Vinayaga Clinic,600100.0,,Chengalpattu,"Jalladiampet, Medavakkam",Tamil Nadu,Local Knowledge,80.2015489,12.9208368
+POINT (80.2078664 12.9308777),clinic,S.M Clinic,600100.0,clinic,Chengalpattu,"Jeeva Nagar, Pallikaranai",Tamil Nadu,Local Knowledge,80.2078664,12.9308777
+POINT (80.202681 12.928255),clinic,Cuticle Skin Care Clinic,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.202681,12.928255
+POINT (80.203583 12.934049),clinic,Radial Ortho Clinic,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.203583,12.934049000000002
+POINT (80.2026963 12.928455),clinic,Bethany Physiotherapy Centre,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.2026963,12.928455
+POINT (80.2008099 12.9287243),clinic,Janya Child Clinic,600100.0,,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.2008099,12.9287243
+POINT (80.2017237 12.926507),clinic,Shree's Women Speciality Clinic,600100.0,,Chengalpattu,Medavakkam,Tamil Nadu,Local Knowledge,80.2017237,12.926507
+POINT (80.2051951 12.9280018),clinic,Al-Aafiyah Clinic,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.2051951,12.928001800000002
+POINT (80.202855 12.928347),clinic,Kiruba Clinic,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.202855,12.928347
+POINT (80.204033 12.935996),clinic,Sneham Clinic,600100.0,clinic,Chengalpattu,"Chittibabu Nagar, Pallikaranai",Tamil Nadu,Local Knowledge,80.204033,12.935995999999998
+POINT (80.2053961 12.9384098),clinic,Delicare Clinic,600100.0,clinic,Chengalpattu,Pallikaranai,Tamil Nadu,Local Knowledge,80.2053961,12.938409799999995
+POINT (80.213342 12.934834),clinic,Sathish Clinic,600100.0,clinic,Chengalpattu,"Shanti Nagar, Pallikaranai",Tamil Nadu,Local Knowledge,80.213342,12.934834
+POINT (80.2604704 12.9728845),clinic,Dani Physio Clinic,600041.0,clinic,Chengalpattu,Thiruvanmiyur,Tamil Nadu,Local Knowledge,80.2604704,12.9728845
+POINT (80.2594925 12.9752589),clinic,Noble Super Speciality Clinic,600041.0,clinic,Chengalpattu,Thiruvanmiyur,Tamil Nadu,Local Knowledge,80.2594925,12.975258899999998
+POINT (80.2555078 12.9753853),clinic,Turiya Care,600041.0,clinic,Chengalpattu,Thiruvanmiyur,Tamil Nadu,Local Knowledge,80.2555078,12.9753853
+POINT (80.1838246 13.0154658),clinic,Healthwise Clinic,600089.0,,Chengalpattu,"Tulasingapuram, Nandambakkam",Tamil Nadu,Local Knowledge,80.1838246,13.015465799999998
+POINT (80.2591196 12.9653707),clinic,Dr. Aleem's Homoeo Clinic,600041.0,clinic,Chengalpattu,"Palkalai Nagar, Palavakkam",Tamil Nadu,Local Knowledge,80.2591196,12.965370700000005
+POINT (80.2595079 12.9726702),clinic,Smiles Nature Cure,600041.0,clinic,Chengalpattu,"Karpagambal Nagar, Kottivakkam",Tamil Nadu,Local Knowledge,80.2595079,12.972670199999998
+POINT (80.186442 13.036466),clinic,Sri Renga Clinic,600083.0,,Chennai,"Mookambigai Nagar, Nesapakkam",Tamil Nadu,Local Knowledge,80.186442,13.036466
+POINT (80.2539494 12.9829583),clinic,Sri Sai Clinic,600041.0,clinic,Chennai,"Kamaraj Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.25394940000001,12.982958299999996
+POINT (80.2638132 12.9962691),clinic,Shri Gurukrupa Clinic,600090.0,clinic,Chennai,"Kakkan Nagar, Besant Nagar",Tamil Nadu,Local Knowledge,80.2638132,12.996269099999996
+POINT (80.259708 13.0221852),clinic,Dr. Vasantha's Eye Clinic,600028.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.25970800000002,13.0221852
+POINT (80.2660055 12.9956385),clinic,Synapse Pain and Spine Clinic,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2660055,12.9956385
+POINT (80.2630762 12.9960029),clinic,RR Clinic,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2630762,12.9960029
+POINT (80.2682429 12.9954269),clinic,Dr. Baranee's Sukra Diabetes Care,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2682429,12.9954269
+POINT (80.2622141 12.9866722),clinic,Best Siddha Clinic,600041.0,clinic,Chennai,Chennai,Tamil Nadu,Local Knowledge,80.2622141,12.986672199999996
+POINT (80.2606156 13.0297211),clinic,Sri Sarada Ayurveda Clinic,600028.0,clinic,Chennai,"Mandaveli, Chennai",Tamil Nadu,Local Knowledge,80.2606156,13.0297211
+POINT (80.2602795 13.0292453),clinic,Dr. Vasantha Clinic,600004.0,clinic,Chennai,"Narasimahapuram, Abiramapuram, Chennai",Tamil Nadu,Local Knowledge,80.2602795,13.0292453
+POINT (80.2601508 12.9863661),clinic,Drabaranam Pulmonology Clinic,600041.0,clinic,Chennai,"Kamaraj Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2601508,12.986366099999996
+POINT (80.2595179 12.9796957),clinic,Jeeva ENT Clinic,600041.0,clinic,Chennai,"Thiruvalluvar Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2595179,12.9796957
+POINT (80.2779849 13.0544077),clinic,Dr. Vasanthi Clinic,600005.0,clinic,Chennai,"Narayana Krishnaraja Puram, Triplicane",Tamil Nadu,Local Knowledge,80.2779849,13.054407700000002
+POINT (80.2585613 12.985598),clinic,Leela Eye Clinic,600041.0,clinic,Chennai,"Ambedkar Nagar, Kamaraj Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2585613,12.985597999999998
+POINT (80.2637162 12.9963121),clinic,The Homeo Clinic,600090.0,clinic,Chennai,"Anna Colony, Besant Nagar",Tamil Nadu,Local Knowledge,80.2637162,12.9963121
+POINT (80.2658475 13.0375294),clinic,Dr. N. Sekar,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2658475,13.0375294
+POINT (80.2685888 13.0397241),clinic,Ashwath Health Care,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2685888,13.039724100000004
+POINT (80.2641614 12.9962821),clinic,Jeyam Gastro Clinc,600090.0,clinic,Chennai,"Kakkan Nagar, Besant Nagar",Tamil Nadu,Local Knowledge,80.2641614,12.9962821
+POINT (80.2694554 12.9940564),clinic,Rekha Multispeciality Clinic,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2694554,12.994056399999998
+POINT (80.2629482 12.9949549),clinic,The Chennai Speciality Clinic,600090.0,clinic,Chennai,"Kalakshetra Colony, Besant Nagar",Tamil Nadu,Local Knowledge,80.2629482,12.9949549
+POINT (80.2584981 12.9790513),clinic,The Madras Pain Clinic,600041.0,clinic,Chennai,"Rajaji Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2584981,12.979051299999997
+POINT (80.2664963 13.042349),clinic,Sai Clinic,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2664963,13.042349000000002
+POINT (80.2626006 12.9964001),clinic,Akshaya Poly Clinic,600090.0,clinic,Chennai,"Vannanthurai, Besant Nagar",Tamil Nadu,Local Knowledge,80.2626006,12.9964001
+POINT (80.2582848 12.9969555),clinic,Dr. Prema Womens Clinic,600041.0,clinic,Chennai,"Shastri Nagar, Adyar",Tamil Nadu,Local Knowledge,80.2582848,12.9969555
+POINT (80.2585578 12.9978588),clinic,K.S. Subramanian Child Specialist,600020.0,clinic,Chennai,"Shastri Nagar, Adyar",Tamil Nadu,Local Knowledge,80.2585578,12.997858799999996
+POINT (80.2559655 12.9832651),clinic,Dr. Kavitha Iyer's Orthodontics & Dental Centre,600041.0,clinic,Chennai,"Kamaraj Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2559655,12.9832651
+POINT (80.2726053 13.0532206),clinic,B.K. Clinic,600014.0,clinic,Chennai,Triplicane,Tamil Nadu,Local Knowledge,80.2726053,13.0532206
+POINT (80.2595716 13.0318707),clinic,Sai Neuro Clinic,600004.0,,Chennai,"Mandaveli Railway Station, Abiramapuram, Chennai",Tamil Nadu,Local Knowledge,80.2595716,13.0318707
+POINT (80.2643211 12.9815891),clinic,Vethathiri Maharishi Siddha Clinic,600041.0,clinic,Chennai,"Thiruvalluvar Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2643211,12.9815891
+POINT (80.2580026 13.034819),clinic,Elixir Multi Speciality Centre,600018.0,,Chennai,"Alwarpet, Chennai",Tamil Nadu,Local Knowledge,80.2580026,13.034819
+POINT (80.2661832 12.994316),clinic,Akshi Vision Therapy,600090.0,clinic,Chennai,"Kalakshetra Colony, Besant Nagar",Tamil Nadu,Local Knowledge,80.2661832,12.994316
+POINT (80.2587762 12.9767853),clinic,Remedy Clinic,600041.0,clinic,Chennai,"Netaji Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2587762,12.9767853
+POINT (80.261741 12.982038),clinic,Sri Sai Homoeo Clinic,600041.0,clinic,Chennai,"Thiruvalluvar Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.261741,12.982038
+POINT (80.2612955 13.0373228),clinic,Sri Sai Speciality Clinic,600004.0,,Chennai,"Bhaskarapuram, Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2612955,13.037322800000002
+POINT (80.2642007 12.9964116),clinic,Nanthini Speciality Clinic,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2642007,12.996411599999997
+POINT (80.2543207 12.9827116),clinic,Appasamy Pillai Bone Setting Clinic,600041.0,clinic,Chennai,"Kamaraj Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.25432070000001,12.982711599999996
+POINT (80.2638733 12.9812766),clinic,Tharu Clinic,600041.0,clinic,Chennai,"Thiruvalluvar Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2638733,12.9812766
+POINT (80.2619646 12.993602),clinic,Sujetha Clinic,600041.0,clinic,Chennai,"Radhakrishnan Nagar, Adyar",Tamil Nadu,Local Knowledge,80.2619646,12.993601999999996
+POINT (80.2594242 12.9802929),clinic,Dr. K.Chandra ENT Clinic,600041.0,clinic,Chennai,"Saraswathi Nagar, Thiruvanmiyur",Tamil Nadu,Local Knowledge,80.2594242,12.980292899999998
+POINT (80.2590444 12.9854883),clinic,Sri Saradha Eye Clinic,600041.0,clinic,Chennai,Thiruvanmiyur,Tamil Nadu,Local Knowledge,80.2590444,12.9854883
+POINT (80.2620778 13.0428357),clinic,Chennai Urology Clinic,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2620778,13.042835699999998
+POINT (80.2678508 13.0374881),clinic,Children's Clinic,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.26785080000002,13.0374881
+POINT (80.2580809 12.9787624),clinic,Sreehareeyam Ayurveda,600041.0,clinic,Chennai,Thiruvanmiyur,Tamil Nadu,Local Knowledge,80.2580809,12.978762399999995
+POINT (80.2665 13.042006),clinic,Vijayganga Speciality Care,600004.0,clinic,Chennai,"Mylapore, Chennai",Tamil Nadu,Local Knowledge,80.2665,13.042006
+POINT (80.2771022 13.0554568),clinic,Homeopathy Clinic,600005.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.2771022,13.0554568
+POINT (80.2692643 12.9956803),clinic,Jayam Polyclinic,600090.0,clinic,Chennai,Besant Nagar,Tamil Nadu,Local Knowledge,80.2692643,12.9956803
+POINT (80.199977 13.056806),clinic,Revathi Child Care Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.199977,13.056805999999998
+POINT (80.1936068 13.0398827),clinic,Aishwarya Clinic,600083.0,clinic,Chennai,KK Nagar,Tamil Nadu,Local Knowledge,80.1936068,13.039882699999996
+POINT (80.20767 13.052893),clinic,Spn Orthopaedic Clinic,600026.0,clinic,Chennai,"Vadapalani, Chennai",Tamil Nadu,Local Knowledge,80.20767,13.052892999999994
+POINT (80.24239 13.0624604),clinic,Pranic Health,600034.0,clinic,Chennai,"Seetha Nagar, Nungambakkam, Chennai",Tamil Nadu,Local Knowledge,80.24239,13.062460399999996
+POINT (80.199068 13.051432),clinic,Lakshana Physiotherapy,600093.0,clinic,Chennai,"Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.199068,13.051431999999997
+POINT (80.2056967 13.0522176),clinic,Prime Health Care Clinics,600026.0,clinic,Chennai,"Kumaran Colony, Vadapalani, Chennai",Tamil Nadu,Local Knowledge,80.2056967,13.0522176
+POINT (80.1938731 13.0488672),clinic,Swathy Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1938731,13.0488672
+POINT (80.1862225 13.0463215),clinic,Jayanthi Skin and Bone Care Clinic,600095.0,clinic,Chennai,"Alwartirunagar, Valasaravakkam, Chennai",Tamil Nadu,Local Knowledge,80.1862225,13.0463215
+POINT (80.1959333 13.0385615),clinic,Anub Sivam Clinic,600083.0,clinic,Chennai,KK Nagar,Tamil Nadu,Local Knowledge,80.1959333,13.0385615
+POINT (80.2034981 13.0509757),clinic,Dr. J. Sarojini Homoeopathic Clinic,600093.0,clinic,Chennai,"Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.2034981,13.0509757
+POINT (80.1990412 13.0580674),clinic,Shri Sai Skin and Eye Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1990412,13.058067399999995
+POINT (80.193165 13.0489648),clinic,Pulmo Care,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.193165,13.048964799999998
+POINT (80.1931668 13.0393234),clinic,Sucha Eye Cure,600078.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.1931668,13.0393234
+POINT (80.1995444 13.0554821),clinic,Ponni Nursing Home,600093.0,clinic,Chennai,"Annamalai Colony, Chennai",Tamil Nadu,Local Knowledge,80.1995444,13.0554821
+POINT (80.1895556 13.0484913),clinic,Sri Venkateswara Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1895556,13.0484913
+POINT (80.2007559 13.0510747),clinic,JKR Clinic,600093.0,clinic,Chennai,"Kannabiran Nagar, Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.2007559,13.0510747
+POINT (80.2462554 13.0567527),clinic,Skin Doctor,600034.0,clinic,Chennai,"Nungambakkam, Chennai",Tamil Nadu,Local Knowledge,80.2462554,13.0567527
+POINT (80.2073763 13.0524295),clinic,Madhu Clinic,600026.0,clinic,Chennai,"Vadapalani, Chennai",Tamil Nadu,Local Knowledge,80.2073763,13.0524295
+POINT (80.2412336 13.0619929),clinic,Dr. Rajaram Clinic,600034.0,clinic,Chennai,"Jayalakshmipuram, Nungambakkam, Chennai",Tamil Nadu,Local Knowledge,80.2412336,13.061992900000002
+POINT (80.1924907 13.0381951),clinic,Dr. A. Aravind Clinic,600083.0,clinic,Chennai,"MGR Nagar, Nesapakkam",Tamil Nadu,Local Knowledge,80.1924907,13.038195099999998
+POINT (80.2078101 13.0542711),clinic,Chitra Clinic,600026.0,clinic,Chennai,"Vadapalani, Chennai",Tamil Nadu,Local Knowledge,80.2078101,13.054271099999998
+POINT (80.1920141 13.0486566),clinic,Ruban Moses Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1920141,13.0486566
+POINT (80.1919214 13.0518895),clinic,Cura Health Plus,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1919214,13.051889499999996
+POINT (80.1943253 13.0422476),clinic,Sri Varma and Spine Care Centre,600083.0,clinic,Chennai,"Sector 10, K. K. Nagar",Tamil Nadu,Local Knowledge,80.1943253,13.042247599999996
+POINT (80.243411 13.0592237),clinic,Sri Sai Swamy Clinic,600034.0,clinic,Chennai,"Tirumurthy Nagar, Nungambakkam, Chennai",Tamil Nadu,Local Knowledge,80.243411,13.0592237
+POINT (80.1954994 13.0417465),clinic,American Eye Care Centre,600078.0,clinic,Chennai,"Santhiniketan Colony, K. K. Nagar",Tamil Nadu,Local Knowledge,80.1954994,13.0417465
+POINT (80.2036821 13.0535204),clinic,SV Vision & Dental Care,600093.0,clinic,Chennai,"Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.2036821,13.053520399999996
+POINT (80.2038876 13.0529876),clinic,Sakthi Natural Fertility Care,600093.0,clinic,Chennai,"Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.2038876,13.052987599999998
+POINT (80.2012135 13.0585803),clinic,Sakthi Nursing Home,600093.0,,Chennai,"Saligramam, Chennai",Tamil Nadu,Local Knowledge,80.2012135,13.058580299999996
+POINT (80.1985381 13.0542347),clinic,N.R.G. Multispeciality Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1985381,13.0542347
+POINT (80.1972002 13.0554179),clinic,Herba Clinic,600093.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1972002,13.055417899999997
+POINT (80.1895753 13.0496363),clinic,Vijay Anand Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1895753,13.049636299999998
+POINT (80.2062705 13.0519687),clinic,Lister Metropolis,600026.0,clinic,Chennai,"Vadapalani, Chennai",Tamil Nadu,Local Knowledge,80.2062705,13.0519687
+POINT (80.1922401 13.0519538),clinic,Dr. R. Muthukumar ENT Surgeon,600092.0,clinic,Chennai,"Swarnambigai Nagar, Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1922401,13.051953799999996
+POINT (80.199343 13.053108),clinic,Ezhilarasi Clinic,600093.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.199343,13.053107999999996
+POINT (80.2457812 13.0577596),clinic,D` Mas Joint Clinic,600034.0,clinic,Chennai,"Tirumurthy Nagar, Nungambakkam, Chennai",Tamil Nadu,Local Knowledge,80.2457812,13.0577596
+POINT (80.1922599 13.0511518),clinic,Jayam Diabetes Speciality Clinic,600092.0,clinic,Chennai,"Virugambakkam, Chennai",Tamil Nadu,Local Knowledge,80.1922599,13.051151799999994
+POINT (80.1868077 13.046215),clinic,Malar Homeopath Clinic,637001.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.1868077,13.046214999999998
+POINT (80.2656345 13.0860428),clinic,Orient Clinics,600112.0,clinic,Chennai,"Choolai, Chennai",Tamil Nadu,Local Knowledge,80.2656345,13.0860428
+POINT (80.2418747 13.0881756),clinic,Dr. V.G.K Memorial Homeo Clinic,600010.0,clinic,Chennai,"Sanyasipuram, Kilpauk, Chennai",Tamil Nadu,Local Knowledge,80.2418747,13.088175599999996
+POINT (80.2421118 13.0885541),clinic,Akn Nursing Home,600010.0,clinic,Chennai,"Kilpauk, Chennai",Tamil Nadu,Local Knowledge,80.2421118,13.088554100000003
+POINT (80.262082 13.07127),clinic,Metropolis Healthcare,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.262082,13.071269999999998
+POINT (80.2656477 13.0864725),clinic,Navakar I Care,600012.0,clinic,Chennai,"Periyamedu, Choolai, Chennai",Tamil Nadu,Local Knowledge,80.2656477,13.086472499999996
+POINT (80.2409391 13.0719723),clinic,Nandita's Clinic,600031.0,clinic,Chennai,"Chetpet, Chennai",Tamil Nadu,Local Knowledge,80.2409391,13.0719723
+POINT (80.257578 13.079584),clinic,Premier Health Centre,600084.0,clinic,Chennai,"Purasaiwakkam, Chennai",Tamil Nadu,Local Knowledge,80.257578,13.079584
+POINT (80.233925 13.076912),clinic,Padma Clinic & Nursing Home,600010.0,clinic,Chennai,"Kilpauk, Chennai",Tamil Nadu,Local Knowledge,80.233925,13.076912
+POINT (80.2705092 13.0752787),clinic,Vinayagam Clinic,600002.0,clinic,Chennai,"Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.2705092,13.075278699999997
+POINT (80.2555444 13.074758),clinic,Dr. Ilavarasan Ortho Clinic,600008.0,clinic,Chennai,"Egmore, Chennai",Tamil Nadu,Local Knowledge,80.25554440000002,13.074757999999996
+POINT (80.2688425 13.0747088),clinic,Nalam Clinic,600002.0,clinic,Chennai,"Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.2688425,13.074708800000002
+POINT (80.27068 13.0755581),clinic,Dr. Arjun Thomas Clinic,600002.0,clinic,Chennai,"Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.27068,13.0755581
+POINT (80.263297 13.082126),clinic,TMM Eye Centre,600007.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.263297,13.082126
+POINT (80.267898 13.090224),clinic,Vardhman Multispeciality,600112.0,clinic,Chennai,,Tamil Nadu,Local Knowledge,80.267898,13.090224
+POINT (80.2684334 13.0750341),clinic,Vembu Clinic,600002.0,clinic,Chennai,"Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.2684334,13.075034099999998
+POINT (80.257646 13.079529),clinic,Neuro Mind Care Clinic,600084.0,clinic,Chennai,"Egmore, Chennai",Tamil Nadu,Local Knowledge,80.257646,13.079529
+POINT (80.267103 13.0763548),clinic,Dr. Sridharan Clinic,600002.0,clinic,Chennai,"Adikesavarpuram, Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.267103,13.076354799999995
+POINT (80.2331613 13.0821498),clinic,"Psy Hub, Brain and Behaviour",600010.0,clinic,Chennai,"Kilpauk, Chennai",Tamil Nadu,Local Knowledge,80.2331613,13.082149799999998
+POINT (80.2407506 13.070275),clinic,Dr. Sukumar's Skin Clinic,600031.0,clinic,Chennai,"Chetpet, Chennai",Tamil Nadu,Local Knowledge,80.2407506,13.070275
+POINT (80.2679228 13.0734625),clinic,Dr. A Manivannan Clinic,600002.0,clinic,Chennai,"Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.2679228,13.073462499999996
+POINT (80.2461467 13.0846937),clinic,Dr. Sundar's Homoeopathic Clinic,600010.0,clinic,Chennai,"Kilpauk, Chennai",Tamil Nadu,Local Knowledge,80.2461467,13.0846937
+POINT (80.2693127 13.0756085),clinic,Kabeer Clinic,600002.0,clinic,Chennai,"Adikesavarpuram, Chintadripet, Chennai",Tamil Nadu,Local Knowledge,80.2693127,13.0756085
+POINT (80.2212904 13.1244332),clinic,Kottakkal Arya Vaidya Sala Clinic,600099.0,clinic,Chennai,"Somanathapuram, Kolathur",Tamil Nadu,Local Knowledge,80.2212904,13.1244332
+POINT (80.2254809 13.1161848),clinic,Obg Health Point,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2254809,13.1161848
+POINT (80.230222 13.1102844),clinic,Spectrum Pediatric Therapy,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.230222,13.110284399999998
+POINT (80.2278922 13.1178155),clinic,Hiran Eye Retina Centre,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2278922,13.1178155
+POINT (80.2197712 13.1262133),clinic,Annai Eye Clinic,600099.0,clinic,Chennai,"Red Hills Road, Ponniammanmedu",Tamil Nadu,Local Knowledge,80.2197712,13.126213300000002
+POINT (80.2239462 13.116713),clinic,GM Nursing Home,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2239462,13.116713
+POINT (80.2161334 13.1293965),clinic,Dr. Rao's Clinic,600099.0,clinic,Chennai,Kolathur,Tamil Nadu,Local Knowledge,80.2161334,13.1293965
+POINT (80.2123936 13.1224029),clinic,Child Care Clinic,600082.0,clinic,Chennai,"Poompuhar Nagar, Kolathur, Chennai",Tamil Nadu,Local Knowledge,80.2123936,13.1224029
+POINT (80.2251062 13.1207062),clinic,G.R Clinic,600082.0,clinic,Chennai,"Lakshmanan Nagar, Kolathur, Chennai",Tamil Nadu,Local Knowledge,80.2251062,13.1207062
+POINT (80.2286067 13.1175414),clinic,Maayi Nursing Home,600099.0,clinic,Chennai,"Jawahar Nagar, Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2286067,13.1175414
+POINT (80.2174972 13.1272226),clinic,American Dental Care,600082.0,clinic,Chennai,"Vivek Nagar, Kolathur",Tamil Nadu,Local Knowledge,80.2174972,13.1272226
+POINT (80.224138 13.116675),clinic,Jaya Eye Clinic,600082.0,clinic,Chennai,"Kolathur, Chennai",Tamil Nadu,Local Knowledge,80.224138,13.116675
+POINT (80.2269961 13.1171076),clinic,Elangovan ENT Surgeon,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2269961,13.1171076
+POINT (80.2191464 13.1260152),clinic,Cure Plus Clinic,600099.0,clinic,Chennai,"Siva Parvathi Nagar, Kolathur",Tamil Nadu,Local Knowledge,80.2191464,13.126015199999996
+POINT (80.2221769 13.12251),clinic,Sugam Ortho Clinic,600099.0,clinic,Chennai,"Anjugam Nagar, Kolathur, Chennai",Tamil Nadu,Local Knowledge,80.2221769,13.12251
+POINT (80.2250502 13.116533),clinic,Sendoor Clinic,600082.0,clinic,Chennai,"Perambur, Chennai",Tamil Nadu,Local Knowledge,80.2250502,13.116533
+POINT (80.2168565 13.1277489),clinic,Akshita Speciality Clinic,600099.0,clinic,Chennai,"Perambur Red Hills Road, Girija Nagar, Kolathur",Tamil Nadu,Local Knowledge,80.2168565,13.1277489
+POINT (80.2210295 13.1220895),clinic,GR Clinic,600082.0,clinic,Chennai,"Santhi Nagar, Kolathur",Tamil Nadu,Local Knowledge,80.2210295,13.122089499999998
+POINT (80.218505 13.119731),clinic,G K Clinic,600099.0,clinic,Chennai,"Kolathur, Chennai",Tamil Nadu,Local Knowledge,80.218505,13.119730999999998
+POINT (80.2085925 13.0290009),clinic,Veekays Pet Care Clinic,,clinic,,,,,80.2085925,13.0290009
+POINT (80.2010012 13.0388056),clinic,Sham's Rheumatic Care Centre,600078.0,clinic,,,,,80.2010012,13.038805600000002
+POINT (80.1855413 13.0946251),clinic,Suguna Clinic,600050.0,clinic,,,,,80.1855413,13.094625100000002
+POINT (80.1814241 13.095401),clinic,Mohan Clinic,,clinic,,,,,80.1814241,13.095401
+POINT (80.1811597 12.9780615),clinic,Government Mini Clinic,,,,,,,80.1811597,12.9780615
+POINT (80.1868929 13.1076382),clinic,,600080.0,,,,,,80.1868929,13.1076382
+POINT (80.201478 13.1245764),clinic,Trident medicare center,,clinic,,,,,80.201478,13.1245764
+POINT (80.2875876 13.0969386),clinic,Sri Lakshmi Clinic,,clinic,,,,,80.2875876,13.096938599999998
+POINT (80.2799297 13.0974459),clinic,Kumaran Physiotherapy & Pain Relief Clinic,,clinic,,,,,80.2799297,13.097445900000002
+POINT (80.279272 13.0965132),clinic,Mahaveer Health Care Services,,clinic,,,,,80.279272,13.096513200000002
+POINT (80.2798213 13.0958069),clinic,G.T. Clinic,,clinic,,,,,80.2798213,13.095806899999996
+POINT (80.209299 13.1225226),clinic,,,,,,,,80.209299,13.1225226
+POINT (80.2806005 13.0974018),clinic,Sakthi Clinic - Dr. B. Palani,,clinic,,,,,80.2806005,13.0974018
+POINT (80.2752345 13.0826233),clinic,Apollo Emergency Medical Centre,,clinic,,,,,80.2752345,13.082623299999996
+POINT (80.2576709 13.0061507),clinic,,,clinic,,,,,80.2576709,13.006150699999994
+POINT (80.3147634 13.1889086),clinic,Chinnus Blood Testing,,clinic,,,,,80.3147634,13.1889086
+POINT (80.3153353 13.1881126),clinic,RG Clinic,,clinic,,,,,80.3153353,13.188112599999998
+POINT (80.3150883 13.1877986),clinic,RG Clinic Diabetologist,,clinic,,,,,80.3150883,13.187798600000002
+POINT (80.2524798 13.0728153),clinic,The Hive Fertility Centre,,,,,,,80.2524798,13.0728153
+POINT (80.2435995 13.0531057),clinic,Capstone Clinic,,,,,,,80.2435995,13.053105699999998
+POINT (80.2307333 13.0149516),clinic,Dr Abirami's skincare clinic,,clinic,,,,,80.2307333,13.014951599999998
+POINT (80.2145746 13.1295572),clinic,SRI CHAKRA SCANS,,clinic,,,,,80.2145746,13.1295572
+POINT (80.2592225 13.0967132),clinic,Vee Kay,,clinic,,,,,80.2592225,13.0967132
+POINT (80.1951197 13.0414947),clinic,Sudar Medical Centre,600078.0,clinic,,,,,80.1951197,13.041494699999998
+"POLYGON ((80.1481277 13.1218095, 80.1481626 13.1218764, 80.1483632 13.1217769, 80.1483282 13.12171, 80.1481277 13.1218095))",clinic,Iswarya Fertility Center,600053.0,clinic,Chennai,,,,80.1482454360131,13.12179319734408
+"POLYGON ((80.2564042 12.9608984, 80.2563873 12.9608135, 80.2564679 12.9607945, 80.2564938 12.9608826, 80.2564042 12.9608984))",clinic,Government Dispensary,600041.0,clinic,,,,,80.25643885705007,12.960847831383791
+"POLYGON ((80.2890493 13.0914609, 80.2890483 13.091455, 80.2890379 13.091391, 80.2887932 13.0914256, 80.288807 13.0915124, 80.2888693 13.0915038, 80.2888667 13.091486, 80.2890493 13.0914609))",clinic,KHM Medical Centre,,clinic,,,,,80.288916228163,13.091446434443762
+"POLYGON ((80.2844784 13.1029448, 80.2845022 13.1030449, 80.2844826 13.103049, 80.2843117 13.1030881, 80.2842879 13.1029877, 80.2842992 13.1029851, 80.2843822 13.1029664, 80.2844784 13.1029448))",clinic,Mother Diagnostic Centre,,clinic,,,,,80.28439493318454,13.10301629654914
+"POLYGON ((80.149764 13.1237156, 80.1498327 13.1239145, 80.1497079 13.1239748, 80.1496305 13.1237684, 80.149764 13.1237156))",clinic,Swathi Fertility Centre,,clinic,,,,,80.14973301212487,13.123842874940385

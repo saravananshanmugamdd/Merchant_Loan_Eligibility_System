@@ -1,0 +1,384 @@
+geometry,amenity,atm,brand:wikipedia,name,name:en,short_name,branch,website,addr:city,addr:postcode,building,longitude,latitude
+POINT (80.2578002 13.0410323),bank,yes,en:State Bank of India,State Bank of India,State Bank of India,SBI,,,,,,80.2578002,13.041032299999996
+POINT (80.2785099 13.0831682),bank,yes,en:State Bank of India,State Bank of India,,SBI,Park town,,,,,80.2785099,13.083168199999996
+POINT (80.2479934 13.0464174),bank,,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.2479934,13.0464174
+POINT (80.247755 13.0454637),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,https://www.canarabank.com/,,,,80.247755,13.0454637
+POINT (80.1869881 12.9806778),bank,yes,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.1869881,12.9806778
+POINT (80.1883166 12.9828378),bank,yes,en:Axis Bank,Axis Bank,Axis Bank,,,https://www.axisbank.com,Chennai,600061.0,,80.1883166,12.9828378
+POINT (80.1883597 12.985929),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,https://www.canarabank.com/,,,,80.1883597,12.985929
+POINT (80.1910107 12.9655924),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,,Chennai,600091.0,,80.1910107,12.965592399999998
+POINT (80.2546633 13.0380761),bank,,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2546633,13.038076099999998
+POINT (80.2583324 13.0386164),bank,yes,,Tamil Nadu Co-op Bank,,,,,,,,80.2583324,13.0386164
+POINT (80.2476605 13.0404846),bank,,en:HDFC Bank,HDFC Bank,,HDFC,,,,,,80.2476605,13.040484599999996
+POINT (80.2600797 13.0662305),bank,,en:Central Bank of India,Central Bank of India,Central Bank of India,,,https://www.centralbankofindia.co.in,,,,80.2600797,13.066230499999998
+POINT (80.2513078 13.0668492),bank,,,State Bank of India Zonal Office,,,,,,,,80.2513078,13.0668492
+POINT (80.248441 13.0671335),bank,,,Scope International Offices,,,,,,,,80.248441,13.0671335
+POINT (80.2482694 13.0675097),bank,,en:Standard Chartered,Standard Chartered,,,,,,,,80.2482694,13.067509700000002
+POINT (80.2162886 13.0844147),bank,,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2162886,13.084414699999998
+POINT (80.1664703 13.0308602),bank,yes,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.1664703,13.0308602
+POINT (80.181209 13.0221607),bank,yes,en:State Bank of India,State Bank of India,,SBI,SBI Nandambakkam,,,,,80.181209,13.0221607
+POINT (80.2452932 13.0341888),bank,,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.2452932,13.0341888
+POINT (80.2462888 13.0347323),bank,,en:ICICI Bank,ICICI Bank,,ICICI,,,,,,80.2462888,13.034732300000002
+POINT (80.2467204 13.0393986),bank,,en:State Bank of India,State Bank of India,,SBI,Pbb Anna Salai,https://www.sbi.co.in,Chennai,,,80.2467204,13.0393986
+POINT (80.2566048 13.0313502),bank,,en:State Bank of India,State Bank of India,,SBI,Abhiramapuram,https://www.sbi.co.in,Chennai,,,80.2566048,13.031350199999997
+POINT (80.2887576 13.0889948),bank,yes,en:State Bank of India,State Bank of India,,SBI,Chennai George Town,https://www.sbi.co.in,Chennai,,,80.2887576,13.088994799999996
+POINT (80.2843087 13.0862952),bank,yes,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.2843087,13.0862952
+POINT (80.2643178 13.037322),bank,,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2643178,13.037321999999998
+POINT (80.2650731 13.0372383),bank,,en:Bank of Baroda,Bank of Baroda,Bank of Baroda,BoB,,http://www.bankofbaroda.com,,,,80.2650731,13.0372383
+POINT (80.1932952 13.0559427),bank,yes,en:State Bank of India,State Bank of India,,SBI,,,,,,80.1932952,13.055942699999996
+POINT (80.1970943 13.0619832),bank,,,City Union Bank,City Union Bank,CUB,,,,,,80.1970943,13.061983199999997
+POINT (80.1923417 13.0567896),bank,,en:Vijaya Bank,State bank of India (SBI),Vijaya Bank,,,,,,,80.1923417,13.0567896
+POINT (80.2801769 13.1018679),bank,,en:Punjab National Bank,Punjab National Bank,Punjab National Bank,PNB,,https://www.pnbindia.in,,,,80.2801769,13.101867899999998
+POINT (80.2577325 13.033027),bank,yes,en:IDBI Bank,IDBI Bank,IDBI Bank,IDBI,,https://www.idbibank.in,Chennai,600018.0,,80.2577325,13.033027
+POINT (80.2064716 13.0767558),bank,,,Karur Vysya Bank,,,,,,,,80.2064716,13.0767558
+POINT (80.2717231 13.0750719),bank,yes,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2717231,13.0750719
+POINT (80.2433788 13.0494273),bank,yes,en:Canara Bank,Canara Bank,Canara Bank,,,https://www.canarabank.com/,,,,80.2433788,13.049427299999996
+POINT (80.1984492 12.9234851),bank,yes,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.19844920000001,12.9234851
+POINT (80.2029955 12.9290002),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2029955,12.9290002
+POINT (80.2031028 12.9292878),bank,yes,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2031028,12.929287799999996
+POINT (80.2643255 13.0266099),bank,yes,en:State Bank of India,State Bank of India,State Bank of India,SBI,Mandaveli,,,,,80.2643255,13.0266099
+POINT (80.2618783 12.9773096),bank,yes,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2618783,12.9773096
+POINT (80.1556788 13.1189755),bank,yes,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.1556788,13.118975499999996
+POINT (80.236607 13.0105048),bank,no,,Canara Bank,Canara Bank,,,,,600025.0,,80.236607,13.010504799999998
+POINT (80.2360276 13.0107323),bank,yes,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2360276,13.0107323
+POINT (80.2181878 12.9802599),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2181878,12.980259899999998
+POINT (80.2217431 12.9820021),bank,yes,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.2217431,12.9820021
+POINT (80.2188087 12.9713224),bank,yes,en:IDBI Bank,IDBI Bank,IDBI Bank,IDBI,Velachery,https://www.idbi.com,Chennai,600042.0,,80.2188087,12.9713224
+POINT (80.25424 13.0710517),bank,,en:Union Bank of India,Union Bank of India,Union Bank Of India,,,,Chennai,600008.0,,80.25424,13.0710517
+POINT (80.2192371 13.0387544),bank,yes,en:State Bank of India,SBI - State Bank of India,,SBI,,,,600033.0,,80.2192371,13.038754399999998
+POINT (80.1738116 13.0218724),bank,yes,,HDFC Bank,,HDFC,DLF IT Park Branch,,,,,80.1738116,13.021872399999998
+POINT (80.2197941 13.0365141),bank,yes,,Karnataka Bank,,,,,,,,80.2197941,13.036514099999998
+POINT (80.2209669 13.0349866),bank,,en:Bank of India,Bank of India,Bank of India,BoI,,https://www.bankofindia.co.in/,,,,80.2209669,13.034986599999998
+POINT (80.2208673 12.9750142),bank,yes,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2208673,12.9750142
+POINT (80.221554 12.9773797),bank,yes,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,https://www.icicibank.com,Chennai,600042.0,,80.221554,12.977379699999998
+POINT (80.2399511 12.9466667),bank,,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.2399511,12.946666699999998
+POINT (80.1998969 12.9933298),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.1998969,12.993329799999998
+POINT (80.1942351 12.9865035),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,600061.0,,80.1942351,12.9865035
+POINT (80.1879831 12.9782135),bank,yes,en:Bank of India,Bank of India,Bank of India,BoI,,https://www.bankofindia.co.in/,Chennai,,,80.1879831,12.9782135
+POINT (80.188364 12.9835837),bank,yes,en:State Bank of India,State Bank of India,,SBI,Nanganallur,,Chennai,600061.0,,80.188364,12.983583700000002
+POINT (80.1779341 13.0185837),bank,,en:Allahabad Bank,Allahabad Bank,Allahabad Bank,,,https://www.allahabadbank.in,,,,80.17793410000002,13.018583699999995
+POINT (80.188552 12.9835972),bank,,en:Union Bank of India,Union Bank of India,Union Bank of India,UBI,,https://www.unionbankofindia.co.in/,,,,80.188552,12.983597199999998
+POINT (80.2567427 13.0749608),bank,yes,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,https://www.icicibank.com,,,,80.2567427,13.0749608
+POINT (80.2422581 13.0350513),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2422581,13.035051299999996
+POINT (80.2185187 13.091894),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2185187,13.091893999999998
+POINT (80.2589304 12.9780023),bank,,,ICICI Bank,,ICICI,,,,,,80.25893040000001,12.9780023
+POINT (80.2556313 12.9883429),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2556313,12.988342899999996
+POINT (80.2562428 12.9907533),bank,,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2562428,12.990753300000002
+POINT (80.2078803 13.0662485),bank,,,"Chennai Co-operative Bank, SAF Games Village",,,,,,,,80.2078803,13.066248499999997
+POINT (80.1887825 12.9829228),bank,,,Kanchipuram Cooperative Society Bank,,,,,,,,80.1887825,12.9829228
+POINT (80.1859959 12.9855316),bank,yes,en:Punjab National Bank,Punjab National Bank,Punjab National Bank,PNB,,https://www.pnbindia.in,,,,80.1859959,12.9855316
+POINT (80.1858832 12.9871207),bank,yes,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.1858832,12.9871207
+POINT (80.1923971 12.9847392),bank,yes,en:Karnataka Bank,Karnataka Bank,,,Ltd,,,,,80.1923971,12.9847392
+POINT (80.2304384 12.9250623),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,Chennai,600097.0,,80.2304384,12.925062299999995
+POINT (80.2183745 13.0844643),bank,yes,en:Canara Bank,Canara Bank,Canara Bank,,Anna Nagar,https://www.canarabank.com/,Chennai,600040.0,,80.2183745,13.0844643
+POINT (80.1918289 12.9730016),bank,yes,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.1918289,12.973001600000002
+POINT (80.234096 13.0370131),bank,yes,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.234096,13.0370131
+POINT (80.2455467 13.0308653),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,,,,80.2455467,13.0308653
+POINT (80.2532833 13.0386988),bank,yes,en:Punjab National Bank,Punjab National Bank,Punjab National Bank,PNB,,https://www.pnbindia.in,chennai,600018.0,,80.2532833,13.0386988
+POINT (80.2230059 13.0224668),bank,no,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2230059,13.022466799999998
+POINT (80.2241076 13.0221903),bank,yes,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,https://www.icicibank.com,Chennai,600015.0,,80.2241076,13.022190299999997
+POINT (80.227231 13.0244353),bank,yes,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,600015.0,,80.227231,13.024435300000002
+POINT (80.2252479 13.0444066),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2252479,13.0444066
+POINT (80.2271485 13.0505769),bank,,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.2271485,13.050576899999998
+POINT (80.2241619 13.0548465),bank,,en:Bank of India,Bank of India,Bank of India,BoI,,https://www.bankofindia.co.in/,,,,80.22416190000001,13.0548465
+POINT (80.2359004 13.043019),bank,yes,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.2359004,13.043019
+POINT (80.2409517 13.0515011),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.2409517,13.0515011
+POINT (80.2213102 12.8954906),bank,yes,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2213102,12.8954906
+POINT (80.2395463 13.0407297),bank,,en:Bank of India,Bank of India,Bank of India,BoI,,https://www.bankofindia.co.in/,,,,80.2395463,13.040729699999998
+POINT (80.2211579 13.0395257),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,https://www.hdfcbank.com,Chennai,600033.0,,80.2211579,13.0395257
+POINT (80.252504 12.9993994),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,IOB,,https://www.iob.in,,,,80.252504,12.9993994
+POINT (80.2511529 12.9983711),bank,,en:Indian Bank,Indian Bank,Indian Bank,,,https://www.indianbank.in/,,,,80.2511529,12.998371099999998
+POINT (80.2570811 12.9992779),bank,,en:Bank of Baroda,Bank of Baroda,Bank of Baroda,BoB,,http://www.bankofbaroda.com,,,,80.2570811,12.999277899999996
+POINT (80.2540371 12.9993751),bank,,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,,,80.2540371,12.999375100000002
+POINT (80.2215816 13.036293),bank,,,City Union Bank,City Union Bank,CUB,,,,,,80.2215816,13.036293
+POINT (80.2204383 12.9739114),bank,yes,en:Axis Bank,Axis Bank,Axis Bank,,Velachery,https://www.axisbank.com,Chennai,600042.0,,80.22043830000001,12.9739114
+POINT (80.2553762 12.9587561),bank,,,ICICI Bank,ICICI Bank,ICICI,,https://www.icicibank.com,,,,80.2553762,12.9587561
+POINT (80.2240568 13.0695175),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2240568,13.069517500000002
+POINT (80.2489015 13.0645741),bank,,en:State Bank of India,State Bank of India,,SBI,,,,600006.0,,80.2489015,13.064574100000002
+POINT (80.223536 12.983151),bank,yes,en:UCO Bank,UCO Bank,UCO Bank,,,https://www.ucobank.com,,,,80.223536,12.983150999999998
+POINT (80.260596 13.0685113),bank,,,VIJAYA BANK & DUGAR FINANCE INDIA LTD,,,,,,600008.0,,80.260596,13.068511300000004
+POINT (80.2600725 13.0722106),bank,,en:State Bank of India,State Bank of India,,SBI,,https://www.sbi.co.in,,600008.0,,80.26007250000002,13.072210600000002
+POINT (80.2596746 13.071737),bank,,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,KVB,,https://www.kvb.co.in,,,,80.2596746,13.071737
+POINT (80.2594527 13.0716039),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2594527,13.071603899999998
+POINT (80.2578717 13.074852),bank,,en:Axis Bank,Axis Bank,Axis Bank,,& ATM,https://www.axisbank.com,,,,80.2578717,13.074852
+POINT (80.2608673 13.0684257),bank,,,VIJAYA BANK,,,,,,,,80.2608673,13.068425700000002
+POINT (80.2155874 13.0246097),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2155874,13.0246097
+POINT (80.2413299 12.9970311),bank,,,Canara Bank,Canara Bank,,,,,600036.0,,80.2413299,12.997031099999996
+POINT (80.2424961 13.0404429),bank,,,Chennai central cooperative bank,,,,,,,,80.2424961,13.0404429
+POINT (80.1832616 13.0278579),bank,,,HDFC Bank,HDFC BANK,HDFC,,,,,,80.1832616,13.0278579
+POINT (80.2468024 13.0675883),bank,,en:HDFC Bank,HDFC Bank,HDFC Bank,HDFC,,,,600006.0,,80.2468024,13.067588300000002
+POINT (80.2242876 13.0692534),bank,,en:Karur Vysya Bank,Karur Vysya Bank,Karur Vysya Bank,,,,,,,80.2242876,13.0692534
+POINT (80.2594227 13.0428997),bank,yes,en:Andhra Bank,Andhra Bank,Vodafone office for SIMs for foreigners;Andhra Bank,,,https://www.andhrabank.in,,600018.0,,80.2594227,13.042899699999998
+POINT (80.2468836 13.067615),bank,yes,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,,,,,,,80.24688360000002,13.067615
+POINT (80.2533852 13.0738584),bank,,en:HDFC Bank,HDFC Bank,HDFC Bank,HDFC,,,,600008.0,,80.25338520000001,13.0738584
+POINT (80.2534283 13.073756),bank,,en:Indian Bank,Indian Bank,Indian Bank,,,,,600008.0,,80.2534283,13.073756
+POINT (80.2533189 13.0739672),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,,,600008.0,,80.2533189,13.073967199999998
+POINT (80.2528637 13.0717246),bank,,en:Corporation Bank,Corporation Bank,Corporation Bank,,,,,600008.0,,80.2528637,13.0717246
+POINT (80.236367 13.0400035),bank,,,பஞ்ஐாப் நேஷனல் வங்கி,,,,,,,,80.236367,13.0400035
+POINT (80.2622329 13.0831875),bank,,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,,,,,80.2622329,13.083187499999998
+POINT (80.2434146 13.1120015),bank,,en:State Bank of India,State Bank of India,State Bank of India,SBI,,,,,,80.2434146,13.112001499999996
+POINT (80.2597051 13.0444847),bank,,,Unknown,T.t.k road,,,,,,,80.2597051,13.044484699999998
+POINT (80.2476261 13.0412133),bank,,,Unknown,Oriental insurance company,,,,,,,80.2476261,13.0412133
+POINT (80.2625917 13.083969),bank,,en:Axis Bank,Axis Bank,Axis Bank,,,,,,,80.2625917,13.083968999999998
+POINT (80.2554321 12.9995841),bank,,,Indian Overseas Bank,Indian Overseas Bank,,,,,600020.0,,80.2554321,12.999584100000002
+POINT (80.225057 12.9785549),bank,yes,en:State Bank of India,State Bank of India,,SBI,,,,,,80.225057,12.9785549
+POINT (80.2608433 13.0392735),bank,no,,ICICI Wealth Management Bank,,,,,chennai,600004.0,,80.2608433,13.0392735
+POINT (80.2728894 13.0670878),bank,,en:State Bank of India,State Bank of India,,SBI,Walajah Road,,,,,80.2728894,13.0670878
+POINT (80.2281259 12.9000451),bank,,,Indian Bank,,,Sholinganallur,,,,,80.2281259,12.900045099999998
+POINT (80.2065688 13.019768),bank,,en:Axis Bank,Axis Bank,,,,,,,,80.2065688,13.019768
+POINT (80.2017935 13.0854015),bank,,en:Kotak Mahindra Bank,Kotak Mahindra Bank,,,,,,,,80.2017935,13.0854015
+POINT (80.2066454 13.0198992),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2066454,13.019899199999998
+POINT (80.2433647 13.1132518),bank,,,Unknown,Karur Vaysya Bank,,,,,,,80.2433647,13.1132518
+POINT (80.2030307 13.0853972),bank,,en:HDFC Bank,HDFC Bank,,HDFC,,,,,,80.2030307,13.085397199999996
+POINT (80.253253 12.941612),bank,,,ICICI Bank,,ICICI,,,,,,80.25325300000002,12.941612
+POINT (80.2582089 12.9710351),bank,,,Tamilnad Mercantile Bank Limited,,,,,,,,80.2582089,12.9710351
+POINT (80.255784 12.9957343),bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,,,,,80.255784,12.9957343
+POINT (80.2398822 13.0398137),bank,,,DCB Bank,,,,,,,,80.2398822,13.039813699999998
+POINT (80.2086895 13.1025875),bank,,en:Axis Bank,Axis Bank,,,,,,,,80.2086895,13.102587499999997
+POINT (80.2053268 13.0169706),bank,yes,en:Canara Bank,Canara Bank,Canara Bank,,,,,,,80.2053268,13.016970600000002
+POINT (80.2350685 13.0580238),bank,,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,,,,,80.2350685,13.0580238
+POINT (80.2356223 13.057887),bank,,en:HDFC Bank,HDFC Bank,HDFC Bank,HDFC,,,,,,80.2356223,13.057887
+POINT (80.2117178 13.0548269),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2117178,13.054826899999998
+POINT (80.211646 13.0549473),bank,,en:Axis Bank,Axis Bank,,,,,,,,80.211646,13.054947299999998
+POINT (80.211892 13.0629802),bank,,,HDFC Bank,,HDFC,,,,,,80.211892,13.062980199999998
+POINT (80.1813314 13.0776275),bank,,,SBI Mogapair,,,,,,,,80.18133140000002,13.077627499999998
+POINT (80.2026997 12.940343),bank,,,Indian Overseas Bank,,,,,,,,80.2026997,12.940343
+POINT (80.2010183 13.1032078),bank,,en:Indian Bank,Indian Bank,,,,,,,,80.2010183,13.103207799999998
+POINT (80.2101607 13.0666944),bank,yes,,Federal Bank,,,,,,,,80.2101607,13.0666944
+POINT (80.2125602 13.0358003),bank,yes,en:Indian Bank,Indian Bank,,,,,,,,80.2125602,13.035800299999996
+POINT (80.2125295 13.0365047),bank,yes,en:Indian Bank,Indian Bank,,,,,,,,80.2125295,13.0365047
+POINT (80.2385434 13.0306399),bank,yes,en:Indian Bank,Indian Bank,,,,,,,,80.2385434,13.030639900000002
+POINT (80.2509637 12.9801314),bank,yes,,State Bank of India,,SBI,,,,600041.0,,80.2509637,12.980131399999998
+POINT (80.2369283 13.029706),bank,,,Unknown,Periyar Building,,,,,,,80.2369283,13.029705999999996
+POINT (80.2132247 13.0630925),bank,,en:ICICI Bank,ICICI Bank,,ICICI,,,,,,80.2132247,13.063092499999998
+POINT (80.2642763 13.0407718),bank,,,Unknown,"Union bank of india, mylapore branch",,,,,,,80.26427630000002,13.040771799999996
+POINT (80.1775218 13.0279585),bank,,en:Bank of Baroda,Bank of Baroda,,,Bank and ATM,,,,,80.1775218,13.0279585
+POINT (80.2558139 12.9925557),bank,,,Yes Bank,Yes Bank,,,,,,,80.2558139,12.9925557
+POINT (80.205581 13.0213401),bank,yes,,City Union Bank,City Union Bank,CUB,,,,,,80.205581,13.0213401
+POINT (80.2467787 13.0617768),bank,,en:ICICI Bank,ICICI Bank,Icici Bank,ICICI,,,,,,80.2467787,13.0617768
+POINT (80.2588466 13.0453027),bank,,en:HSBC,HSBC,Hsbc,,,,,,,80.2588466,13.0453027
+POINT (80.2461883 13.0297832),bank,,en:Axis Bank,Axis Bank,Axis bank,,,,,,,80.2461883,13.029783199999995
+POINT (80.2478011 13.029346),bank,,en:Union Bank of India,Union Bank of India,Union bank of india,,,,,,,80.2478011,13.029345999999997
+POINT (80.2573042 13.0497796),bank,,en:HDFC Bank,HDFC Bank,HDFC bank,HDFC,,,,,,80.2573042,13.049779599999995
+POINT (80.2584202 13.0491472),bank,,en:Axis Bank,Axis Bank,Axis bank,,,,,,,80.2584202,13.049147199999997
+POINT (80.1928382 13.014611),bank,,en:HDFC Bank,HDFC Bank,,HDFC,Nandambakkam Branch,,,,,80.1928382,13.014611
+POINT (80.1929615 13.0144646),bank,,en:Central Bank of India,Central Bank of India,,,Nandambakkam Branch,,,,,80.1929615,13.0144646
+POINT (80.1993053 13.0150508),bank,,,Tamilnad Mercantile Bank Limited,,,,,,,,80.1993053,13.015050799999996
+POINT (80.2657136 13.0638307),bank,,,State Bank of India,,SBI,,,,,,80.2657136,13.0638307
+POINT (80.2654083 13.0635654),bank,,en:Dhanlaxmi Bank,Dhanlaxmi Bank,Dhanlaxmi Bank,,,,,,,80.2654083,13.063565399999998
+POINT (80.2657743 13.0647232),bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,,,,,,,80.2657743,13.064723199999998
+POINT (80.265586 13.0645138),bank,,,Unknown,digibank by DBS,,,,,,,80.265586,13.0645138
+POINT (80.2676982 13.0649153),bank,,en:Kotak Mahindra Bank,Kotak Mahindra Bank,Kotak Mahindra Bank,,,,,,,80.2676982,13.0649153
+POINT (80.2677508 13.0645924),bank,,en:Punjab National Bank,Punjab National Bank,Punjab National Bank,,,,,,,80.2677508,13.064592399999997
+POINT (80.2121821 13.0330207),bank,,en:Yes Bank,Yes Bank,,,,,,,,80.2121821,13.033020699999998
+POINT (80.2122665 13.033542),bank,,en:Kotak Mahindra Bank,Kotak Mahindra Bank,,,,,,,,80.2122665,13.033542
+POINT (80.2421912 13.0584041),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,,,,,80.2421912,13.0584041
+POINT (80.2460383 13.0526267),bank,,en:Karur Vysya Bank,Karur Vysya Bank,,,,,,,,80.2460383,13.052626699999996
+POINT (80.244413 13.0550346),bank,,en:State Bank of India,State Bank of India,,SBI,,,,,,80.244413,13.0550346
+POINT (80.248171 13.0557901),bank,,en:Syndicate Bank,Syndicate Bank,,,,,,,,80.248171,13.0557901
+POINT (80.2249414 12.9863795),bank,,en:Central Bank of India,Central Bank of India,,,,,,,,80.2249414,12.986379499999996
+POINT (80.2164639 13.0340563),bank,,,IndusInd Bank,,,,,Chennai,600083.0,,80.2164639,13.034056299999998
+POINT (80.2240949 12.9773985),bank,,,Bandhan Bank,,,Velachery Branch,,,,,80.2240949,12.977398499999998
+POINT (80.2111489 13.0370302),bank,,en:Bank of Baroda,Bank of Baroda,,,,https://www.bankofbaroda.in/,,,,80.2111489,13.037030200000002
+POINT (80.2110613 13.0370699),bank,,en:Indian Overseas Bank,Indian Overseas Bank,,,,,,,,80.2110613,13.0370699
+POINT (80.2121346 13.0369499),bank,,en:Union Bank of India,Union Bank of India,,,,https://unionbankonline.co.in/,,,,80.2121346,13.0369499
+POINT (80.2087319 13.0279346),bank,,en:Indian Bank,Indian Bank,,,Jafferkhanpet Branch,https://indianbank.in/,,,,80.2087319,13.027934600000004
+POINT (80.2087881 13.0278797),bank,,en:Indian Overseas Bank,Indian Overseas Bank,,,,https://iob.in/,,,,80.2087881,13.0278797
+POINT (80.2083687 13.0292606),bank,,en:State Bank of India,State Bank of India,,SBI,,https://sbi.co.in/,,,,80.2083687,13.0292606
+POINT (80.2097763 13.0320089),bank,,en:Indian Overseas Bank,Indian Overseas Bank,,,,https://iob.in/,,,,80.20977630000002,13.0320089
+POINT (80.1921172 12.9651414),bank,yes,,Lakshmi Vilas Bank,,,,,,,,80.1921172,12.965141399999998
+POINT (80.2783908 13.0867154),bank,yes,,Tamilnad Mercantile Bank Limited,,,,,Chennai,600003.0,,80.2783908,13.086715399999996
+POINT (80.2786241 13.0867859),bank,no,,"MHPFNL - ""Mylapore Hindu Permanent Fund Nidhi Ltd.""",,,,https://www.mhpf.in/,Chennai,600003.0,,80.2786241,13.086785899999995
+POINT (80.2611433 13.0815279),bank,,en:Indian Overseas Bank,Indian Overseas Bank,,,Vepery,,,,,80.2611433,13.081527899999998
+POINT (80.2522371 13.0786074),bank,,en:State Bank of India,State Bank of India,,SBI,PH Road,,,,,80.2522371,13.0786074
+POINT (80.2445454 13.0779615),bank,,en:Punjab National Bank,Punjab National Bank,,,Vepery,,,,,80.2445454,13.0779615
+POINT (80.1902072 12.9692553),bank,,en:ICICI Bank,ICICI Bank,,ICICI,,,Chennai,600091.0,,80.1902072,12.9692553
+POINT (80.1905321 12.9709471),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,,Chennai,600091.0,,80.1905321,12.9709471
+POINT (80.1905068 12.970957),bank,,en:Tamilnad Mercantile Bank Limited,Tamilnad Mercantile Bank Limited,,,,,Chennai,600091.0,,80.1905068,12.970957
+POINT (80.1882555 12.9829761),bank,yes,en:IndusInd Bank,IndusInd Bank,,,,,Chennai,600061.0,,80.1882555,12.9829761
+POINT (80.1885166 12.9830599),bank,yes,en:RBL Bank,RBL Bank,,,,,Chennai,600061.0,,80.1885166,12.9830599
+POINT (80.2193388 12.9727296),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,,Chennai,600042.0,,80.2193388,12.9727296
+POINT (80.2194649 12.9729804),bank,,en:Karur Vysya Bank,Karur Vysya Bank,,,,,,,,80.2194649,12.9729804
+POINT (80.2250881 12.9780081),bank,,en:Union Bank of India,Union Bank of India,,,,,,,,80.2250881,12.978008100000002
+POINT (80.2237735 12.9826346),bank,,en:Punjab National Bank,Punjab National Bank,,,,,,,,80.2237735,12.9826346
+POINT (80.2235869 12.9827611),bank,,en:TNSC Bank,Chennai Central Co-operative Bank,,,,,Chennai,,,80.2235869,12.9827611
+POINT (80.2217396 12.9825077),bank,,en:Kotak Mahindra Bank,Kotak Mahindra Bank,,,,,,,,80.2217396,12.9825077
+POINT (80.2216938 12.9823172),bank,,en:TNSC Bank,Tamil Nadu State Apex Co-operative Bank,,,,,Chennai,600042.0,,80.2216938,12.982317199999995
+POINT (80.2224084 12.9764294),bank,,en:Canara Bank,Canara Bank,Canara Bank,,,,,,,80.2224084,12.9764294
+POINT (80.2208757 12.9806353),bank,,en:HDFC Bank,HDFC Bank,,HDFC,,,Chennai,600042.0,,80.2208757,12.9806353
+POINT (80.1926138 12.968401),bank,yes,en:Canara Bank,Canara Bank,Canara Bank,,Madipakkam Branch,,,,,80.1926138,12.968400999999998
+POINT (80.1885798 12.9834898),bank,yes,en:Kotak Mahindra Bank,Kotak Mahindra Bank,,,,,Chennai,600061.0,,80.1885798,12.983489799999996
+POINT (80.2405354 13.0414167),bank,,en:IDBI Bank,IDBI Bank,,IDBI,,,,,,80.2405354,13.041416699999996
+POINT (80.2409637 13.0424979),bank,,en:Federal Bank,Federal Bank,,,,,,,,80.2409637,13.0424979
+POINT (80.243722 13.0465972),bank,,en:Standard Chartered,Standard Chartered,,,,,,,,80.243722,13.0465972
+POINT (80.2439151 13.0474462),bank,,en:IndusInd Bank,IndusInd Bank,,,,,,,,80.2439151,13.0474462
+POINT (80.2470006 13.0615431),bank,yes,en:State Bank of India,State Bank of India,,SBI,,,,,,80.2470006,13.0615431
+POINT (80.1795548 13.0910254),bank,,,Catholic bank,,,,,,,,80.17955480000002,13.0910254
+POINT (80.1814386 13.0496017),bank,,en:Punjab National Bank,Punjab National Bank,,,Alwarthirunagar,,,,,80.1814386,13.0496017
+POINT (80.206025 12.9654607),bank,yes,en:ICICI Bank,ICICI Bank,,ICICI,Madipakkam Sadasivam Nagar,,,,,80.206025,12.9654607
+POINT (80.2277184 12.901192),bank,,,Axis Bank,,,,,,,,80.2277184,12.901192
+POINT (80.2295065 12.9164577),bank,,,ICICI Bank,,ICICI,,,,,,80.2295065,12.9164577
+POINT (80.227515 13.0526273),bank,,,Bank of Baroda,,,,,,,,80.227515,13.052627299999996
+POINT (80.285707 13.0904391),bank,,,State Bank of India,,SBI,,,,,,80.285707,13.0904391
+POINT (80.2877796 13.0905203),bank,,,Indian Overseas Bank,,,,,,,,80.2877796,13.0905203
+POINT (80.2478174 13.0630797),bank,,,Kotak Mahindra Bank,,,,,,,,80.2478174,13.0630797
+POINT (80.2478663 13.063778),bank,,,Central Bank of India,,,,,,,,80.2478663,13.063778
+POINT (80.2451858 13.061924),bank,yes,,HDFC Bank,,HDFC,,,,,,80.2451858,13.061923999999998
+POINT (80.1830587 12.9771337),bank,yes,,Federal Bank,,,,,,,,80.1830587,12.9771337
+POINT (80.1917861 12.9730716),bank,,,Indian Bank,,,Puzhuthivakkam Branch,,,,,80.1917861,12.9730716
+POINT (80.2432306 13.0607949),bank,,,Tamilnad Mercantile Bank Limited,,,,,,,,80.2432306,13.0607949
+POINT (80.2883195 13.0896476),bank,,,Punjab & Sind Bank,Punjab & Sind Bank,,,,,,,80.2883195,13.0896476
+POINT (80.2883011 13.0892806),bank,,,IDBI Bank,,IDBI,,,,,,80.2883011,13.0892806
+POINT (80.2886111 13.0897924),bank,,,HDFC Bank,,HDFC,,,,,,80.2886111,13.089792400000002
+POINT (80.2896312 13.0894323),bank,,,Canara Bank,Canara Bank,,,,,,,80.2896312,13.0894323
+POINT (80.2898299 13.0893372),bank,,,ICICI Bank,,ICICI,,,,,,80.2898299,13.0893372
+POINT (80.2898735 13.0898848),bank,,,Bank of Baroda,,,,,,,,80.2898735,13.0898848
+POINT (80.2859233 13.0886961),bank,,,Citibank,,Citi,,,,,,80.2859233,13.0886961
+POINT (80.2882337 13.0912179),bank,,,Karur Vysya Bank,,,,,,,,80.28823370000002,13.0912179
+POINT (80.2882875 13.0915085),bank,,,Punjab National Bank,,,,,,,,80.2882875,13.091508499999996
+POINT (80.2886227 13.092583),bank,,,Chennai Central Cooperative Bank,,,,,,,,80.28862270000002,13.092583
+POINT (80.2893867 13.0910043),bank,,,Punjab National Bank,,,,,,,,80.2893867,13.091004300000002
+POINT (80.2920476 13.0950595),bank,,,Indian Bank,,,,,,,,80.2920476,13.0950595
+POINT (80.2860215 13.0943159),bank,,,Canara Bank,Canara Bank,,,,,,,80.2860215,13.094315900000002
+POINT (80.2811801 13.0880096),bank,,,Axis Bank,,,,,,,,80.2811801,13.0880096
+POINT (80.2014673 13.1237155),bank,,,Indian Overseas Bank,,,,,,,,80.2014673,13.123715499999998
+POINT (80.2919861 13.0940733),bank,,,IndusInd Bank,,,,,,,,80.2919861,13.0940733
+POINT (80.2919568 13.0939502),bank,,,Bank of Baroda,,,,,,,,80.2919568,13.0939502
+POINT (80.2908288 13.0925719),bank,,,Central Bank of India,,,,,,,,80.2908288,13.0925719
+POINT (80.2859411 13.0934769),bank,,,Central Bank of India,,,,,,,,80.28594110000002,13.0934769
+POINT (80.2857288 13.0921637),bank,,,HDFC Bank,,HDFC,,,,,,80.2857288,13.0921637
+POINT (80.289276 13.094153),bank,,,Kotak Mahindra Bank,,,,,,,,80.289276,13.094153
+POINT (80.2892979 13.0955495),bank,,,Indian Overseas Bank,,,,,,,,80.2892979,13.095549499999995
+POINT (80.2885113 13.0944032),bank,,,Union Bank of India,,,,,,,,80.2885113,13.0944032
+POINT (80.2763808 13.0928991),bank,,,Indian Overseas Bank,,,,,,,,80.2763808,13.0928991
+POINT (80.2666103 13.0646953),bank,,,AU Small Finance Bank,,,,,,,,80.2666103,13.0646953
+POINT (80.2871168 13.100929),bank,,,IndusInd Bank,,,,,,,,80.2871168,13.100928999999995
+POINT (80.2867529 13.0985611),bank,,,ICICI Bank,,ICICI,,,,,,80.2867529,13.098561099999998
+POINT (80.2782617 13.0579451),bank,,,State Bank of India,,SBI,,,,,,80.2782617,13.057945099999998
+POINT (80.2934208 13.0982603),bank,,,Union Bank of India,,,,,,,,80.2934208,13.0982603
+POINT (80.2676265 12.9985753),bank,,,Indian Overseas Bank,,,,,,,,80.2676265,12.998575300000002
+POINT (80.2676437 12.997959),bank,,,RBL Bank,,,,,,,,80.2676437,12.997959
+POINT (80.2649164 13.0639909),bank,,,Central Bank of India,,,,,,,,80.2649164,13.0639909
+POINT (80.2573104 13.0581073),bank,,,City Union Bank,City Union Bank,CUB,,,,,,80.2573104,13.058107299999996
+POINT (80.2572934 13.0575953),bank,,,ICICI Bank,,ICICI,,,,,,80.2572934,13.0575953
+POINT (80.2696498 13.0669011),bank,,,Bank of India,,,,,,,,80.2696498,13.0669011
+POINT (80.2864233 13.0978333),bank,,,State Bank of India,,SBI,,,,,,80.28642330000001,13.0978333
+POINT (80.2864655 13.0979556),bank,,,Indian Overseas Bank,,,,,,,,80.2864655,13.0979556
+POINT (80.2475129 13.0437398),bank,,,State Bank of India,,SBI,,,,,,80.24751290000002,13.0437398
+POINT (80.2475424 13.0439058),bank,,,Union Bank of India,,,,,,,,80.2475424,13.043905799999996
+POINT (80.247527 13.0438069),bank,,,Karur Vysya Bank,,,,,,,,80.247527,13.043806899999998
+POINT (80.2900699 13.1002164),bank,,,Indian Bank,,,,,,,,80.2900699,13.1002164
+POINT (80.2421664 12.9597516),bank,yes,,Union Bank of India,,,,,,,,80.2421664,12.9597516
+POINT (80.2511496 13.0791182),bank,,,IndusInd Bank,,,,,,,,80.2511496,13.0791182
+POINT (80.2810679 13.0875244),bank,,,Bank of Baroda,,,,,,,,80.2810679,13.087524399999996
+POINT (80.2824543 13.0910449),bank,,,Karur Vysya Bank,,,,,,,,80.2824543,13.0910449
+POINT (80.2761978 13.0909564),bank,,,ICICI Bank,,ICICI,,,,,,80.2761978,13.090956399999998
+POINT (80.2754395 13.0908284),bank,,,State Bank of India,,SBI,,,,,,80.2754395,13.0908284
+POINT (80.2754412 13.0907101),bank,,,Karnataka Bank,,,,,,,,80.2754412,13.090710099999995
+POINT (80.2793192 13.0934942),bank,,,Kotak Mahindra Bank,,,,,,,,80.2793192,13.0934942
+POINT (80.2793254 13.0935349),bank,,,Yes Bank,,,,,,,,80.2793254,13.0935349
+POINT (80.2828391 13.0630659),bank,,,State Bank of India,,SBI,,,,,,80.2828391,13.0630659
+POINT (80.2817607 13.0931039),bank,,,Kotak Mahindra Bank,,,,,,,,80.2817607,13.0931039
+POINT (80.2800933 13.0981266),bank,,,Punjab National Bank,,,,,,,,80.2800933,13.0981266
+POINT (80.2800858 13.0980168),bank,,,HDFC Bank,,HDFC,,,,,,80.2800858,13.0980168
+POINT (80.2798139 13.0975467),bank,,,Indian Overseas Bank,,,,,,,,80.2798139,13.097546700000004
+POINT (80.2816277 13.0919694),bank,,,State Bank of India,,SBI,,,,,,80.2816277,13.091969400000002
+POINT (80.2813271 13.0912662),bank,,,Canara Bank,Canara Bank,,,,,,,80.2813271,13.0912662
+POINT (80.1794164 13.0833919),bank,,,Indian Bank,,,,,,,,80.1794164,13.083391899999995
+POINT (80.1748717 13.0835508),bank,,,HDFC Bank,,HDFC,,,,,,80.1748717,13.0835508
+POINT (80.17465 13.0835161),bank,,,ICICI Bank,,ICICI,,,,,,80.17465,13.0835161
+POINT (80.1750754 13.0839064),bank,,,Canara Bank,Canara Bank,,,,,,,80.1750754,13.0839064
+POINT (80.1747928 13.0838234),bank,,,UCO Bank,,,,,,,,80.1747928,13.083823399999998
+POINT (80.218097 12.9806179),bank,,,IndusInd Bank,,,,,,,,80.218097,12.9806179
+POINT (80.2180783 12.9806589),bank,,,Kotak Mahindra Bank,,,,,,,,80.2180783,12.9806589
+POINT (80.2772143 13.0880784),bank,,,Union Bank of India,,,Sowcarpet - 1,,,,,80.2772143,13.0880784
+POINT (80.2798679 13.1025082),bank,,,State Bank of India,,SBI,,,,,,80.2798679,13.1025082
+POINT (80.279893 13.1028199),bank,,,Axis Bank,,,,,,,,80.279893,13.1028199
+POINT (80.279886 13.1014329),bank,,,Canara Bank,Canara Bank,,,,,,,80.279886,13.1014329
+POINT (80.240524 13.0514338),bank,,,State Bank of India,,SBI,,,,,,80.240524,13.051433799999996
+POINT (80.2016609 13.1245244),bank,,,Axis Bank,,,,,,,,80.2016609,13.1245244
+POINT (80.2439349 13.0631813),bank,,,IDFC First Bank,,,,,,,,80.2439349,13.0631813
+POINT (80.256897 13.0349294),bank,,,Bank of Baroda,,,,,,,,80.25689700000001,13.034929399999998
+POINT (80.1481147 13.1213665),bank,,,Bank of Baroda,,,,,,,,80.1481147,13.1213665
+POINT (80.1492739 13.1177311),bank,,,HDFC Bank,,HDFC,,,,,,80.1492739,13.1177311
+POINT (80.1991948 13.0470681),bank,,,Axis Bank,,,,,,,,80.1991948,13.0470681
+POINT (80.238145 13.1377305),bank,,,Indian Overseas Bank,,,,,,,,80.238145,13.137730499999998
+POINT (80.2409765 13.1290586),bank,,,Union Bank of India,,,,,,,,80.2409765,13.1290586
+POINT (80.2386384 13.1345267),bank,,,Canara Bank,Canara Bank,,,,,,,80.2386384,13.134526699999997
+POINT (80.2678226 12.9961908),bank,,,AU Small Finance Bank,,,,,,,,80.2678226,12.9961908
+POINT (80.2631508 12.9963301),bank,,,Bank of Maharashtra,,,,,,,,80.2631508,12.996330099999998
+POINT (80.2509842 13.0064932),bank,,,Canara Bank,Canara Bank,,,,,,,80.2509842,13.0064932
+POINT (80.2385543 13.0499114),bank,,,HDFC Bank,,HDFC,,,,,,80.2385543,13.049911399999996
+POINT (80.2591402 12.9967424),bank,,,Kotak Mahindra Bank,,,,,,,,80.2591402,12.996742399999995
+POINT (80.2349792 13.040924),bank,,,Union Bank of India,,,,,,,,80.2349792,13.040924
+POINT (80.2352747 13.0412999),bank,,,Bank of Baroda,,,,,,,,80.2352747,13.0412999
+POINT (80.2293506 13.0146339),bank,,,Indian Overseas Bank,,,,,,,,80.2293506,13.0146339
+POINT (80.2277911 13.0742236),bank,,,Canara Bank,Canara Bank,,,,,,,80.2277911,13.0742236
+POINT (80.1838707 13.0712035),bank,,,City Union Bank,City Union Bank,CUB,,,,,,80.18387070000001,13.0712035
+POINT (80.1939565 13.0572144),bank,,,City Union Bank,City Union Bank,CUB,,,,,,80.1939565,13.0572144
+POINT (80.1934324 13.0561336),bank,,,Punjab National Bank,,,,,,,,80.1934324,13.0561336
+POINT (80.258723 13.0975418),bank,yes,,HDFC Bank,,HDFC,Pattalam,,,,,80.258723,13.0975418
+POINT (80.2249474 13.0150115),bank,,,Axis bank,,,,,,,,80.2249474,13.0150115
+POINT (80.2688872 13.0345303),bank,,,Bandhan Bank,,,,,,,,80.2688872,13.034530300000002
+POINT (80.2681818 13.0346467),bank,,,Indian Bank,,,,,,,,80.2681818,13.0346467
+POINT (80.2693667 13.0322398),bank,,,Axis Bank,,,,,,,,80.2693667,13.0322398
+POINT (80.2701912 13.032074),bank,,,Union Bank of India,,,,,,,,80.2701912,13.032073999999996
+POINT (80.1794701 13.0862648),bank,,,IndusInd Bank,,,,,,,,80.1794701,13.0862648
+POINT (80.2010885 13.0728167),bank,,,Axis Bank,,,Koyambedu,,,,,80.2010885,13.0728167
+POINT (80.2009415 13.0729525),bank,,,Kotak Mahindra Bank,,,,,,,,80.20094150000001,13.072952499999998
+POINT (80.2380805 12.9863179),bank,,,HDFC Bank,,HDFC,,,,,,80.2380805,12.9863179
+POINT (80.1952809 13.0671063),bank,,,State Bank of India,,SBI,Market Complex Koyambedu,,,,,80.1952809,13.0671063
+POINT (80.2689863 13.0345178),bank,,,Bandhan Bank,,,,,,,,80.2689863,13.0345178
+POINT (80.2032086 13.0707461),bank,,,SBI,,,,,,,,80.2032086,13.0707461
+POINT (80.2024274 13.0723339),bank,,,Repco bank,,,,,,,,80.2024274,13.0723339
+POINT (80.2009392 13.0730013),bank,,,Yes Bank,,,,,,,,80.2009392,13.073001299999998
+POINT (80.2017931 13.0722786),bank,,,HDFC Bank,,HDFC,,,,,,80.2017931,13.072278599999995
+POINT (80.2476844 13.0447171),bank,,,ICICI bank,,,,,,,,80.2476844,13.044717099999996
+POINT (80.247439 13.0431338),bank,,,Kotak Mahindra bank,,,,,,,,80.247439,13.043133799999998
+"POLYGON ((80.2342923 12.9932678, 80.2341755 12.9932256, 80.2342731 12.9929694, 80.2343898 12.9930116, 80.2342923 12.9932678))",bank,yes,,State Bank of India,,SBI,IITM Branch,,,,yes,80.234282667701,12.993118615632476
+"POLYGON ((80.2063196 13.0228227, 80.205967 13.022888, 80.2059546 13.0227837, 80.2062885 13.0227132, 80.2063196 13.0228227))",bank,yes,en:Indian Bank,Indian Bank,,,,,"Ekkattuthangal, Chennai",600032.0,yes,80.20613480365789,13.022801887385087
+"POLYGON ((80.2909936 13.0909669, 80.2910116 13.0910204, 80.2909979 13.0910249, 80.2910307 13.091121, 80.2910108 13.0911277, 80.2910264 13.0911818, 80.291047 13.0911758, 80.2910517 13.0911918, 80.2911053 13.0911751, 80.2911769 13.0913865, 80.2911285 13.0914029, 80.2911337 13.091417, 80.2911119 13.0914243, 80.2911197 13.0914462, 80.2911393 13.0914397, 80.2911625 13.0915033, 80.2911379 13.0915116, 80.2911551 13.0915554, 80.2911912 13.0915433, 80.2912087 13.0915987, 80.2911412 13.0916223, 80.2911342 13.0915999, 80.2910639 13.0916231, 80.2910726 13.0916497, 80.2910046 13.0916713, 80.2909969 13.0916433, 80.2909318 13.0916644, 80.2909438 13.0917035, 80.2908564 13.0917309, 80.2908432 13.091688, 80.2906444 13.0910699, 80.2907007 13.0910527, 80.2907094 13.0910795, 80.2909358 13.0910103, 80.2909282 13.0909869, 80.2909936 13.0909669))",bank,,,State Bank of India,,SBI,,,,,yes,80.29092795484708,13.091345759201356
+"POLYGON ((80.2180605 13.0829767, 80.2180605 13.0828359, 80.2183249 13.0828303, 80.2183363 13.0829582, 80.2180605 13.0829767))",bank,yes,en:ICICI Bank,ICICI Bank,,ICICI,Limited,,,,,80.21819349889671,13.08290086175974
+"POLYGON ((80.2244062 13.0233062, 80.2245691 13.0233045, 80.2245696 13.0233503, 80.2246266 13.0233497, 80.2246271 13.0233985, 80.2244072 13.0234007, 80.2244062 13.0233062))",bank,yes,en:State Bank of India,State Bank of India,,SBI,Saidapet Bazaar Branch,,Saidapet,600015.0,yes,80.22450501692182,13.023355947792032
+"POLYGON ((80.2209113 13.039458, 80.2211394 13.039418, 80.2211192 13.0393145, 80.2208932 13.0393599, 80.2209113 13.039458))",bank,yes,en:ICICI Bank,ICICI Bank,ICICI Bank,ICICI,,https://www.icicibank.com,,,yes,80.2210168325191,13.039387440879786
+"POLYGON ((80.2211917 13.0388435, 80.2213152 13.038814, 80.2212705 13.0386368, 80.221147 13.0386664, 80.2211917 13.0388435))",bank,yes,,Indian Oversees Bank,,,,,,,,80.22123110475448,13.038740170843012
+"POLYGON ((80.2904458 13.0904871, 80.2907855 13.0903756, 80.2906926 13.0901021, 80.290356 13.0902134, 80.2904458 13.0904871))",bank,,,Standard Chartered,,,,,,,yes,80.2905701154329,13.090294717297288
+"POLYGON ((80.1511489 13.1191171, 80.1511529 13.1192868, 80.1514624 13.1191479, 80.1513959 13.1189961, 80.1511489 13.1191171))",bank,,,State Bank of India,,SBI,,,,,yes,80.15129213826374,13.119139186016314
+"POLYGON ((80.1500019 13.1224969, 80.1502245 13.1224573, 80.1502193 13.1223881, 80.1499931 13.1224217, 80.1500019 13.1224969))",bank,yes,,Indian Overseas Bank,,,,,Chennai,600053.0,yes,80.15010801274468,13.122441194291431
+"POLYGON ((80.1469134 13.1219105, 80.147025 13.1221156, 80.1471713 13.1220451, 80.1470606 13.1218291, 80.1470179 13.1218546, 80.1469134 13.1219105))",bank,,,Axis Bank,,,,,Chennai,,hospital,80.14704288205486,13.121974591698216
+"POLYGON ((80.1498162 13.121305, 80.1499402 13.1212927, 80.149928 13.1211751, 80.149804 13.1211873, 80.1498162 13.121305))",bank,yes,,Indian Bank,,,,,Chennai,600053.0,yes,80.14987209138937,13.121240026673528
+"POLYGON ((80.2211849 13.0378675, 80.2212789 13.0378481, 80.2212368 13.0376476, 80.2211832 13.0376589, 80.2211428 13.037667, 80.2211849 13.0378675))",bank,,en:Lakshmi Vilas Bank,Lakshmi Vilas Bank,Lakshmi Vilas Bank,,,https://www.lvbank.com,,,yes,80.22121086321762,13.037757606718126
+"POLYGON ((80.1616921 13.0207895, 80.1618053 13.020775, 80.1617831 13.0206109, 80.16167 13.0206254, 80.1616921 13.0207895))",bank,no,,Indian Bank,,,Porur Branch,,Mugalivakkam,600125.0,yes,80.1617376273244,13.020700211785131
+"POLYGON ((80.2547972 13.0058177, 80.255004 13.0058041, 80.254992 13.0056082, 80.254792 13.0055996, 80.2547972 13.0058177))",bank,,en:State Bank of India,State Bank of India,,SBI,,,Chennai,600020.0,yes,80.25489451713513,13.005708076835708
+"POLYGON ((80.2278881 13.0531039, 80.2280018 13.0530848, 80.2279704 13.052907, 80.2278566 13.052926, 80.2278881 13.0531039))",bank,,en:State Bank of India,State Bank of India,,SBI,,,,,yes,80.2279292171095,13.05300541559182
+"POLYGON ((80.2259698 13.0469804, 80.2260913 13.0469439, 80.226049 13.0468105, 80.2259275 13.0468471, 80.2259698 13.0469804))",bank,,,State Bank of India,,SBI,Rangarajapuram,,,,commercial,80.22600940608822,13.046895470268996
+"POLYGON ((80.1515993 13.1195877, 80.1514878 13.1196061, 80.1515357 13.119814, 80.151645 13.1197967, 80.1515993 13.1195877))",bank,,,ICICI Bank,,ICICI,,,,,yes,80.15156689827498,13.119700748337385
+"POLYGON ((80.2296109 13.0413874, 80.2297286 13.0413676, 80.2296933 13.0411683, 80.2295757 13.041188, 80.2296109 13.0413874))",bank,yes,en:Canara Bank,Canara Bank,Canara Bank,,,https://www.canarabank.com/,,,yes,80.22965212387258,13.041277841799635
+"POLYGON ((80.1490792 13.1216167, 80.1490803 13.1217365, 80.1493194 13.1217236, 80.1493422 13.1216636, 80.1490792 13.1216167))",bank,yes,,DBS Bank India,,,,,Chennai,600053.0,yes,80.14919195633757,13.12168326956712
+"POLYGON ((80.2211803 13.0354404, 80.2212756 13.0354772, 80.2213378 13.0353241, 80.2212426 13.0352873, 80.2211803 13.0354404))",bank,,,Punjab National Bank,Punjab National Bank,PNB,,https://www.pnbindia.in,,,yes,80.22125906857084,13.035382260907388
+"POLYGON ((80.1675075 13.0228195, 80.1676175 13.0227858, 80.167561 13.0226103, 80.1674509 13.022644, 80.1675075 13.0228195))",bank,,,Indian Overseas Bank,,,Mugalivakkam Branch,,Mugalivakkam,600125.0,yes,80.16753421963705,13.022714888347908
+"POLYGON ((80.2601113 13.0361529, 80.2602607 13.0361384, 80.260244 13.0359762, 80.2600946 13.0359908, 80.2601113 13.0361529))",bank,yes,en:HDFC Bank,HDFC Bank,,HDFC,,,,,yes,80.26017765750515,13.036064573339814
+"POLYGON ((80.2570334 13.0316881, 80.2570304 13.0315807, 80.2568556 13.0315853, 80.2568586 13.0316927, 80.2570334 13.0316881))",bank,,en:Citibank,Citibank,,Citi,,,,,yes,80.25694449999932,13.031636700011031
+"POLYGON ((80.2220995 13.0639665, 80.2221115 13.0640305, 80.2221946 13.0640157, 80.2221826 13.0639518, 80.2220995 13.0639665))",bank,,,Indian Overseas Bank,,,,,,,yes,80.22214703973881,13.063991128026856
+"POLYGON ((80.2464963 12.9648132, 80.2466753 12.9647923, 80.2466666 12.9647212, 80.2464876 12.9647421, 80.2464963 12.9648132))",bank,yes,,icici bank,,,,,,,yes,80.2465814500016,12.96476720001404
+"POLYGON ((80.2041336 13.0870781, 80.2041349 13.0871572, 80.2043531 13.0871596, 80.2043506 13.0869903, 80.2041306 13.0869954, 80.2041336 13.0870781))",bank,yes,,C.C. Bank,,,,,Chennai,,yes,80.2042433206033,13.08707549438944
+"POLYGON ((80.2099214 13.1058733, 80.2099004 13.1057552, 80.2096584 13.105796, 80.2096794 13.1059141, 80.2099214 13.1058733))",bank,no,en:State Bank of India,State Bank of India,,SBI,(Villivakkam Branch),,"Villivakkam, Chennai",600049.0,yes,80.20978990000437,13.10583465002476
+"POLYGON ((80.2609232 12.9857979, 80.2609194 12.985743, 80.2608362 12.9857485, 80.26084 12.9858034, 80.2609232 12.9857979))",bank,,en:Indian Bank,Indian Bank,,,,,,,commercial,80.26087969999996,12.985773200002376
+"POLYGON ((80.2856745 13.0905694, 80.2856867 13.0907008, 80.2860586 13.0906728, 80.2860481 13.0905396, 80.2858886 13.0905508, 80.2856745 13.0905694))",bank,,,Chennai Central Cooperative Bank,,,,,,,yes,80.28586737673434,13.090620182052776
+"POLYGON ((80.2875764 13.091364, 80.287729 13.0913415, 80.2880496 13.0912941, 80.2880269 13.0911485, 80.2879691 13.0911372, 80.2875518 13.0911989, 80.2875754 13.0913574, 80.2875764 13.091364))",bank,,,Bank of India,,,,,,,yes,80.28779901868101,13.091247310230754
+"POLYGON ((80.2882229 13.0904382, 80.2882622 13.0906882, 80.2882778 13.0906859, 80.2885111 13.0906511, 80.2884719 13.0904011, 80.2882229 13.0904382))",bank,,,UCO Bank,,,,,,,yes,80.28836702168088,13.09054464845149
+"POLYGON ((80.2922633 13.0947571, 80.2921725 13.0944618, 80.2918705 13.09455, 80.2919613 13.0948452, 80.2922633 13.0947571))",bank,,,HSBC,,,,,,,yes,80.29206690710517,13.094653520439817
+"POLYGON ((80.2885842 13.0908544, 80.288563 13.0907128, 80.2883725 13.0907413, 80.2883925 13.0908828, 80.2884029 13.0908813, 80.2885842 13.0908544))",bank,,,Karnataka Bank,,,,,,,yes,80.28847808853362,13.09079790265135
+"POLYGON ((80.2908739 13.0918997, 80.2912445 13.0917861, 80.2912827 13.0919102, 80.290913 13.0920238, 80.2908739 13.0918997))",bank,,,Axis Bank,,,,,,,yes,80.29107845521884,13.091904946345515
+"POLYGON ((80.2852682 13.0895442, 80.2852251 13.0891467, 80.2849738 13.0891725, 80.2850169 13.0895701, 80.2852682 13.0895442))",bank,,,Union Bank of India,,,,,,,yes,80.28512099492873,13.08935837692911
+"POLYGON ((80.2914902 13.0953765, 80.2917106 13.0953046, 80.2916593 13.0951551, 80.2914392 13.0952282, 80.2914902 13.0953765))",bank,,,Indian Bank,,,,,,,yes,80.29157496688109,13.09526604699491
+"POLYGON ((80.2913774 13.0941448, 80.2913355 13.0940115, 80.291287 13.0939907, 80.291229 13.0940063, 80.2912487 13.0941217, 80.2912173 13.0941222, 80.2912225 13.094187, 80.2913774 13.0941448))",bank,,,The Tamil Nadu Circle Co-operative Bank,,,,,,,yes,80.29129154368106,13.094090054005926
+"POLYGON ((80.263788 13.0619954, 80.2638841 13.0617624, 80.2635915 13.0616478, 80.2634983 13.0618738, 80.2636208 13.0619218, 80.2636179 13.0619288, 80.263788 13.0619954))",bank,,,Bank of Baroda,,,,,,,yes,80.26369142891635,13.06182058908684
+"POLYGON ((80.2601299 13.060575, 80.260173 13.0605106, 80.2602382 13.0604475, 80.2598956 13.0601443, 80.2598488 13.060223, 80.2597779 13.0602838, 80.2598613 13.0603437, 80.2598008 13.0604092, 80.2599598 13.060544, 80.2600145 13.060479, 80.2601299 13.060575))",bank,,en:Indian Overseas Bank,Indian Overseas Bank,Indian Overseas Bank,,,,,,yes,80.25999147927182,13.060376960898738
+"POLYGON ((80.2619337 13.0623974, 80.2621185 13.0621773, 80.2623935 13.0624059, 80.2622298 13.0625928, 80.2621754 13.0625953, 80.2619337 13.0623974))",bank,,,Canara Bank,Canara Bank,,,,,,yes,80.26216263864777,13.062398279059927
+"POLYGON ((80.2800215 13.0994189, 80.2800216 13.0993449, 80.2797662 13.0993471, 80.2797604 13.0993471, 80.2797607 13.0993814, 80.2797612 13.0994187, 80.2797796 13.0994187, 80.2800215 13.0994189))",bank,,,Vellala Co-operative Bank,,,,,,,yes,80.27989188755825,13.099382384658718
+"POLYGON ((80.2792548 13.0866709, 80.2792699 13.0867686, 80.2790706 13.0867979, 80.2789477 13.0868159, 80.2789326 13.0867182, 80.2790665 13.0866985, 80.2792548 13.0866709))",bank,,,Punjab National Bank,,,Sowcarpet Branch,,,,yes,80.27910124533628,13.086743400476143
+"POLYGON ((80.2814522 13.0925227, 80.2813242 13.0925407, 80.2813474 13.0926975, 80.2813558 13.0927539, 80.2813598 13.0927834, 80.2813661 13.0928234, 80.2814937 13.0928055, 80.2814784 13.0926986, 80.2814522 13.0925227))",bank,,,Canara Bank,Canara Bank,,,,,,yes,80.28140911340363,13.092673042372123
+"POLYGON ((80.2798689 13.0891885, 80.2799969 13.0891545, 80.2800455 13.0893351, 80.2800622 13.0893984, 80.2799934 13.0894157, 80.2799369 13.0894299, 80.2799245 13.0893852, 80.2799106 13.0893344, 80.2798865 13.0892478, 80.2798689 13.0891885))",bank,,,Indian Overseas Bank,,,,,,,yes,80.27996646373353,13.08929231270892
+"POLYGON ((80.243849 13.056961, 80.2438521 13.0567959, 80.2439276 13.0567973, 80.2439244 13.0569623, 80.243849 13.056961))",bank,,,Nungambakam Saswatha Dhana Rakshaka Nidhi,,,,https://www.nsdrnidhi.com/,Chennai,600034.0,yes,80.24388827161553,13.056879106355913
+"POLYGON ((80.1518352 13.1196401, 80.1520151 13.1196195, 80.1520076 13.1195525, 80.1518262 13.119567, 80.1518352 13.1196401))",bank,yes,,Karnataka Bank,,,,,Chennai,,yes,80.15191969500025,13.119594878966964

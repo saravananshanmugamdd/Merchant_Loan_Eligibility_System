@@ -3,7 +3,8 @@ import pandas as pd
 from src.utils.logger import Logger
 
 def calculate_missing_report(df):
-    Logger.info("started calculating missing value report")
+
+    Logger.info("calculating missing value report")
 
     missing_percentage=(df.isnull().sum()/len(df))*100
 
@@ -21,7 +22,7 @@ def calculate_missing_report(df):
     return missing_report
 
 def remove_high_missing_columns(df, threshold=90):
-    Logger.info(f"removing columns having {threshold}% missing values")
+    Logger.info(f"Removing columns with more than {threshold}% missing values")
 
     missing_report=calculate_missing_report(df)
 
@@ -39,7 +40,7 @@ def remove_high_missing_columns(df, threshold=90):
 
 def validate_missing_values(df):
 
-    Logger.info("validating remaing missing values")
+    Logger.info("validating remaining missing values")
 
     print("\n remaining missing values")
 

@@ -1,0 +1,801 @@
+geometry,bus,highway,name,public_transport,name:ta,bench,shelter,name:en,local_ref,operator,source,longitude,latitude
+POINT (80.2594187 12.9873013),yes,bus_stop,Thiruvanmiyur Moffusil bus stop,stop_position,,,,,,,,80.2594187,12.9873013
+POINT (80.2593497 13.0148091),yes,bus_stop,Sathya Studio,platform,,,,,,,,80.2593497,13.0148091
+POINT (80.2093905 13.0080754),yes,bus_stop,Guindy,stop_position,கிண்டி,,,,,,,80.20939050000001,13.008075399999996
+POINT (80.2796983 13.0505637),yes,bus_stop,,stop_position,,,,,,,,80.27969830000002,13.0505637
+POINT (80.2210664 12.975951),yes,bus_stop,Velachery Vijayanagar Bus Terminus,platform,,yes,yes,,,,,80.22106640000001,12.975951
+POINT (80.183263 12.9754924),yes,bus_stop,Hindu Colony,platform,,,,,,,,80.183263,12.975492399999998
+POINT (80.1888463 12.9830658),yes,bus_stop,Chidambaram Stores,platform,,,,,,,,80.1888463,12.9830658
+POINT (80.200193 12.9946395),yes,bus_stop,பரங்கிமலை ரயில் நிலையம்,platform,பரங்கிமலை ரயில் நிலையம்,,,St. Thomas Mount Railway Station,,,,80.200193,12.9946395
+POINT (80.2133106 13.0081325),yes,bus_stop,Guindy Station,platform,,yes,yes,,,,,80.21331060000001,13.008132499999997
+POINT (80.2500396 13.0389089),yes,bus_stop,Eldams Road,platform,,,,,,,,80.2500396,13.0389089
+POINT (80.2559271 13.0380814),yes,bus_stop,Alwarpet,platform,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2559271,13.0380814
+POINT (80.2552101 13.036222),yes,bus_stop,ஆழ்வார் பேட்டை,platform,ஆழ்வார் பேட்டை,,,Alwarpet,,,,80.2552101,13.036222
+POINT (80.2588492 13.0387535),yes,bus_stop,ஆழ்வார் பேட்டை,stop_position,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2588492,13.0387535
+POINT (80.2476472 13.0414948),yes,bus_stop,Vanavil,platform,,yes,yes,,,,,80.2476472,13.0414948
+POINT (80.2468797 13.0379526),yes,bus_stop,SIET,platform,,,,,,,,80.2468797,13.0379526
+POINT (80.2538704 13.0479032),yes,bus_stop,Stella Maris,platform,,,,,,,,80.2538704,13.047903199999997
+POINT (80.2566441 13.0458825),yes,bus_stop,Chola Sheraton,platform,,,,,,,,80.2566441,13.0458825
+POINT (80.2605344 13.0464693),yes,bus_stop,Music Academy,platform,மியூசிக் அகாடமி,,yes,,,,,80.2605344,13.0464693
+POINT (80.2571309 13.0351077),yes,bus_stop,ஆழ்வார் பேட்டை,platform,ஆழ்வார் பேட்டை,yes,yes,Alwarpet,,,,80.2571309,13.035107699999996
+POINT (80.2529435 13.0332207),yes,bus_stop,TTK Road,platform,,,,,,,,80.2529435,13.0332207
+POINT (80.2474418 13.0355237),yes,bus_stop,,platform,,,,,,,,80.2474418,13.035523699999995
+POINT (80.2767558 13.081757),yes,bus_stop,General Hospital,platform,,,,,,,,80.2767558,13.081756999999998
+POINT (80.2718576 13.0812612),yes,bus_stop,Ripon Building,platform,ரிப்பன் கட்டிடம்,,,,,,,80.2718576,13.0812612
+POINT (80.2378848 13.0298352),yes,bus_stop,Nandanam YMCA,platform,,no,no,,,,,80.2378848,13.029835200000004
+POINT (80.2246585 13.0195637),yes,bus_stop,சைதாப்பேட்டை பாலம்,platform,சைதாப்பேட்டை பாலம்,,,Saidapet Bridge,,,,80.2246585,13.0195637
+POINT (80.2541619 13.0292235),yes,bus_stop,,platform,,,,,,,,80.2541619,13.0292235
+POINT (80.2598201 13.0293892),yes,bus_stop,,platform,,,,,,,,80.25982010000001,13.0293892
+POINT (80.2492676 13.0290452),yes,bus_stop,,platform,,,,,,,,80.2492676,13.0290452
+POINT (80.2618156 13.0737672),yes,bus_stop,Commissioner Office,platform,,yes,yes,,,,,80.2618156,13.0737672
+POINT (80.2625412 13.0726877),yes,bus_stop,Egmore Court,platform,,,,,,,,80.2625412,13.0726877
+POINT (80.2636552 13.0783875),yes,bus_stop,,platform,,,,,,,,80.2636552,13.0783875
+POINT (80.2505226 13.035344),yes,bus_stop,,platform,,,,,,,,80.2505226,13.035344
+POINT (80.2623857 13.0779219),yes,bus_stop,Egmore Station,platform,,,,,,,,80.2623857,13.077921899999998
+POINT (80.2037268 12.9656695),yes,bus_stop,Sadasiva Nagar,platform,சதாசிவ நகர்,no,no,,Sadasiva Nagar,,,80.2037268,12.9656695
+POINT (80.2242262 13.0192595),yes,bus_stop,சைதாப்பேட்டை பாலம்,platform,சைதாப்பேட்டை பாலம்,,,Saidapet Bridge,,,,80.22422620000002,13.0192595
+POINT (80.2470139 13.0405526),yes,bus_stop,Vanavil,platform,,,,,,,,80.2470139,13.040552599999998
+POINT (80.2463991 13.0373003),yes,bus_stop,SIET,platform,,,,,,,,80.2463991,13.037300300000002
+POINT (80.2482982 13.0467908),yes,bus_stop,DMS,platform,,yes,yes,,,,,80.2482982,13.046790799999998
+POINT (80.1956168 12.9816928),yes,bus_stop,Vanuvampet,platform,,,,,,,,80.1956168,12.9816928
+POINT (80.1856076 12.9880075),yes,bus_stop,Pazhavanthangal Station,platform,,,,,,,,80.1856076,12.9880075
+POINT (80.2738035 13.0702882),yes,bus_stop,Simson,platform,,,,,,MTC,,80.2738035,13.070288199999998
+POINT (80.2736995 13.0706454),yes,bus_stop,P.Orr & Sons,platform,,,,,,,,80.2736995,13.0706454
+POINT (80.2685713 13.0671092),yes,bus_stop,Dams Road,platform,,,,,,,,80.2685713,13.0671092
+POINT (80.2636986 13.0627904),yes,bus_stop,LIC,platform,,,,,,,,80.2636986,13.0627904
+POINT (80.2597052 13.0592286),yes,bus_stop,TVS,platform,டி.வி.எஸ்,yes,yes,,,,,80.2597052,13.059228599999996
+POINT (80.259461 13.0593116),yes,bus_stop,TVS,platform,டி.வி.எஸ்,yes,yes,,,,,80.259461,13.059311599999996
+POINT (80.2446808 13.0627272),yes,bus_stop,,platform,,,,,,,,80.2446808,13.062727199999998
+POINT (80.2493071 13.055035),yes,bus_stop,ஜெமினி,platform,,,,Gemini,,,,80.2493071,13.055034999999997
+POINT (80.2407247 13.0068649),yes,bus_stop,IIT/CLRI,platform,,yes,yes,,,,,80.2407247,13.0068649
+POINT (80.1863409 12.9699902),yes,bus_stop,மூவரசம்பேட்டை,platform,மூவரசம்பேட்டை,,,Moovarasampettai,,,,80.1863409,12.969990199999998
+POINT (80.1964403 12.9647635),yes,bus_stop,Ponniamman Koil,platform,,no,no,,,,,80.1964403,12.964763499999998
+POINT (80.2003039 12.9654812),yes,bus_stop,Balaiah Garden,platform,,no,no,,,,,80.2003039,12.9654812
+POINT (80.2153047 12.9636419),yes,bus_stop,Kaiveli,platform,,yes,yes,,,,,80.2153047,12.963641899999995
+POINT (80.2685481 13.0445134),yes,bus_stop,Yellow Pages,stop_position,,,yes,,,,,80.2685481,13.0445134
+POINT (80.2493803 13.0068437),yes,bus_stop,Gandhinagar,,காந்தி நகர்,yes,yes,,,,,80.2493803,13.006843699999996
+POINT (80.2663311 13.0473146),yes,bus_stop,Ajanta,platform,,,,,,,,80.2663311,13.047314599999998
+POINT (80.2549392 13.0565054),yes,bus_stop,,platform,,,,,,,,80.2549392,13.0565054
+POINT (80.2199873 12.9909681),yes,bus_stop,Guru Nanak College,platform,,,,,,MTC,,80.2199873,12.990968099999998
+POINT (80.1829783 12.9796394),yes,bus_stop,Vetrivel Theatre,platform,,,,,,,,80.1829783,12.979639399999998
+POINT (80.2624567 12.9963185),yes,bus_stop,Vannanthurai,platform,,no,yes,,,,,80.2624567,12.9963185
+POINT (80.2637555 13.0523172),yes,bus_stop,Royapettah High Road Police Station,platform,,,,,,,,80.2637555,13.052317199999996
+POINT (80.2883666 13.0803743),,bus_stop,Secretariat,,,,,,,,,80.2883666,13.0803743
+POINT (80.2576831 13.0520086),yes,bus_stop,,,,,,,,,,80.2576831,13.0520086
+POINT (80.2705663 13.0672558),yes,bus_stop,Shanti Theatre,platform,,,,,,,,80.2705663,13.067255799999998
+POINT (80.2564362 13.0565217),yes,bus_stop,Thousand Lights,platform,,,,,,,,80.2564362,13.0565217
+POINT (80.2558808 12.9885068),yes,bus_stop,Jayanti,stop_position,ஜெயந்தி,,,,,,,80.2558808,12.988506799999994
+POINT (80.255959 12.9883987),yes,bus_stop,Jayanti,stop_position,ஜெயந்தி,,,,,,,80.255959,12.9883987
+POINT (80.2596367 12.9853009),yes,bus_stop,Marudeeswarar Temple,stop_position,,,,,,,,80.2596367,12.985300900000002
+POINT (80.2597253 12.9858076),yes,bus_stop,Thiruvanmiyur ECR Moffusil Bus stop,stop_position,,,,,,,,80.2597253,12.9858076
+POINT (80.255043 13.0677732),yes,bus_stop,,platform,,,,,,,,80.255043,13.067773199999996
+POINT (80.2475374 13.0061894),yes,bus_stop,Madhya Kailash,platform,,no,no,,,MTC,,80.24753740000001,13.006189399999997
+POINT (80.2416004 13.0065151),yes,bus_stop,IIT/CLRI,platform,,no,no,,,,,80.2416004,13.0065151
+POINT (80.2385165 12.9865619),yes,bus_stop,,,,yes,yes,,,IIT-M,,80.2385165,12.986561899999998
+POINT (80.229819 12.9885153),yes,bus_stop,,,,,,,,,,80.229819,12.9885153
+POINT (80.2332146 12.9867147),yes,bus_stop,Taramani Guest House,platform,,yes,yes,,,,,80.2332146,12.986714699999997
+POINT (80.2353872 12.9865599),yes,bus_stop,,,,yes,no,,,,,80.2353872,12.9865599
+POINT (80.2683767 13.0439822),yes,bus_stop,,platform,,,yes,,,,,80.2683767,13.0439822
+POINT (80.2632997 13.0448129),yes,bus_stop,New Woodlands Hotel,platform,,,,,,,,80.2632997,13.044812899999998
+POINT (80.2678 12.9960126),yes,bus_stop,Spencers,platform,,yes,yes,,,,,80.2678,12.9960126
+POINT (80.2592709 13.0110148),yes,bus_stop,Banyan Tree,platform,,,,,,,,80.2592709,13.0110148
+POINT (80.2587288 13.0078478),yes,bus_stop,Malar Hospital,,,,,,,,,80.2587288,13.0078478
+POINT (80.2588399 13.0386195),yes,bus_stop,ஆழ்வார் பேட்டை,stop_position,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2588399,13.0386195
+POINT (80.2434529 13.0635006),yes,bus_stop,Sterling Road,platform,,,,,,,,80.2434529,13.0635006
+POINT (80.256558 13.0462093),yes,bus_stop,Chola Sheraton,platform,,,,,,,,80.256558,13.0462093
+POINT (80.2618805 13.0775116),yes,bus_stop,Egmore Station,platform,,,,,,,,80.2618805,13.0775116
+POINT (80.2804835 13.049045),yes,bus_stop,Ice House stop,platform,,,,,,,,80.28048350000002,13.049044999999998
+POINT (80.2687218 13.0665178),yes,bus_stop,LIC,platform,,,,,,,,80.2687218,13.066517799999996
+POINT (80.2817387 13.0563899),yes,bus_stop,Kannagi Statue,platform,கண்ணகி சிலை,yes,yes,,,,,80.2817387,13.056389899999996
+POINT (80.2820086 13.0567968),yes,bus_stop,Kannagi Statue,platform,கண்ணகி சிலை,yes,yes,,,,,80.2820086,13.0567968
+POINT (80.2476713 13.0594652),yes,bus_stop,,platform,,,,,,,,80.2476713,13.0594652
+POINT (80.2480638 13.0594687),yes,bus_stop,Taj Hotel,platform,,,,,,,,80.2480638,13.0594687
+POINT (80.2699092 13.0207736),yes,bus_stop,MRC Nagar,,,,,MRC Nagar,,,,80.2699092,13.020773600000002
+POINT (80.2487062 13.0470132),yes,bus_stop,DMS,platform,,yes,yes,,,,,80.2487062,13.0470132
+POINT (80.1892332 13.0166571),yes,bus_stop,Nandambakkam,platform,நந்தம்பாக்கம்,yes,yes,,,,,80.1892332,13.0166571
+POINT (80.2265266 13.013981),yes,bus_stop,Saidapet Court,platform,சைதாப்பேட்டை நீதிமன்றம்,yes,yes,,,,,80.2265266,13.013981
+POINT (80.253857 13.0672505),yes,bus_stop,DPI,platform,,,,,,,,80.253857,13.0672505
+POINT (80.1542326 13.0354754),yes,bus_stop,போரூர்,,,,,,,,,80.1542326,13.035475399999996
+POINT (80.1551858 13.0349841),yes,bus_stop,Porur Flyover,,,,,,,,,80.1551858,13.0349841
+POINT (80.1637329 13.0322785),yes,bus_stop,,platform,,,,,,,,80.1637329,13.0322785
+POINT (80.1635994 13.0320596),yes,bus_stop,,platform,,,,,,,,80.1635994,13.0320596
+POINT (80.168324 13.0294745),yes,bus_stop,Mugalivakkam,platform,,yes,yes,,,,,80.168324,13.029474499999996
+POINT (80.1768338 13.0249393),yes,bus_stop,Moon lite,platform,,,,,Moon lite,,,80.17683380000001,13.024939299999998
+POINT (80.1768125 13.0246916),yes,bus_stop,Moon lite,platform,,,,,Moon lite,,,80.17681250000001,13.0246916
+POINT (80.3279081 13.2249322),yes,bus_stop,Thalankuppam,platform,,,,,,,,80.3279081,13.2249322
+POINT (80.2984032 13.1587549),yes,bus_stop,,platform,,,,,,,,80.2984032,13.158754899999998
+POINT (80.3021668 13.1592829),yes,bus_stop,,platform,,,,,,,,80.3021668,13.1592829
+POINT (80.2516342 13.0513415),yes,bus_stop,Woodlands,platform,உட்லண்ட்ஸ்,,,,,,,80.2516342,13.051341499999998
+POINT (80.2518854 13.0514752),yes,bus_stop,Woodlands,platform,உட்லண்ட்ஸ்,,,,,,,80.2518854,13.0514752
+POINT (80.2547872 13.0799588),yes,bus_stop,Purasawalkam,platform,,,,,,,,80.2547872,13.0799588
+POINT (80.238274 13.0303695),yes,bus_stop,,platform,,,,,,,,80.238274,13.0303695
+POINT (80.2437738 13.0295543),yes,bus_stop,,platform,,yes,yes,,,,,80.2437738,13.029554299999996
+POINT (80.2466823 13.0368739),yes,bus_stop,SIET,platform,,,,,,,,80.2466823,13.036873900000002
+POINT (80.1936767 13.0441881),yes,bus_stop,KK Nagar West MTC Terminus,platform,,,,,,,,80.1936767,13.044188099999998
+POINT (80.2854922 13.0852627),yes,bus_stop,,platform,,,,,,,,80.28549220000001,13.0852627
+POINT (80.2852522 13.0875965),yes,bus_stop,Law College,platform,,,,,,,,80.2852522,13.087596499999997
+POINT (80.2881787 13.0885188),yes,bus_stop,உயர் நீதிமன்றம்,platform,,,,High Court,,,,80.2881787,13.088518799999996
+POINT (80.2119327 13.0470241),yes,bus_stop,,platform,,,,,,,,80.2119327,13.047024099999998
+POINT (80.207122 13.0489528),yes,bus_stop,,,,,,,,,,80.207122,13.0489528
+POINT (80.206537 12.9947061),yes,bus_stop,NGO Colony,platform,,,,,,,,80.206537,12.994706099999998
+POINT (80.19718 13.0627931),,bus_stop,Chinmaya Nagar,platform,,,,,,,,80.19718,13.0627931
+POINT (80.1972144 13.0631192),,bus_stop,,,,,,,,,,80.1972144,13.063119199999996
+POINT (80.2006237 13.0692689),yes,bus_stop,Koyambedu Market,platform,,,,,,,,80.2006237,13.069268899999996
+POINT (80.2049305 13.068119),yes,bus_stop,CMBT,platform,,,,,,MTC,,80.2049305,13.068119
+POINT (80.2033552 12.9738315),yes,bus_stop,Puzhithivakkam,platform,,,,,,,,80.2033552,12.9738315
+POINT (80.2041542 13.0574894),yes,bus_stop,,platform,,,,,,,,80.2041542,13.0574894
+POINT (80.2540873 13.0480237),yes,bus_stop,Stella Maris,platform,,,,,,,,80.2540873,13.0480237
+POINT (80.2670356 13.0368855),yes,bus_stop,Luz Corner,platform,லஸ்,,,Luz Corner,,,,80.2670356,13.0368855
+POINT (80.264641 13.037429),yes,bus_stop,,platform,,,,,,,,80.264641,13.037429
+POINT (80.2329094 13.0470929),yes,bus_stop,,platform,,,,,,,,80.2329094,13.047092900000004
+POINT (80.2330399 13.0477362),yes,bus_stop,,platform,,,,,,,,80.2330399,13.0477362
+POINT (80.2641778 13.0264512),yes,bus_stop,Mandaveli,platform,,yes,yes,Mandaveli,,,,80.2641778,13.0264512
+POINT (80.2651734 13.0251384),yes,bus_stop,,,,,,,,,,80.2651734,13.0251384
+POINT (80.2678513 13.0338433),yes,bus_stop,RK Mutt Road Mylapore Tank,platform,,yes,yes,Mylapore Tank,,,,80.2678513,13.0338433
+POINT (80.2679245 13.0337179),yes,bus_stop,Mylapore Tank,platform,,yes,yes,,,,,80.2679245,13.0337179
+POINT (80.2665843 13.0369967),yes,bus_stop,Luz Corner,platform,லஸ்,,,Luz Corner,,,,80.2665843,13.0369967
+POINT (80.1923804 13.0490005),yes,bus_stop,Virugambakkam,platform,விருகம்பாக்கம்,,,,,,,80.19238040000002,13.0490005
+POINT (80.2635513 13.0397952),yes,bus_stop,Vivekananda College,platform,,,,,,,,80.2635513,13.0397952
+POINT (80.2704429 13.0352016),yes,bus_stop,,platform,,,,,,,,80.2704429,13.0352016
+POINT (80.2641983 13.0546862),yes,bus_stop,Royapettah Hospital,platform,,,,,,,,80.2641983,13.0546862
+POINT (80.26443 13.0546528),yes,bus_stop,Royapettah Hospital,platform,,,,,,,,80.26443,13.0546528
+POINT (80.2821764 13.0643489),yes,bus_stop,,platform,,,,,,,,80.2821764,13.0643489
+POINT (80.28373 13.0656532),yes,bus_stop,,platform,,,,,,,,80.28373,13.065653199999998
+POINT (80.2820391 13.0645078),yes,bus_stop,,platform,,,,,,,,80.28203910000002,13.0645078
+POINT (80.2837471 13.0645245),yes,bus_stop,,platform,,,,,,,,80.2837471,13.064524499999996
+POINT (80.2420245 13.0700162),yes,bus_stop,,platform,,,,,,,,80.2420245,13.0700162
+POINT (80.2421189 13.0704837),yes,bus_stop,Chetpet,platform,,,,,,,,80.2421189,13.0704837
+POINT (80.2677619 13.0375277),yes,bus_stop,Luz Corner,platform,,,,Luz Corner,,,,80.2677619,13.0375277
+POINT (80.2675965 13.0378454),yes,bus_stop,,platform,,,,,,,,80.2675965,13.037845400000002
+POINT (80.2672903 13.0007984),yes,bus_stop,,platform,,,,,,,,80.2672903,13.0007984
+POINT (80.2676685 12.9960874),yes,bus_stop,Besant Nagar,platform,,yes,yes,,,,,80.2676685,12.9960874
+POINT (80.2661449 13.0293213),yes,bus_stop,Mandaveli Post Office,platform,,,,Mandaveli Post Office,,,,80.26614490000001,13.029321299999998
+POINT (80.2638491 13.0288278),yes,bus_stop,Devanathan Street,platform,,,yes,Devanathan Street,,,,80.2638491,13.028827800000002
+POINT (80.266243 13.027196),yes,bus_stop,Mandaveli,platform,,yes,,Mandaveli,,,,80.266243,13.027196
+POINT (80.2651335 13.0248633),yes,bus_stop,,platform,,,,,,,,80.2651335,13.024863299999998
+POINT (80.2586885 13.0414805),yes,bus_stop,Narada Gana Sabha,platform,நாரத கான சபா,,,,,,,80.25868850000002,13.0414805
+POINT (80.259068 13.0417098),yes,bus_stop,Narada Gana Sabha,platform,நாரத கான சபா,,,,,,,80.259068,13.0417098
+POINT (80.2561629 13.0374839),yes,bus_stop,ஆழ்வார் பேட்டை,platform,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2561629,13.037483899999998
+POINT (80.2069875 12.9652457),yes,bus_stop,Ram Nagar,platform,ராம் நகர்,no,no,,,,,80.2069875,12.9652457
+POINT (80.2039738 13.0545015),yes,bus_stop,,platform,,,,,,,,80.2039738,13.0545015
+POINT (80.2042343 13.0544382),yes,bus_stop,,platform,,,,,,,,80.20423430000001,13.054438199999998
+POINT (80.2013161 13.0546223),yes,bus_stop,,platform,,,,,,,,80.2013161,13.054622300000004
+POINT (80.2455135 13.0394488),yes,bus_stop,Aalaiamman Koil,platform,,,,,,,,80.2455135,13.0394488
+POINT (80.2463099 13.0065537),yes,bus_stop,Madya Kailash,platform,,yes,yes,,,,,80.2463099,13.0065537
+POINT (80.194058 13.0573428),yes,bus_stop,Natesa Nagar,platform,,,,,,,,80.194058,13.057342800000002
+POINT (80.1945516 13.0576459),yes,bus_stop,Natesa Nagar,platform,,,,,,,,80.19455160000001,13.0576459
+POINT (80.1953348 13.0598825),yes,bus_stop,Sai Nagar,platform,,,,,,,,80.1953348,13.0598825
+POINT (80.2148572 13.0498765),yes,bus_stop,Vadapalani Koil bus stop,platform,,,,,,,,80.2148572,13.0498765
+POINT (80.1921188 13.0525853),yes,bus_stop,Elango Nagar,platform,இளங்கோ நகர் பேருந்து நிறுத்தம்,,,,,,,80.1921188,13.052585300000002
+POINT (80.197845 13.0473925),yes,bus_stop,Avichi bus stop,platform,,,,,,,,80.197845,13.0473925
+POINT (80.1781903 13.0419272),yes,bus_stop,Kesavardhini bus stop,,,,,,,,,80.1781903,13.041927199999998
+POINT (80.2773605 13.0515688),yes,bus_stop,,platform,,,,,,,,80.2773605,13.051568799999998
+POINT (80.239926 13.0977818),,bus_stop,Sayani,,,,,,,,,80.239926,13.097781800000002
+POINT (80.2423446 13.1089416),yes,bus_stop,,platform,,,,,,,,80.2423446,13.1089416
+POINT (80.1786556 13.0242582),yes,bus_stop,Larsen & Toubro,platform,,,,,,,,80.1786556,13.0242582
+POINT (80.2394822 13.0463818),yes,bus_stop,Thirumalai Pillai Road,platform,,,,,,,,80.2394822,13.0463818
+POINT (80.1851648 13.0442357),yes,bus_stop,Alwarthirunagar,platform,,yes,yes,,,,,80.1851648,13.044235699999998
+POINT (80.2205217 13.0743151),yes,bus_stop,Ampa Skywalk,platform,,,,,,,,80.2205217,13.0743151
+POINT (80.2479182 13.0531886),yes,bus_stop,,platform,,,,,,,,80.2479182,13.053188599999997
+POINT (80.2161796 12.9022643),yes,bus_stop,டோல் கேட்,platform,,,,Toll Gate,,,,80.2161796,12.9022643
+POINT (80.2730145 13.0812054),yes,bus_stop,Ripon Building,platform,ரிப்பன் கட்டிடம்,yes,yes,Ripon Building,,,,80.2730145,13.081205399999998
+POINT (80.2714362 13.0750408),yes,bus_stop,Chintadripet,platform,சிந்தாதிரிப்பேட்டை,,,,,,,80.2714362,13.075040799999996
+POINT (80.2459642 13.16683),yes,bus_stop,Mathur Gate,platform,,,,,,,,80.2459642,13.16683
+POINT (80.2056611 12.9404138),yes,bus_stop,Narayanapuram,platform,,,no,,,,,80.2056611,12.940413799999998
+POINT (80.1902132 13.0463902),yes,bus_stop,Virugambakkam,platform,விருகம்பாக்கம்,,,,,,,80.1902132,13.0463902
+POINT (80.2534748 13.067506),yes,bus_stop,DPI,platform,டிபிஐ,,,,,,,80.2534748,13.067505999999998
+POINT (80.2589582 13.0644904),yes,bus_stop,Ethiraj College,platform,எத்திராஜ் கல்லூரி,,,,,,,80.2589582,13.0644904
+POINT (80.2588711 13.0643704),yes,bus_stop,Ethiraj College,platform,எத்திராஜ் கல்லூரி,,,,,,,80.2588711,13.064370399999998
+POINT (80.211988 13.0488793),yes,bus_stop,Vadapalani Junction,platform,வடபழனி சந்திப்பு,,,,,,,80.211988,13.0488793
+POINT (80.2098628 13.007729),yes,bus_stop,Guindy,platform,கிண்டி,no,no,,,,,80.2098628,13.007728999999998
+POINT (80.1839234 13.0210492),yes,bus_stop,Rampuram MIOT Hospital,platform,,yes,yes,,,,,80.1839234,13.021049199999997
+POINT (80.1838081 13.0208127),yes,bus_stop,MIOT Hospital,platform,,,,,,,,80.1838081,13.020812700000002
+POINT (80.1799082 13.0317215),yes,bus_stop,SRM College Bus Stop,platform,,,,,,,,80.1799082,13.0317215
+POINT (80.1839637 13.0314288),yes,bus_stop,Arasamaram Bus Stop,,,,,,,,,80.1839637,13.0314288
+POINT (80.1836954 13.0289829),yes,bus_stop,Rayala Nagar Bus Stop,,,,,,,,,80.1836954,13.0289829
+POINT (80.1817554 13.0312474),yes,bus_stop,St. Johns School Bus stop,platform,,,,,,,,80.1817554,13.0312474
+POINT (80.1969563 13.0393621),yes,bus_stop,Ayyapan Koil,platform,,,,,,,,80.19695630000001,13.039362099999998
+POINT (80.1967337 13.0414839),yes,bus_stop,Amman Koil,platform,,,,,,,,80.1967337,13.041483899999998
+POINT (80.1992208 13.0388666),yes,bus_stop,PSBB,platform,,,no,,,,,80.1992208,13.038866600000002
+POINT (80.199263 13.041139),yes,bus_stop,PSBB School,platform,,,,,,,,80.199263,13.041138999999996
+POINT (80.1932226 13.0417139),yes,bus_stop,Pondicherry Guest house,platform,,,,,,,,80.1932226,13.041713899999998
+POINT (80.1926862 13.0381601),yes,bus_stop,Nesapakkam,platform,,,,,,,,80.1926862,13.0381601
+POINT (80.1964198 13.0373344),yes,bus_stop,Ajantha,platform,,,,,,,,80.1964198,13.0373344
+POINT (80.2017334 13.0364268),yes,bus_stop,MGR Nagar,platform,,,,,,,,80.2017334,13.0364268
+POINT (80.2050136 13.0407523),yes,bus_stop,Pilliayar Koil,platform,,,,,,,,80.2050136,13.040752299999996
+POINT (80.2053891 13.0411599),yes,bus_stop,Sivan Park,platform,,,,,,,,80.2053891,13.0411599
+POINT (80.2122049 13.0316543),yes,bus_stop,Ashok Pillar (Towards K.K Nagar & Porur),platform,,,,,,,,80.2122049,13.031654299999998
+POINT (80.2119909 13.032555),yes,bus_stop,Ashok Pillar,platform,அசோக் பில்லர்,,,,,,,80.2119909,13.032555
+POINT (80.2119045 13.0350618),yes,bus_stop,Ashok Pillar,platform,,,,,,,,80.2119045,13.0350618
+POINT (80.2082567 13.0351977),yes,bus_stop,ESIC,platform,,,,,,,,80.2082567,13.0351977
+POINT (80.1467353 13.0229376),yes,bus_stop,Madanandhapuram,,,,,,,,,80.1467353,13.0229376
+POINT (80.254263 13.0272893),yes,bus_stop,R.A. Puram,platform,,,,,,,,80.254263,13.027289299999996
+POINT (80.2757841 13.0867314),yes,bus_stop,Chataram Bus Stop,platform,,,,,,,,80.2757841,13.086731399999998
+POINT (80.1998698 13.1210128),yes,bus_stop,,platform,,,,,,,,80.1998698,13.1210128
+POINT (80.2490952 12.9966477),yes,bus_stop,Women's polytechnic,platform,,yes,yes,,,MTC,,80.2490952,12.996647699999995
+POINT (80.2489226 12.9981822),yes,bus_stop,Women's polytechnic,platform,,no,yes,,,,,80.24892260000001,12.9981822
+POINT (80.2508691 12.9893849),yes,bus_stop,Tidel park,platform,டைடல் பார்க்,,,,,MTC,,80.2508691,12.9893849
+POINT (80.2506682 12.9911334),yes,bus_stop,Tidel Park,platform,டைடல் பார்க்,yes,yes,,,MTC,,80.2506682,12.9911334
+POINT (80.2474452 13.0034788),yes,bus_stop,VHS Hospital,platform,,yes,yes,,,,,80.2474452,13.003478799999998
+POINT (80.2647294 13.0571946),yes,bus_stop,Woodlands Theatre,platform,,,,,,,,80.2647294,13.0571946
+POINT (80.2649869 13.057111),yes,bus_stop,Woodlands Theatre / Wesley school,platform,,,,,,,,80.2649869,13.057111
+POINT (80.2657999 13.0642263),yes,bus_stop,L.I.C,platform,,,,,,,,80.2657999,13.0642263
+POINT (80.261006 13.0475472),yes,bus_stop,Music Academy,platform,மியூசிக் அகாடமி,,,,,,,80.261006,13.047547200000002
+POINT (80.2625181 13.0508912),yes,bus_stop,Gowdia Mutt Road,platform,,,,,,,,80.2625181,13.0508912
+POINT (80.2639569 13.0521591),yes,bus_stop,Royapettah High Road Police Station,platform,,,,,,,,80.2639569,13.0521591
+POINT (80.202201 12.9284375),yes,bus_stop,Oil Mill,platform,,,no,,Oil Mill,Government of Tamil Nadu,,80.202201,12.928437499999998
+POINT (80.2626599 13.0202075),yes,bus_stop,Narayanasamy Thottam,,நாராயணசாமி தோட்டம்,,,Narayanasamy Thottam,,,,80.2626599,13.020207499999996
+POINT (80.2564812 12.9639187),yes,bus_stop,Arsasi Mandi,platform,,,,,,,,80.2564812,12.9639187
+POINT (80.2478057 12.9665741),yes,bus_stop,Kandanchavadi,platform,,,,,,,,80.2478057,12.966574100000004
+POINT (80.2482764 12.9669208),yes,bus_stop,Kandanchavadi,platform,,,,,,,,80.24827640000001,12.966920800000002
+POINT (80.2577701 12.969085),yes,bus_stop,Kottivakkam,platform,கொட்டிவாக்கம்,,,,,,,80.2577701,12.969084999999998
+POINT (80.2576146 12.9694054),yes,bus_stop,Kottivakkam,platform,கொட்டிவாக்கம்,,,,,,,80.2576146,12.969405399999998
+POINT (80.2525895 12.979143),yes,bus_stop,SRP Tools,platform,எஸ்ஆர்பி டூல்ஸ்,,,,,,,80.2525895,12.979143
+POINT (80.2528353 12.9794944),yes,bus_stop,SRP Tools,platform,எஸ்ஆர்பி டூல்ஸ்,,,,,,,80.2528353,12.9794944
+POINT (80.2371784 13.1415836),yes,bus_stop,Thabal Petti,platform,,,,,,,,80.23717840000002,13.1415836
+POINT (80.20255 12.9290533),yes,bus_stop,Oil Mill,platform,,,,,Oil Mill Bustop,,,80.20255,12.929053299999998
+POINT (80.2523565 12.9847375),yes,bus_stop,National Institute of Fashion Technology (N.I.F.T),platform,,,,,,,,80.2523565,12.984737499999998
+POINT (80.2503872 12.9861494),yes,bus_stop,Spastic Society,platform,,,,,,,,80.2503872,12.9861494
+POINT (80.244571 12.9861778),yes,bus_stop,Tech Park,platform,,,,,,,,80.244571,12.986177799999998
+POINT (80.2502837 12.9863453),yes,bus_stop,Spastic Society,platform,,,,,,,,80.2502837,12.9863453
+POINT (80.2444706 12.9863612),yes,bus_stop,Tech Park,platform,,,,,,,,80.2444706,12.986361199999996
+POINT (80.2330053 13.0466924),yes,bus_stop,,platform,,,,,,,,80.2330053,13.046692400000005
+POINT (80.2597715 13.0440218),yes,bus_stop,C.I.T. Colony,platform,,,,,,,,80.2597715,13.044021799999996
+POINT (80.2596312 13.0443128),yes,bus_stop,C.I.T. Colony,platform,,,,,,,,80.2596312,13.0443128
+POINT (80.2189421 12.9712721),yes,bus_stop,Velachery Railway Station,platform,வேளச்சேரி ரயில் நிலையம்,yes,yes,,,,survey,80.2189421,12.971272099999998
+POINT (80.214339 13.0505119),yes,bus_stop,,platform,,,,,,,,80.214339,13.050511899999998
+POINT (80.2034407 12.9485432),yes,bus_stop,Narayana puram,,நாராயண புரம்,,,,Narayanapuram,,,80.2034407,12.9485432
+POINT (80.2033549 12.9487941),yes,bus_stop,Narayana puram,,நாராயண புரம்,,,,Narayana puram,,,80.2033549,12.9487941
+POINT (80.1880722 12.9806753),yes,bus_stop,Roja Medicals,platform,ரோஜா மருந்தகம்,,,,,,,80.1880722,12.9806753
+POINT (80.2159702 12.9639064),yes,bus_stop,Kaiveli,platform,,,,,Kaiveli,,,80.2159702,12.9639064
+POINT (80.2160859 12.9633783),yes,bus_stop,Kaiveli,platform,,,yes,,,Government of Tamil Nadu,,80.2160859,12.9633783
+POINT (80.2206213 13.0363098),yes,bus_stop,Postal Colony,,,,,,,,,80.2206213,13.036309799999998
+POINT (80.2208949 13.0370153),yes,bus_stop,Postal Colony,platform,,,,,,,,80.2208949,13.037015299999998
+POINT (80.2161535 13.0343805),yes,bus_stop,Ram Colony,platform,,,,,Ram Colony Bus Stop,,,80.2161535,13.0343805
+POINT (80.2161173 13.0418514),yes,bus_stop,Pudhur High School Bus Stop,platform,,,,,Pudhur High School Bus Stop,,,80.2161173,13.0418514
+POINT (80.2160469 13.0416992),yes,bus_stop,Pudhur High School Bus Stop,platform,,,,,Pudhur High School Bus Stop,,,80.2160469,13.0416992
+POINT (80.2162105 13.0343297),yes,bus_stop,Ram Colony,platform,,,,,Ram Colony Bus Stop,,,80.2162105,13.0343297
+POINT (80.1651227 13.0383858),yes,bus_stop,Lakshmi Nagar,platform,லட்சுமி நகர்,,,,,,,80.1651227,13.0383858
+POINT (80.2040466 12.9338132),yes,bus_stop,Pallikaranai,platform,பள்ளிக்கரணை,,,,Pallikaranai Stop,Government of Tamil Nadu,,80.2040466,12.933813199999996
+POINT (80.1744872 13.0148049),yes,bus_stop,,,,,,,,,,80.1744872,13.014804899999996
+POINT (80.1852853 12.9878498),yes,bus_stop,Pazhavanthangal,platform,,,,,,,,80.1852853,12.9878498
+POINT (80.1884958 12.9828496),yes,bus_stop,,platform,,,,,Chidambaram Stores Bus Stop,,,80.1884958,12.9828496
+POINT (80.1884954 12.9858342),yes,bus_stop,Nanganallur Market,platform,,,,,,,,80.1884954,12.9858342
+POINT (80.2162638 12.997438),yes,bus_stop,Five Furlong Road,stop_position,,,,,,MTC,,80.2162638,12.997438
+POINT (80.2165418 12.9974054),yes,bus_stop,Velachery Check Post,stop_position,,,,,,MTC,,80.2165418,12.997405400000002
+POINT (80.2164502 12.9974127),yes,bus_stop,Velachery Check Post,stop_position,,,,,,MTC,,80.2164502,12.997412700000002
+POINT (80.2198196 13.0244589),yes,bus_stop,West Saidapet,platform,மேற்கு சைதாப்பேட்டை,,,,,,,80.2198196,13.024458900000004
+POINT (80.211347 13.0092567),yes,bus_stop,Guindy,platform,கிண்டி,,,,,,,80.211347,13.0092567
+POINT (80.2252558 13.0208206),yes,bus_stop,,platform,,,,,,,,80.2252558,13.020820599999997
+POINT (80.271371 13.0749522),yes,bus_stop,Chintadripet,platform,சிந்தாதிரிப்பேட்டை,,,,,,,80.271371,13.074952199999998
+POINT (80.2276336 12.9902736),yes,bus_stop,,platform,,yes,yes,,,,,80.2276336,12.9902736
+POINT (80.2071743 13.0488035),yes,bus_stop,,,,,,,,,,80.20717430000002,13.048803500000002
+POINT (80.2189211 13.0923311),yes,bus_stop,K4 Police Station,platform,,,,,,,,80.2189211,13.0923311
+POINT (80.2658589 13.0642741),yes,bus_stop,L.I.C,platform,எல்.ஐ.சி.,,,,,,,80.2658589,13.064274100000002
+POINT (80.2659171 13.0643262),yes,bus_stop,L.I.C,platform,எல்.ஐ.சி.,,,,,,,80.2659171,13.064326199999996
+POINT (80.2659784 13.0643752),yes,bus_stop,L.I.C,platform,எல்.ஐ.சி.,,,,,,,80.2659784,13.0643752
+POINT (80.2597741 13.0592806),yes,bus_stop,TVS,platform,டி.வி.எஸ்,yes,yes,,,,,80.2597741,13.0592806
+POINT (80.2598375 13.0593336),yes,bus_stop,TVS,platform,டி.வி.எஸ்,yes,yes,,,,,80.2598375,13.0593336
+POINT (80.2595362 13.0593726),yes,bus_stop,TVS,platform,டி.வி.எஸ்,,,,,,,80.2595362,13.0593726
+POINT (80.26254 13.0607702),yes,bus_stop,TVS,platform,டி.வி.எஸ்,,,,,,,80.26254,13.0607702
+POINT (80.2596151 13.0594322),yes,bus_stop,TVS,platform,டி.வி.எஸ்,,,,,,,80.2596151,13.059432199999998
+POINT (80.2596874 13.0594885),yes,bus_stop,TVS,platform,டி.வி.எஸ்,,,,,,,80.2596874,13.059488499999995
+POINT (80.2770347 13.0817908),yes,bus_stop,General Hospital,platform,,,,,,,,80.2770347,13.081790799999998
+POINT (80.2772826 13.0818202),yes,bus_stop,General Hospital,platform,,,,,,,,80.2772826,13.0818202
+POINT (80.2775047 13.0818538),yes,bus_stop,General Hospital,platform,,,,,,,,80.2775047,13.081853799999996
+POINT (80.2777397 13.0818727),yes,bus_stop,General Hospital (Central),platform,,,,,,MTC,,80.2777397,13.0818727
+POINT (80.2637854 13.0628652),yes,bus_stop,LIC,platform,எல்.ஐ.சி.,,,,,,,80.2637854,13.062865199999996
+POINT (80.2638825 13.0629492),yes,bus_stop,LIC,platform,எல்.ஐ.சி.,,,,,,,80.2638825,13.062949200000002
+POINT (80.2663928 13.064682),yes,bus_stop,L.I.C,platform,எல்.ஐ.சி.,,,,,,,80.2663928,13.064681999999996
+POINT (80.2661116 13.064772),yes,bus_stop,LIC,platform,எல்.ஐ.சி.,,,,,,,80.2661116,13.064771999999998
+POINT (80.2883335 13.0810225),yes,bus_stop,Secretariat,platform,,,,,,,,80.2883335,13.081022499999998
+POINT (80.276459 13.0763656),yes,bus_stop,Pallavan Salai,platform,,,,,,MTC,,80.276459,13.0763656
+POINT (80.276179 13.0768078),yes,bus_stop,Pallavan Salai,platform,,,,,,,,80.276179,13.0768078
+POINT (80.2833818 13.0849072),yes,bus_stop,உயர் நீதிமன்றம்,platform,,,,High Court,,,,80.2833818,13.0849072
+POINT (80.2620635 13.074166),yes,bus_stop,Commissioner Office,platform,,,,,,,,80.2620635,13.074165999999998
+POINT (80.267339 13.0689097),yes,bus_stop,,platform,,,,,,,,80.267339,13.0689097
+POINT (80.2646506 13.0716607),yes,bus_stop,Egmore Court,platform,,,,,,,,80.2646506,13.071660700000002
+POINT (80.2403628 13.0503752),yes,bus_stop,,platform,,,,,,,,80.2403628,13.0503752
+POINT (80.2349394 13.0570031),yes,bus_stop,,,,,,,,,,80.2349394,13.057003100000005
+POINT (80.2683179 13.0417872),yes,bus_stop,Valluvar Statue,platform,,,,Valluvar Statue,,,,80.2683179,13.041787200000002
+POINT (80.2681148 13.041983),yes,bus_stop,,platform,,,,,,,,80.2681148,13.041983000000004
+POINT (80.2737964 13.0652457),yes,bus_stop,,platform,,,,,,,,80.2737964,13.0652457
+POINT (80.2781176 13.0581355),yes,bus_stop,கஸ்தூரிபாய் மருத்துவமனை,platform,,,,Kasturibai Hospital,,,,80.2781176,13.058135500000002
+POINT (80.2776637 13.0602054),yes,bus_stop,,platform,,,,,,,,80.27766370000002,13.0602054
+POINT (80.2505676 13.0300269),yes,bus_stop,,platform,,yes,yes,,,,,80.2505676,13.0300269
+POINT (80.2763077 13.0825901),yes,bus_stop,Chennai Central Railway Station,platform,,,,Chennai Central Railway Station,,,,80.2763077,13.0825901
+POINT (80.285738 13.0914641),yes,bus_stop,Loane Square,platform,,,,Loane Square,,,,80.285738,13.091464099999996
+POINT (80.2751809 13.091953),yes,bus_stop,,platform,,,,,,,,80.2751809,13.091953
+POINT (80.2923716 13.0943483),yes,bus_stop,Beach Station,platform,,,,,,,,80.2923716,13.094348300000002
+POINT (80.286395 13.0961399),yes,bus_stop,Mannadi,platform,,,,,,,,80.286395,13.096139900000002
+POINT (80.2937634 13.0990436),yes,bus_stop,Clive Battery,platform,,,,,,,,80.2937634,13.099043599999998
+POINT (80.2866699 13.0996879),yes,bus_stop,,platform,,,,,,,,80.2866699,13.099687899999996
+POINT (80.2749364 13.1010909),yes,bus_stop,,platform,,,,,,,,80.2749364,13.1010909
+POINT (80.2867769 13.1034911),yes,bus_stop,,platform,,,,,,,,80.2867769,13.1034911
+POINT (80.2739713 13.072135),yes,bus_stop,,platform,,,,,,,,80.2739713,13.072135
+POINT (80.2706743 13.102301),,bus_stop,பேசின் பிரிட்ஜ்,platform,,,,Basin Bridge Railway Station,,,,80.2706743,13.102301
+POINT (80.196993 12.9648737),yes,bus_stop,,platform,,no,no,,,,,80.196993,12.964873700000002
+POINT (80.2997199 13.1511559),yes,bus_stop,Rajakadai,platform,,,,,,,,80.29971990000001,13.151155899999996
+POINT (80.2559382 12.9988972),yes,bus_stop,Adyar Depot,,,yes,yes,Adyar Depot Bus Stand,,,,80.25593820000002,12.998897199999998
+POINT (80.259525 13.0162622),yes,bus_stop,Sathya Studio,platform,,,yes,,,,,80.259525,13.016262199999998
+POINT (80.259582 13.0163426),yes,bus_stop,Sathya Studio,platform,,,yes,,,,,80.259582,13.016342599999998
+POINT (80.259639 13.0164211),yes,bus_stop,Sathya Studio,platform,,,yes,,,,,80.259639,13.0164211
+POINT (80.259698 13.0165092),yes,bus_stop,Sathya Studio,platform,,,yes,,,,,80.259698,13.016509199999998
+POINT (80.2561546 12.9984686),yes,bus_stop,Adyar Depot,platform,,,,,,,,80.2561546,12.998468600000002
+POINT (80.2564084 13.0002744),yes,bus_stop,BSNL Office,platform,,,,,,,,80.2564084,13.0002744
+POINT (80.180271 13.1084248),,bus_stop,CSI Church Bus Stop,,,,no,,,MTC,,80.180271,13.108424799999996
+POINT (80.1834048 13.108223),,bus_stop,Korattur 41D Bus Stand,,,,yes,,,MTC,,80.1834048,13.108223
+POINT (80.180364 13.1103434),,bus_stop,Korattur Aerikarai Bus Stop,,,,no,,,MTC,,80.180364,13.110343399999998
+POINT (80.2585701 13.0076573),yes,bus_stop,Adayar Signal,platform,,,,,IIT,,GPS,80.2585701,13.0076573
+POINT (80.2594407 13.0160134),yes,bus_stop,Andhra Mahila Sabha,,,,yes,,IIT,,GPS,80.2594407,13.016013399999997
+POINT (80.2627298 13.0202685),yes,bus_stop,Rani Meyammai School,,,,,,IIT,,GPS,80.2627298,13.0202685
+POINT (80.2643155 13.0264662),yes,bus_stop,Mandaveli,platform,,yes,yes,Mandaveli,IIT,,GPS,80.2643155,13.026466200000003
+POINT (80.2664553 13.0370202),yes,bus_stop,Luz Corner,platform,,,,Luz Corner,IIT,,GPS,80.2664553,13.037020200000002
+POINT (80.2659968 13.029318),yes,bus_stop,St Mary’s Road,platform,,,,St Mary’s Road,IIT,,GPS,80.2659968,13.029318000000002
+POINT (80.2653165 13.0445256),yes,bus_stop,AVM Rajeshwari,platform,ஏ.வி.எம் ராஜேஸ்வரி,,,,IIT,,GPS,80.2653165,13.044525600000002
+POINT (80.2682136 13.0416655),yes,bus_stop,Valluvar Statue,platform,வள்ளுவர் சிலை,,,Valluvar Statue,IIT,,GPS,80.2682136,13.0416655
+POINT (80.2628089 13.04479),yes,bus_stop,Woodlands,platform,உட்லண்ட்ஸ்,,,,IIT,,GPS,80.2628089,13.04479
+POINT (80.2542024 13.0476081),yes,bus_stop,Stella Maris College,platform,,,,,IIT,,GPS,80.2542024,13.0476081
+POINT (80.2567561 13.0461435),yes,bus_stop,Chola Hotel,platform,,,,,IIT,,GPS,80.2567561,13.046143499999998
+POINT (80.2525025 13.0504157),yes,bus_stop,Semozhi Poonga,platform,,,,,IIT,,GPS,80.2525025,13.0504157
+POINT (80.2493825 13.0553071),yes,bus_stop,Gemini,platform,ஜெமினி,,,,IIT,,GPS,80.2493825,13.0553071
+POINT (80.2421558 13.0695972),yes,bus_stop,Chetpet,platform,சேத்துப்பட்டு,,,,IIT,,GPS,80.2421558,13.0695972
+POINT (80.2449997 13.062284),yes,bus_stop,Sterling Road,platform,ஸ்டெர்லிங் ரோடு,,yes,,IIT,,GPS,80.2449997,13.062283999999998
+POINT (80.2509902 13.0897099),yes,bus_stop,Brick Kiln,platform,,,,,IIT,,GPS,80.2509902,13.0897099
+POINT (80.244405 13.0787644),yes,bus_stop,KMC,platform,,,,,IIT,,GPS,80.244405,13.0787644
+POINT (80.2502683 13.0845368),yes,bus_stop,Millers Road,platform,மில்லர்ஸ் சாலை,,,,IIT,,GPS,80.2502683,13.0845368
+POINT (80.2507551 13.0872409),yes,bus_stop,Mekala Theatre,platform,,,,,IIT,,GPS,80.2507551,13.087240899999998
+POINT (80.2509589 13.0941477),yes,bus_stop,Saravana Theatre,platform,,,,,IIT,,GPS,80.2509589,13.0941477
+POINT (80.2513821 13.0972089),yes,bus_stop,Otteri,platform,ஓட்டேரி,,,,IIT,,GPS,80.2513821,13.0972089
+POINT (80.2531007 13.1049521),yes,bus_stop,Mettupalayam,platform,மேட்டுப்பாளையம்,,,,IIT,,GPS,80.25310070000002,13.104952099999998
+POINT (80.2493548 13.1064019),yes,bus_stop,Jamalia,platform,,,,,IIT,,GPS,80.2493548,13.106401900000002
+POINT (80.2458654 13.1071652),yes,bus_stop,Mangalapuram,platform,,,,,IIT,,GPS,80.2458654,13.1071652
+POINT (80.2445619 13.1080594),yes,bus_stop,Perambur Railway Station,platform,பெரம்பூர் ரயில் நிலையம்,,,,IIT,,GPS,80.2445619,13.1080594
+POINT (80.2444885 13.108164),yes,bus_stop,Perambur Railway Station Bus Stand,platform,,,,,IIT,,GPS,80.2444885,13.108163999999997
+POINT (80.2467397 13.1073116),yes,bus_stop,Mangalapuram,platform,,,,,,,GPS,80.2467397,13.107311599999996
+POINT (80.250519 13.1062169),yes,bus_stop,Jamalia,platform,,,,,IIT,,GPS,80.250519,13.106216899999998
+POINT (80.2531768 13.105056),yes,bus_stop,Mettupalayam,platform,மேட்டுப்பாளையம்,,,,IIT,,GPS,80.2531768,13.105055999999996
+POINT (80.2526445 13.1023363),yes,bus_stop,Binny Mills,platform,பின்னி மில்ஸ்,,,,IIT,,GPS,80.2526445,13.1023363
+POINT (80.2514514 13.0972157),yes,bus_stop,Otteri,platform,ஓட்டேரி,,,,IIT,,GPS,80.2514514,13.0972157
+POINT (80.2433699 13.0694621),yes,bus_stop,Chetpet,platform,சேத்துப்பட்டு,,,,IIT,,GPS,80.2433699,13.0694621
+POINT (80.2509794 13.0936235),yes,bus_stop,Saravana Theatre,platform,சரவணா திரையரங்கு,,,,IIT,,GPS,80.2509794,13.0936235
+POINT (80.2511188 13.0906349),yes,bus_stop,R.K. Road,platform,ஆர்.கே சாலை,,,,IIT,,GPS,80.2511188,13.090634899999998
+POINT (80.2506503 13.0872089),yes,bus_stop,Mekala Theatre,platform,,,,,IIT,,GPS,80.2506503,13.0872089
+POINT (80.254603 13.0834502),yes,bus_stop,Millers Road,platform,மில்லர்ஸ் சாலை,,,,IIT,,GPS,80.254603,13.083450199999998
+POINT (80.2521255 13.0787415),yes,bus_stop,KMC,platform,,yes,yes,,IIT,,GPS,80.2521255,13.0787415
+POINT (80.2465225 13.0677838),yes,bus_stop,College Road,platform,கல்லூரி சாலை,yes,yes,,IIT,,GPS,80.2465225,13.0677838
+POINT (80.2478922 13.0666677),yes,bus_stop,Haddows Road,platform,,,yes,,IIT,,GPS,80.2478922,13.066667699999998
+POINT (80.2487138 13.0573221),yes,bus_stop,Income Tax Offrice,platform,வருமான வரி அலுவலகம்,,yes,,IIT,,GPS,80.2487138,13.0573221
+POINT (80.2683208 13.0413309),yes,bus_stop,Valluvar Statue,platform,வள்ளுவர் சிலை,,yes,Valluvar Statue,IIT,,GPS,80.2683208,13.0413309
+POINT (80.2691671 13.044299),yes,bus_stop,VM Street,platform,,,,,,,,80.2691671,13.044299
+POINT (80.247496 13.0606301),yes,bus_stop,Sterling,platform,ஸ்டெர்லிங்,,,,IIT,,GPS,80.247496,13.060630099999996
+POINT (80.2526129 13.0501996),yes,bus_stop,Semozhi Poonga,platform,,,,,IIT,,GPS,80.2526129,13.050199599999996
+POINT (80.2496516 13.0549585),yes,bus_stop,Gemini,platform,ஜெமினி,yes,yes,,IIT,,GPS,80.24965160000002,13.0549585
+POINT (80.2538615 13.048023),yes,bus_stop,Stella Maris College,platform,,,,,IIT,,GPS,80.2538615,13.048023
+POINT (80.256717 13.0459666),yes,bus_stop,Chola Hotel,platform,,,,,IIT,,GPS,80.256717,13.045966600000002
+POINT (80.2681224 13.0344064),yes,bus_stop,Kapaleeshwar Temple,platform,,,,,IIT,,GPS,80.2681224,13.034406399999998
+POINT (80.2648393 13.0447018),yes,bus_stop,Woodlands,platform,,,,,IIT,,GPS,80.26483930000002,13.0447018
+POINT (80.2677461 13.0376266),yes,bus_stop,Luz Corner,platform,,,,Luz Corner,IIT,,GPS,80.2677461,13.0376266
+POINT (80.2667491 13.0299144),yes,bus_stop,Mandaveli Market,platform,,,,,IIT,,GPS,80.2667491,13.0299144
+POINT (80.2634866 13.0222664),yes,bus_stop,Rani Meiyammai School,,,,yes,Rani Meiyammai School,IIT,,GPS,80.2634866,13.0222664
+POINT (80.2597582 13.0162141),yes,bus_stop,Andhra Mahila Sabha,platform,,,yes,,IIT,,GPS,80.25975820000001,13.0162141
+POINT (80.2586412 13.0070713),yes,bus_stop,Adyar Signal,platform,,,,,IIT,,GPS,80.2586412,13.0070713
+POINT (80.2561722 12.998741),yes,bus_stop,Adyar Depot,platform,,,,Adyar Depot Bus Stand,IIT,,GPS,80.2561722,12.998741
+POINT (80.2560835 12.9889638),yes,bus_stop,Jayanthi Theatre,platform,,,,,IIT,,GPS,80.2560835,12.9889638
+POINT (80.2579993 12.9868818),yes,bus_stop,Thiruvanmiyur,platform,திருவான்மியூர்,,yes,,,MTC,GPS;local knowledge,80.2579993,12.9868818
+POINT (80.259059 12.9766865),yes,bus_stop,Thiruvanmiyur RTO,platform,,yes,yes,,IIT,,GPS,80.259059,12.9766865
+POINT (80.2594959 12.9850797),yes,bus_stop,Marundeeswarar Temple,platform,,,,,IIT,,,80.2594959,12.985079699999998
+POINT (80.257895 12.9694759),yes,bus_stop,Kottivakkam,platform,,,,,IIT,,GPS,80.257895,12.9694759
+POINT (80.2575889 12.96954),yes,bus_stop,Kotivakkam,platform,,,,,IIT,,GPS,80.2575889,12.96954
+POINT (80.2552125 12.9540502),yes,bus_stop,Chinna Neelankarai,,,,,,IIT,,GPS,80.2552125,12.954050199999998
+POINT (80.2550489 12.9504769),yes,bus_stop,Vettuvankeni,,,,,,IIT,,,80.25504890000002,12.950476899999998
+POINT (80.2514212 12.9273395),yes,bus_stop,Injambakkam,,,,,,IIT,,GPS,80.2514212,12.927339499999997
+POINT (80.2528146 12.9384549),yes,bus_stop,Saibaba,platform,,,,,IIT,,GPS,80.2528146,12.9384549
+POINT (80.254723 12.9496587),yes,bus_stop,Vettuvankeni,platform,,yes,yes,Neelankarai,IIT,,,80.254723,12.949658700000002
+POINT (80.2514507 12.9273447),yes,bus_stop,Injambakkam,platform,ஈஞ்சம்பாக்கம்,,,,IIT,,GPS,80.25145070000002,12.9273447
+POINT (80.2503942 12.9140134),yes,bus_stop,Water Tank,platform,,,,,IIT,,GPS,80.25039420000002,12.9140134
+POINT (80.2513359 12.9205379),yes,bus_stop,VGP,platform,,,,,IIT,,GPS,80.2513359,12.920537899999998
+POINT (80.2474836 12.8975923),,bus_stop,,,,,,,,,,80.2474836,12.8975923
+POINT (80.2438102 12.8774931),,bus_stop,Nainar Depot,,,,,,IIT,,GPS,80.24381020000001,12.8774931
+POINT (80.2435911 12.8689025),,bus_stop,Uthandi,platform,,,,,IIT,,GPS,80.2435911,12.8689025
+POINT (80.241912 12.8597978),,bus_stop,Ragas,,,,,,IIT,,GPS,80.241912,12.8597978
+POINT (80.2418337 12.8598425),,bus_stop,Ragas,,,,,,IIT,,GPS,80.2418337,12.859842499999996
+POINT (80.2438159 12.8778797),,bus_stop,Nainar Depot,,,,,,IIT,,GPS,80.2438159,12.877879699999998
+POINT (80.2433625 12.8679009),,bus_stop,Uthandi,,,,,,IIT,,GPS,80.2433625,12.867900899999997
+POINT (80.251487 12.9205826),yes,bus_stop,VGP,platform,,,,,IIT,,GPS,80.251487,12.9205826
+POINT (80.2503116 12.9148864),yes,bus_stop,Water Tank,platform,,,,,IIT,,GPS,80.2503116,12.914886399999997
+POINT (80.2526055 12.9384795),yes,bus_stop,Saibaba,platform,,,,,IIT,,GPS,80.2526055,12.9384795
+POINT (80.2550838 12.9544995),yes,bus_stop,Chinna Neelankarai,platform,,yes,yes,,IIT,,GPS,80.2550838,12.9544995
+POINT (80.2547553 13.0066383),yes,bus_stop,Gandhinagar,platform,காந்திநகர்,no,no,Adyar Bus Stand,IIT,,GPS,80.2547553,13.0066383
+POINT (80.2562079 12.9612601),yes,bus_stop,Pallavakkam,platform,,,,,IIT,,GPS,80.2562079,12.9612601
+POINT (80.2465371 13.0065479),yes,bus_stop,Madhya Kailash,platform,மத்திய கைலாஷ்,yes,yes,,IIT,,GPS,80.2465371,13.0065479
+POINT (80.2367069 13.0074031),yes,bus_stop,Gandhi Mandapam,platform,காந்தி மண்டபம்,yes,yes,,IIT,,GPS,80.2367069,13.007403099999996
+POINT (80.2262769 13.0221248),yes,bus_stop,சைதாப்பேட்டை காவல் நிலையம்,platform,சைதாப்பேட்டை காவல் நிலையம்,,,Saidapet Police Station,IIT,,GPS,80.2262769,13.0221248
+POINT (80.2309064 13.0294483),yes,bus_stop,Halcyon Technologies,platform,,,,T.Nagar,IIT,,GPS,80.2309064,13.029448300000002
+POINT (80.2274463 13.0232491),yes,bus_stop,சைதாப்பேட்டை,platform,சைதாப்பேட்டை,,,Saidapet,IIT,,GPS,80.2274463,13.023249099999996
+POINT (80.2262688 13.0143216),yes,bus_stop,Little Mount,platform,,,,,IIT,,GPS,80.2262688,13.0143216
+POINT (80.2334438 13.0083174),yes,bus_stop,Anna University,platform,அண்ணா பல்கலைக்கழகம்,yes,yes,,IIT,,GPS,80.2334438,13.008317399999996
+POINT (80.2097658 13.0072847),yes,bus_stop,Guindy,platform,கிண்டி,,,,IIT,,GPS,80.2097658,13.007284699999998
+POINT (80.1785664 13.0237184),yes,bus_stop,L&T Bus Stop,platform,,yes,yes,,IIT,,GPS,80.1785664,13.0237184
+POINT (80.1689077 13.0290781),yes,bus_stop,Mugalivakkam,platform,,yes,yes,,IIT,,GPS,80.1689077,13.029078099999998
+POINT (80.1632027 13.0323105),yes,bus_stop,Sakthi Nagar,platform,சக்தி நகர்,yes,yes,,IIT,,GPS,80.1632027,13.032310499999998
+POINT (80.1566688 13.0345369),yes,bus_stop,போரூர்,platform,போரூர்,,,Porur,IIT,,GPS,80.1566688,13.034536899999996
+POINT (80.154217 13.0357914),yes,bus_stop,சக்தி நகர்,,சக்தி நகர்,,,Sakthi Nagar,IIT,,GPS,80.154217,13.0357914
+POINT (80.1643507 13.0318741),yes,bus_stop,Sakthi Nagar,platform,சக்தி நகர்,,,,IIT,,GPS,80.1643507,13.0318741
+POINT (80.168626 13.0295066),yes,bus_stop,Mugalivakkam,platform,,,yes,,IIT,,GPS,80.168626,13.0295066
+POINT (80.1767049 13.0250276),yes,bus_stop,Moon lite,platform,,,,,IIT,,GPS,80.1767049,13.0250276
+POINT (80.1839683 13.0209667),yes,bus_stop,Ramapuram,platform,ராமபுரம்,,yes,,IIT,,GPS,80.1839683,13.020966700000002
+POINT (80.1789017 13.0238073),yes,bus_stop,L&T,platform,,,,,IIT,,GPS,80.1789017,13.023807299999998
+POINT (80.1893475 13.016826),yes,bus_stop,Nandambakkam,platform,நந்தம்பாக்கம்,yes,yes,,IIT,,GPS,80.1893475,13.016825999999998
+POINT (80.225033 13.0155768),yes,bus_stop,சின்ன மலை Little Mount Metro,platform,சின்ன மலை,yes,yes,Little Mount,Little Mount,Metropolitan Transport Corporation Chennai,GPS;local knowledge,80.225033,13.015576800000002
+POINT (80.2287544 12.980629),yes,bus_stop,Baby Nagar,platform,,,,,,,,80.2287544,12.980629
+POINT (80.2615847 13.0073755),yes,bus_stop,Avvaai Illam,,,,,,,,,80.2615847,13.007375500000002
+POINT (80.1856214 12.9816323),yes,bus_stop,Independence Day Park,platform,,,,Independence Day Park,,,,80.1856214,12.981632299999998
+POINT (80.2247636 13.0412747),yes,bus_stop,Thambiah Road,platform,தம்பையா சாலை,,,,,,,80.2247636,13.041274699999995
+POINT (80.2246214 13.042286),yes,bus_stop,,platform,,,,,,,,80.2246214,13.042286
+POINT (80.2416011 13.0403357),yes,bus_stop,Holy Angels Convent,platform,,yes,yes,,,,,80.2416011,13.040335700000002
+POINT (80.2392262 13.0404185),yes,bus_stop,,platform,,yes,yes,,,,,80.2392262,13.0404185
+POINT (80.2376529 13.0407766),yes,bus_stop,T. Nagar Pondy Bazaar Big Bazaar,platform,,yes,yes,,,,,80.2376529,13.040776599999996
+POINT (80.191524 13.0465771),yes,bus_stop,Virugambakkam,platform,,,,,,,,80.191524,13.0465771
+POINT (80.2242622 13.0290249),yes,bus_stop,Oxford School,platform,ஆக்ஸ்போர்டு பள்ளி,,,,,,,80.2242622,13.029024899999998
+POINT (80.2242183 13.031205),yes,bus_stop,Srinivasa Theatre,platform,சீனிவாச திரையரங்கு,,,,,,,80.2242183,13.031205
+POINT (80.2240709 13.0311449),yes,bus_stop,Srinivasa Theatre,platform,சீனிவாச திரையரங்கு,,,,,,,80.2240709,13.0311449
+POINT (80.2240205 13.0290173),yes,bus_stop,Oxford School,platform,ஆக்ஸ்போர்டு பள்ளி,,,,,,,80.2240205,13.0290173
+POINT (80.2119807 13.0036032),yes,bus_stop,Maduvankarai,platform,,no,no,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2119807,13.0036032
+POINT (80.2045927 13.0140912),yes,bus_stop,Olympia Tech Park,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2045927,13.014091199999998
+POINT (80.213001 13.0241758),yes,bus_stop,West Saidapet,platform,மேற்கு சைதாப்பேட்டை,,,,,METRO TRANSPORT CORPORATION,,80.213001,13.024175799999998
+POINT (80.2334748 12.981636),yes,bus_stop,Bharathi Nagar,stop_position,,,,,,MTC,,80.2334748,12.981635999999998
+POINT (80.2391518 12.9985806),yes,bus_stop,,platform,,yes,yes,Vanavani,,IITM Transport Cell,,80.2391518,12.9985806
+POINT (80.2394049 12.999126),yes,bus_stop,,platform,,yes,yes,Vanavani,,IITM Transport Cell,,80.2394049,12.999126
+POINT (80.2359191 12.9960586),yes,bus_stop,,platform,,yes,yes,E1 bus stop,,iITM Transport Cell,,80.2359191,12.9960586
+POINT (80.2337735 12.9920732),yes,bus_stop,,platform,,yes,no,Gajendra Circle,,IITM Transport Cell,,80.2337735,12.992073199999998
+POINT (80.2336686 12.9921946),yes,bus_stop,,platform,,yes,yes,Gajendra Circle,,IITM Transport Cell,,80.23366860000002,12.9921946
+POINT (80.2362203 12.9961354),yes,bus_stop,,platform,,,,E1 bus stop,,IITM Transport Cell,,80.2362203,12.9961354
+POINT (80.2402119 13.0026838),yes,bus_stop,,platform,,yes,yes,MOH bus stop,,,,80.2402119,13.002683799999998
+POINT (80.2343355 12.9939545),yes,bus_stop,,platform,,yes,yes,Post office bus stop,,IITM Transport Cell,,80.2343355,12.993954499999996
+POINT (80.2400679 13.0025534),yes,bus_stop,,platform,,yes,yes,MOH bus stop,,,,80.2400679,13.0025534
+POINT (80.2413768 13.0038121),yes,bus_stop,,platform,,yes,yes,D Type bus stop,,,,80.2413768,13.003812099999998
+POINT (80.2347372 12.9941561),yes,bus_stop,,platform,,,,Post office bus stop,,IITM Transport Cell,,80.2347372,12.994156099999998
+POINT (80.2330109 12.9911913),yes,bus_stop,,platform,,no,no,Admin bus stop,,,,80.2330109,12.9911913
+POINT (80.2319706 12.9910324),yes,bus_stop,,platform,,yes,no,Admin bus stop,,,,80.2319706,12.9910324
+POINT (80.2279555 12.9032844),yes,bus_stop,சோழிங்கநல்லூர்,platform,,,,Sozhinganallur,,,,80.2279555,12.9032844
+POINT (80.228228 12.9075689),yes,bus_stop,Accenture,platform,,,,Accenture,,,,80.228228,12.9075689
+POINT (80.242543 13.0400117),yes,bus_stop,Nagesh Theatre stop,platform,,yes,yes,,,,,80.242543,13.0400117
+POINT (80.2429146 13.0399858),yes,bus_stop,Globus,platform,குளோபஸ்,yes,yes,,,,,80.2429146,13.039985799999997
+POINT (80.1845 13.0204579),yes,bus_stop,மியாட் மருத்துவமனை,platform,,,,MIOT Hospital,,,,80.18450000000001,13.020457899999998
+POINT (80.1935118 13.014377),yes,bus_stop,,platform,,yes,yes,Jaynthi Theatre,,MTC,,80.1935118,13.014377
+POINT (80.1833445 13.0210717),yes,bus_stop,,platform,,,,Main Road,,,,80.1833445,13.0210717
+POINT (80.2306959 13.0407196),yes,bus_stop,Doraiswamy Road,platform,,,,,,,,80.2306959,13.0407196
+POINT (80.2479405 13.067122),yes,bus_stop,,platform,,yes,yes,College Road,,,,80.2479405,13.067121999999998
+POINT (80.2349783 13.0645529),yes,bus_stop,Loyola College,platform,,yes,yes,Loyola College,,,,80.2349783,13.064552899999995
+POINT (80.2486265 13.0679286),yes,bus_stop,,platform,,,,College Road / WCC,,,,80.2486265,13.067928600000002
+POINT (80.2346949 13.064739),yes,bus_stop,Loyola College,platform,,yes,yes,Loyola College,,,,80.23469490000001,13.064739
+POINT (80.2019974 13.0726445),yes,bus_stop,,platform,,,,SRS travels,,,,80.2019974,13.0726445
+POINT (80.2003418 13.0735659),yes,bus_stop,Marriage Hall Bus Stop,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2003418,13.073565899999998
+POINT (80.2782021 13.0580016),yes,bus_stop,கஸ்தூரிபாய் மருத்துவமனை,platform,,,,Kasturibai Hospital,,,,80.2782021,13.0580016
+POINT (80.23531 13.0470676),yes,bus_stop,Bazullah road,platform,,,,,,,,80.23531,13.0470676
+POINT (80.2600237 13.048667),yes,bus_stop,,,,,,,,,,80.2600237,13.048667
+POINT (80.2775015 13.0326478),yes,bus_stop,,,,,,,,,,80.2775015,13.032647799999998
+POINT (80.2772514 13.033435),yes,bus_stop,,,,,,,,,,80.2772514,13.033435
+POINT (80.1913595 13.031501),yes,bus_stop,,platform,,,,MGR STATUE,,,,80.1913595,13.031501000000002
+POINT (80.2867926 13.1088932),yes,bus_stop,,platform,,,,Stanley Subway,,,,80.2867926,13.108893199999995
+POINT (80.2867247 13.104527),yes,bus_stop,,platform,,,,Stanley - Mint Subway,,,,80.28672470000001,13.104527
+POINT (80.2913847 13.1078822),yes,bus_stop,,platform,,,,Singaravelar Memorial,,,,80.2913847,13.107882199999995
+POINT (80.2543724 13.0289852),yes,bus_stop,,platform,,,,HM Hospital or kaliappa bus stop,,,,80.2543724,13.0289852
+POINT (80.2279854 12.8988445),yes,bus_stop,Sholinganallur,platform,,,,,,,,80.2279854,12.8988445
+POINT (80.2016549 13.0363277),yes,bus_stop,MGR Market,platform,,,,,,,,80.2016549,13.036327699999998
+POINT (80.2512974 12.9861355),yes,bus_stop,SRP Tools Bus Stand,platform,,,,,,,,80.2512974,12.986135499999998
+POINT (80.2013107 13.0853785),yes,bus_stop,Thirumangalam Metro,platform,திருமங்கலம் மெட்ரோ பேருந்து நிறுத்தம்,yes,yes,,,Government,,80.2013107,13.0853785
+POINT (80.2064033 13.0190177),yes,bus_stop,Ekkattuthangal,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2064033,13.019017700000004
+POINT (80.2066739 13.0243667),yes,bus_stop,Kalaimagal Nagar,platform,,yes,yes,,,,,80.2066739,13.024366699999996
+POINT (80.2069943 13.0243263),yes,bus_stop,Kalaimagal Nagar,platform,,yes,yes,,,,,80.2069943,13.024326299999998
+POINT (80.1981881 13.0870648),yes,bus_stop,Thirumangalam EB Office Bus Stop,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.1981881,13.087064799999998
+POINT (80.2121426 13.0468396),yes,bus_stop,Vadapalani,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2121426,13.046839599999997
+POINT (80.2114618 13.053955),yes,bus_stop,Vadapalani (Nerkundram Pathai),platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2114618,13.053955
+POINT (80.2115596 13.0630102),yes,bus_stop,MMDA,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2115596,13.0630102
+POINT (80.1983699 13.082197),yes,bus_stop,CPWD Quarters Bus Stop,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.1983699,13.082197
+POINT (80.2533063 12.9420294),yes,bus_stop,Buhari Hotel Bus Stop,,,,,,,,,80.2533063,12.942029399999996
+POINT (80.2592029 12.976764),yes,bus_stop,Thiruvanmiyur RTO,platform,,yes,yes,,,,,80.2592029,12.976763999999998
+POINT (80.2152668 13.076939),yes,bus_stop,Aringar Anna Arch,platform,,yes,yes,,,,,80.2152668,13.076939
+POINT (80.2176034 13.075358),yes,bus_stop,Anna Arch,platform,,,,,,,,80.2176034,13.075357999999998
+POINT (80.2178689 13.0851915),yes,bus_stop,Kandhasamy College,platform,,,,,,,,80.2178689,13.0851915
+POINT (80.2180699 13.0906948),yes,bus_stop,S. S. Super Market Bus Stop,platform,,,,,,,,80.2180699,13.090694799999998
+POINT (80.2187163 13.0957115),yes,bus_stop,Anna Peripheral Hospital Stop,platform,,,,,,,,80.2187163,13.095711500000002
+POINT (80.2086858 13.1027785),yes,bus_stop,Kalpana Hotel Stop,platform,,,,,,,,80.2086858,13.1027785
+POINT (80.1989924 13.1032312),yes,bus_stop,SIDCO Nagar,platform,,,,,,,,80.1989924,13.1032312
+POINT (80.2026581 13.1036674),yes,bus_stop,Nathamuni Theatre Stop,platform,,,,,,,,80.2026581,13.103667399999996
+POINT (80.2061553 13.1080663),yes,bus_stop,South Redhills Road Market,platform,,,,,,,,80.2061553,13.1080663
+POINT (80.2107409 13.1022099),yes,bus_stop,Kallukadai Stop,platform,,,,,,,,80.2107409,13.102209899999998
+POINT (80.2145485 13.1001091),yes,bus_stop,ICF,platform,,,,,,,,80.2145485,13.100109099999996
+POINT (80.2189413 13.0956228),yes,bus_stop,Anna Peripheral Hospital Stop,platform,,,,,,,,80.2189413,13.095622799999996
+POINT (80.2182669 13.0900917),yes,bus_stop,14 Shops Stop,platform,,,,,,,,80.2182669,13.090091700000002
+POINT (80.218134 13.0858113),yes,bus_stop,Kandasamy College,platform,,,,,,,,80.218134,13.0858113
+POINT (80.2159601 13.0848033),yes,bus_stop,Anna Nagar Roundtana,platform,,,,Anna Nagar Roundabout,,,,80.2159601,13.0848033
+POINT (80.2132579 13.0848976),yes,bus_stop,Ayyappan Kovil,platform,,,,Ayyappan Temple,,,,80.2132579,13.084897599999998
+POINT (80.2118818 13.0847224),yes,bus_stop,Ayyappan Kovil,platform,,,,Ayyappan Temple,,,,80.2118818,13.084722399999997
+POINT (80.2109928 13.0849958),yes,bus_stop,Blue Star,platform,,,,,,,,80.2109928,13.084995799999996
+POINT (80.2095342 13.0848336),yes,bus_stop,Anna Nagar Tower Station,platform,,,,,,,,80.2095342,13.0848336
+POINT (80.2095483 13.0850967),yes,bus_stop,Anna Nagar Tower Station,platform,,,,,,,,80.2095483,13.0850967
+POINT (80.2059235 13.0186408),yes,bus_stop,Ekkattuthangal,platform,,,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2059235,13.0186408
+POINT (80.253785 13.054195),yes,bus_stop,ஆயிரம் விளக்கு,platform,,yes,yes,thousand lights,,,,80.253785,13.054195
+POINT (80.1974447 13.0873581),,bus_stop,Thirumangalam EB Office,platform,,,,,,,,80.1974447,13.0873581
+POINT (80.1903448 13.0878057),,bus_stop,Collector Nagar,platform,,,,,,,,80.1903448,13.0878057
+POINT (80.1893914 13.0875626),yes,bus_stop,Collector Nagar,platform,,,,,,,,80.18939140000002,13.0875626
+POINT (80.2065633 13.0692359),yes,bus_stop,Jai Nagar Park,platform,,,,,,,,80.2065633,13.069235899999995
+POINT (80.2002264 13.073976),yes,bus_stop,Vijayakanth Kalyana Mandapam,platform,,,,,,,,80.2002264,13.073976000000002
+POINT (80.1987027 13.0820746),yes,bus_stop,CPWD Quarters Bus Stop,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.1987027,13.0820746
+POINT (80.2113404 13.0318973),yes,bus_stop,Pondicherry Buses Only,platform,,,,,,,,80.2113404,13.031897300000002
+POINT (80.2123446 13.0476117),yes,bus_stop,Sivan Kovil,platform,,,,,,,,80.2123446,13.047611699999996
+POINT (80.2116987 13.0580044),yes,bus_stop,Thirunagar,platform,,,,,,,,80.2116987,13.058004399999996
+POINT (80.2112943 13.0651401),yes,bus_stop,MMDA,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2112943,13.0651401
+POINT (80.2553985 12.9874595),yes,bus_stop,Jayanti,platform,ஜெயந்தி,,,,,,,80.25539850000001,12.9874595
+POINT (80.21336 13.00809),yes,bus_stop,Race Course (Guindy),platform,,yes,yes,,,,,80.21336,13.00809
+POINT (80.1986536 13.119438),yes,bus_stop,DRJ Hospital Bus stop,platform,,yes,yes,,,,,80.1986536,13.119438
+POINT (80.2333649 12.9866789),yes,bus_stop,Taramani Guest House,platform,,yes,no,,,,,80.2333649,12.9866789
+POINT (80.259745 12.9852935),yes,bus_stop,Marudeeswarar Temple,platform,,,yes,,,,,80.259745,12.9852935
+POINT (80.2591757 13.014823),yes,bus_stop,Sathya Studio,platform,,,,,,,,80.2591757,13.014822999999998
+POINT (80.2549486 13.0565227),yes,bus_stop,,platform,,,,,,,,80.2549486,13.056522699999997
+POINT (80.2583912 13.0069536),yes,bus_stop,Malar Hospital,platform,,,,,,,,80.2583912,13.0069536
+POINT (80.2587553 13.0079179),yes,bus_stop,Malar Hospital,platform,,,,,,,,80.2587553,13.0079179
+POINT (80.2420016 13.0700086),yes,bus_stop,,platform,,,,,,,,80.2420016,13.0700086
+POINT (80.2527264 13.1029895),yes,bus_stop,Binny Mills,platform,பின்னி மில்ஸ்,,,,IIT,,GPS,80.2527264,13.102989499999998
+POINT (80.2593997 12.9872302),yes,bus_stop,Thiruvanmiyur Moffusil bus stop,platform,,,,,,,,80.2593997,12.987230200000004
+POINT (80.2111736 13.0319226),yes,bus_stop,Ashoknagar Moffussil,platform,,,,,,,,80.2111736,13.031922599999998
+POINT (80.2796732 13.0505248),yes,bus_stop,,platform,,,,,,,,80.2796732,13.0505248
+POINT (80.1744381 13.0148178),yes,bus_stop,,platform,,,,,,,,80.1744381,13.0148178
+POINT (80.1744052 13.0145924),yes,bus_stop,,platform,,,,,,,,80.1744052,13.014592400000002
+POINT (80.2587935 13.0386017),yes,bus_stop,ஆழ்வார் பேட்டை,platform,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2587935,13.0386017
+POINT (80.2588606 13.0388081),yes,bus_stop,ஆழ்வார் பேட்டை,platform,ஆழ்வார் பேட்டை,,yes,Alwarpet,,,,80.2588606,13.0388081
+POINT (80.233499 12.9816579),yes,bus_stop,Bharathi Nagar,platform,,yes,yes,,,MTC,,80.233499,12.9816579
+POINT (80.2685434 13.0444719),yes,bus_stop,Yellow Pages,platform,,,yes,,,,,80.2685434,13.044471899999996
+POINT (80.2559973 12.9883854),yes,bus_stop,Jayanti,platform,ஜெயந்தி,,,,,,,80.2559973,12.9883854
+POINT (80.2558203 12.9885252),yes,bus_stop,Jayanti,platform,ஜெயந்தி,,,,,,,80.2558203,12.9885252
+POINT (80.2202958 12.9906984),yes,bus_stop,Guru Nanak College,platform,,yes,yes,,,MTC,,80.2202958,12.990698399999998
+POINT (80.2477388 13.0034222),yes,bus_stop,VHS Hospital,platform,,yes,yes,,,,,80.2477388,13.0034222
+POINT (80.2543612 13.006442),yes,bus_stop,Adyar,platform,,no,no,Adyar Bus Stand,,,,80.2543612,13.006442
+POINT (80.2424924 13.0058253),yes,bus_stop,IIT Gate Bus Stop,platform,,yes,no,,MG,,,80.2424924,13.0058253
+POINT (80.2598 12.9858005),yes,bus_stop,Thiruvanmiyur ECR Moffusil Bus stop,platform,,,,,,,,80.2598,12.9858005
+POINT (80.2162966 12.9974701),yes,bus_stop,Five Furlong Road,platform,,yes,yes,,,MTC,,80.2162966,12.9974701
+POINT (80.2166627 12.9973995),yes,bus_stop,Velachery Check Post,platform,,yes,yes,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2166627,12.997399499999998
+POINT (80.2164321 12.9974859),yes,bus_stop,Velachery Check Post,platform,,yes,yes,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2164321,12.997485899999996
+POINT (80.209398 13.008031),yes,bus_stop,Guindy,platform,கிண்டி,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.209398,13.008031000000004
+POINT (80.2111924 13.0089182),yes,bus_stop,கிண்டி,platform,கிண்டி,yes,yes,Guindy,,,,80.2111924,13.008918199999998
+POINT (80.2300317 12.9907728),yes,bus_stop,,platform,,no,no,,,,,80.2300317,12.990772800000002
+POINT (80.2301226 12.9909124),yes,bus_stop,Campus cafe,platform,,yes,yes,,,,,80.2301226,12.990912399999996
+POINT (80.253739 13.0290019),yes,bus_stop,Bus Stop,platform,,yes,yes,,,,,80.253739,13.0290019
+POINT (80.2276191 13.0912499),yes,bus_stop,VOC Nagar Bus Stop,platform,,,,,,,,80.2276191,13.091249899999996
+POINT (80.2465885 13.0858185),yes,bus_stop,Abirami theatre bus stop,platform,,,,,,,,80.2465885,13.085818499999998
+POINT (80.1968385 13.0752687),yes,bus_stop,YBM Koyambedu,platform,,,,,,,,80.1968385,13.0752687
+POINT (80.1912316 13.0154329),yes,bus_stop,,platform,,,,Chennai Trade Centre,,,,80.1912316,13.015432900000002
+POINT (80.2627793 12.9961241),yes,bus_stop,Vannanthurai,platform,,no,yes,,,,,80.2627793,12.9961241
+POINT (80.1984558 13.0906674),yes,bus_stop,திருமங்கலம்,platform,,,,Thirumangalam Bus Stop,,,,80.1984558,13.0906674
+POINT (80.1984396 13.0917305),,bus_stop,Bus Stop,,,,,,,,,80.1984396,13.0917305
+POINT (80.2622149 13.0631374),yes,bus_stop,,platform,,,,Quaid e Millath,,,,80.2622149,13.0631374
+POINT (80.2457574 12.8869167),,bus_stop,Panaiyur,,,,,,IIT,,GPS,80.2457574,12.8869167
+POINT (80.1563349 13.1037511),,bus_stop,T I Miller Bus Stop,platform,,,,,,,,80.1563349,13.1037511
+POINT (80.1566326 13.1034994),,bus_stop,T I Miller Bus Stop,platform,,,,,,,,80.1566326,13.1034994
+POINT (80.212033 13.0329587),yes,bus_stop,Mofussil Bus Stop,platform,,,,,,,,80.212033,13.0329587
+POINT (80.2427631 13.0577143),yes,bus_stop,Nungambakkam Police Station,platform,,,,,,,,80.2427631,13.0577143
+POINT (80.2479376 13.0533162),yes,bus_stop,Bus stop,platform,,,,,,,,80.2479376,13.0533162
+POINT (80.2502408 12.9729954),yes,bus_stop,IGP,stop_position,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2502408,12.9729954
+POINT (80.2548953 13.0356479),yes,bus_stop,ஆழ்வார் பேட்டை,stop_position,ஆழ்வார் பேட்டை,,,Alwarpet,,MTC,,80.2548953,13.0356479
+POINT (80.2427833 13.0231055),yes,bus_stop,Kotturpuram,stop_position,,,,,,MTC,,80.2427833,13.0231055
+POINT (80.2413141 13.0185768),yes,bus_stop,Kottur,stop_position,,,,,,MTC,,80.2413141,13.0185768
+POINT (80.2405691 13.0100519),yes,bus_stop,Birla planetarium / CLRI,stop_position,,,,,,MTC,,80.2405691,13.0100519
+POINT (80.2468241 12.9862169),yes,bus_stop,Ascendas IT park,stop_position,,,,,,MTC,,80.24682410000001,12.9862169
+POINT (80.2609805 13.0471019),yes,bus_stop,Music Academy,platform,,,,,,MTC,,80.2609805,13.0471019
+POINT (80.1896304 13.1008368),yes,bus_stop,Lucas TVS Bus stop,platform,,,,,,MTC,,80.1896304,13.100836800000002
+POINT (80.1896425 13.1013007),yes,bus_stop,Lucas TVS Bus stop,platform,,,,,,MTC,,80.1896425,13.101300699999998
+POINT (80.1480991 13.1216328),yes,bus_stop,Ambattur OT,platform,,,no,,,,,80.1480991,13.121632800000002
+POINT (80.1522998 13.1103659),yes,bus_stop,Canara Bank Bus Stop,platform,,,yes,,,,,80.1522998,13.1103659
+POINT (80.1510999 13.1116502),yes,bus_stop,Canara Bank Bus Stop,platform,,,,,,,,80.1510999,13.1116502
+POINT (80.1625708 13.1015063),yes,bus_stop,Telephone Exchange Bus Stop,platform,,,,,,,,80.1625708,13.1015063
+POINT (80.1625588 13.1012663),yes,bus_stop,Telephone Exchange Bus Stop,platform,,,,,,,,80.1625588,13.1012663
+POINT (80.1703579 13.0998328),yes,bus_stop,Ambattur Industrial Estate Bus Stop,platform,,,,,,,,80.1703579,13.0998328
+POINT (80.1702657 13.0994583),yes,bus_stop,Ambattur Industrial Estate Bus Stop,platform,,,no,,,,,80.1702657,13.099458300000002
+POINT (80.1715578 13.0886781),yes,bus_stop,Wavin,platform,,yes,yes,,,,,80.1715578,13.0886781
+POINT (80.172007 13.0884416),yes,bus_stop,Wavin,platform,,yes,yes,,,,,80.172007,13.0884416
+POINT (80.1987163 13.0941517),yes,bus_stop,Anna Nagar West,platform,,,,,,,,80.1987163,13.094151699999996
+POINT (80.1483885 13.1228068),yes,bus_stop,Ambattur OT,platform,,,,,,,,80.14838850000001,13.122806799999996
+POINT (80.2220136 13.0720107),yes,bus_stop,Skywalk,platform,,yes,yes,,,,,80.2220136,13.0720107
+POINT (80.2208333 13.073815),yes,bus_stop,Skywalk,platform,,,,,,,,80.2208333,13.073814999999998
+POINT (80.2181587 13.0760536),yes,bus_stop,Anna Arch,platform,,,,,,,,80.2181587,13.0760536
+POINT (80.1524361 13.1060625),yes,bus_stop,Dunlop,platform,,,,,,,,80.1524361,13.106062499999998
+POINT (80.1784121 13.0883017),yes,bus_stop,Golden Flats,platform,,yes,yes,,,,,80.1784121,13.088301699999995
+POINT (80.2269976 13.0678542),yes,bus_stop,Mehtha Nagar,platform,,yes,yes,,,,,80.2269976,13.0678542
+POINT (80.230974 13.0666515),yes,bus_stop,Choolaimedu,platform,,,,,,,,80.230974,13.0666515
+POINT (80.2305198 13.0666287),yes,bus_stop,Choolaimedu,platform,,,,,,,,80.2305198,13.066628699999995
+POINT (80.1526301 13.1049651),yes,bus_stop,Dunlop,platform,,,,,,,,80.1526301,13.104965099999998
+POINT (80.2268263 13.0678373),yes,bus_stop,Mehtha Nagar,platform,,yes,yes,,,,,80.2268263,13.0678373
+POINT (80.2423007 13.05383),yes,bus_stop,Valluvar Kottam,platform,,yes,yes,,,,,80.2423007,13.05383
+POINT (80.181918 13.0984444),yes,bus_stop,Brittania bus stop,platform,,,,,,,,80.181918,13.098444399999998
+POINT (80.1931123 13.0397523),yes,bus_stop,Amutham,platform,,no,no,,,,,80.1931123,13.039752299999996
+POINT (80.1914521 12.9726563),yes,bus_stop,Kumaran Theater,platform,,,,,,MTC,,80.1914521,12.9726563
+POINT (80.2219649 12.9829795),yes,bus_stop,Dhandeeswaram,platform,,,,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2219649,12.9829795
+POINT (80.2229117 12.9864532),yes,bus_stop,Gandhi Road,platform,,,,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2229117,12.986453199999998
+POINT (80.2159576 12.9976865),yes,bus_stop,Five Furlong Road,platform,,yes,yes,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2159576,12.997686499999997
+POINT (80.2045846 13.0148569),yes,bus_stop,Olympia Tech Park,platform,,,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2045846,13.0148569
+POINT (80.1694157 13.0890597),yes,bus_stop,Mogaipair Junction,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.1694157,13.089059699999998
+POINT (80.221563 12.9762731),yes,bus_stop,Velachery Vijaynagar,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.221563,12.976273099999998
+POINT (80.2524814 12.983168),yes,bus_stop,National Institute of Fashion Technology (N.I.F.T),platform,,,,,,,,80.2524814,12.983168
+POINT (80.2427068 12.9814108),yes,bus_stop,Taramani 100 Feet Road,platform,,,,,,,,80.2427068,12.981410799999995
+POINT (80.2427187 12.9812324),yes,bus_stop,Taramani 100 Feet Road,platform,,,,,,,,80.2427187,12.981232399999996
+POINT (80.1974301 12.9260465),yes,bus_stop,High School,platform,,,no,,,,,80.1974301,12.926046500000002
+POINT (80.2037553 12.9336313),yes,bus_stop,Pallikkaranai,platform,,,,,,,,80.2037553,12.9336313
+POINT (80.2082021 12.9442869),yes,bus_stop,Balaji Dental College,platform,,yes,yes,,,,,80.2082021,12.944286900000002
+POINT (80.2098257 12.948759),yes,bus_stop,Kamatchi Memorial Hospital,platform,,,,,,,,80.20982570000001,12.948759
+POINT (80.211823 12.9534266),yes,bus_stop,Balaji Nagar,platform,,,,,,,,80.211823,12.953426599999998
+POINT (80.2208286 12.9751658),yes,bus_stop,Velachery Vijaya Nagar,platform,,yes,yes,,,MTC,,80.2208286,12.9751658
+POINT (80.2192719 12.9712086),yes,bus_stop,Velachery Railway Station,platform,,no,yes,,,Government of Tamil Nadu,,80.2192719,12.971208599999995
+POINT (80.2101768 12.9482196),yes,bus_stop,Kamatchi Memorial Hospital,platform,,,,,,Government of Tamil Nadu,,80.2101768,12.9482196
+POINT (80.208506 12.9441308),yes,bus_stop,Balaji Dental College,platform,,yes,no,,,Government of Tamil Nadu,,80.208506,12.9441308
+POINT (80.1977637 12.9265939),yes,bus_stop,High School,platform,,,yes,,,Government of Tamil Nadu,,80.1977637,12.926593899999997
+POINT (80.1962538 12.9648849),yes,bus_stop,Ponniamman Koil,platform,,no,no,,,,,80.1962538,12.9648849
+POINT (80.2013584 12.965438),yes,bus_stop,Balaiah Garden,platform,,yes,yes,,,,,80.2013584,12.965438
+POINT (80.2069929 12.9653278),yes,bus_stop,Ram Nagar,platform,,yes,yes,,,,,80.2069929,12.965327800000004
+POINT (80.2031164 12.9658462),yes,bus_stop,Sadasiva Nagar,platform,,,,,,,,80.2031164,12.965846199999998
+POINT (80.2122277 13.0342862),yes,bus_stop,Ashok Pillar,platform,,,,,,,,80.2122277,13.0342862
+POINT (80.1915348 12.9725096),yes,bus_stop,Kumaran Theater,platform,,,,,,,,80.1915348,12.9725096
+POINT (80.2814746 13.0876798),yes,bus_stop,Flower Bazaar,platform,,,,,,,,80.2814746,13.0876798
+POINT (80.197745 12.9886237),yes,bus_stop,,platform,,,,,,,,80.197745,12.988623699999996
+POINT (80.2073255 12.9977774),yes,bus_stop,Mahalakshmi Colony,platform,,,yes,,,,,80.2073255,12.9977774
+POINT (80.2072705 12.9980198),yes,bus_stop,Mahalakshmi Apartments,platform,,,yes,,,,,80.2072705,12.9980198
+POINT (80.1917198 12.9827924),yes,bus_stop,Pillayar Koil,platform,,,,,,,,80.1917198,12.9827924
+POINT (80.2202503 13.0121297),yes,bus_stop,Chellammal College,platform,,yes,yes,,,,,80.2202503,13.012129699999996
+POINT (80.2297489 13.0254505),yes,bus_stop,Todhunter Nagar,platform,,yes,yes,,,,,80.22974890000002,13.025450500000002
+POINT (80.2369328 13.0294407),yes,bus_stop,Nandanam,platform,,yes,yes,,,,,80.2369328,13.0294407
+POINT (80.2427912 13.0465924),yes,bus_stop,Vani Mahal,platform,,yes,yes,,,,,80.2427912,13.0465924
+POINT (80.2439043 13.047),yes,bus_stop,Vani Mahal,platform,,yes,yes,,,,,80.2439043,13.047
+POINT (80.1857835 12.9853446),yes,bus_stop,Jai Gopal Garodia School,platform,,,,,,,,80.1857835,12.985344599999998
+POINT (80.1857694 12.9823175),yes,bus_stop,Independence Day Park,platform,,,,,,,,80.1857694,12.9823175
+POINT (80.1829123 12.9798333),yes,bus_stop,Vetrivel Theatre,platform,,,,,,,,80.1829123,12.9798333
+POINT (80.1761799 12.9873223),yes,bus_stop,Meenambakkam Metro,platform,,yes,yes,,,,,80.1761799,12.9873223
+POINT (80.2384985 12.981393),yes,bus_stop,Pillayar Koil,platform,,yes,yes,,,,,80.23849850000002,12.981393000000002
+POINT (80.2381908 12.9811706),yes,bus_stop,Pillayar Koil,platform,,,,,,,,80.2381908,12.9811706
+POINT (80.2195223 12.9910579),,bus_stop,Phoenix Mall,,,,,,,,,80.2195223,12.991057899999998
+POINT (80.2183655 12.9871386),yes,bus_stop,Erikkarai,platform,,yes,yes,,,,,80.2183655,12.987138600000002
+POINT (80.2180709 12.9839239),,bus_stop,Rajalakshmi Nagar,,,yes,yes,,,,,80.2180709,12.983923899999995
+POINT (80.2203904 13.0046861),yes,bus_stop,Guindy Race Course,platform,,yes,yes,,,,,80.2203904,13.0046861
+POINT (80.2460822 13.0485705),yes,bus_stop,GN Chetty Road,platform,,,,,,,,80.2460822,13.0485705
+POINT (80.2228615 13.0104553),,bus_stop,Halda,,,,,,,,,80.2228615,13.0104553
+POINT (80.2181539 12.9873344),yes,bus_stop,Erikkarai,platform,,yes,yes,,,,,80.2181539,12.987334399999998
+POINT (80.2630248 13.0446727),yes,bus_stop,New Woodlands,platform,,,,,,,,80.2630248,13.044672699999996
+POINT (80.2631942 13.0448097),yes,bus_stop,New Woodlands,platform,,,,,,,,80.2631942,13.044809699999998
+POINT (80.2653248 13.0446914),yes,bus_stop,AVM Rajeshwari Thirumana Mandapam,platform,,,,,,,,80.2653248,13.044691399999996
+POINT (80.2691766 13.0445686),yes,bus_stop,Yellow Pages,platform,,,,,,,,80.2691766,13.0445686
+POINT (80.2715829 13.0438762),yes,bus_stop,Radha Krishnan Salai Kalyani Hospital,platform,,,,,,,,80.2715829,13.0438762
+POINT (80.2691337 13.0445902),yes,bus_stop,Yellow Pages,platform,,,,,,,,80.2691337,13.044590199999998
+POINT (80.2718498 13.0438295),yes,bus_stop,Kalyani Hospital,platform,,,,,,,,80.2718498,13.043829499999998
+POINT (80.2716913 13.0438575),yes,bus_stop,,platform,,,,,,,,80.2716913,13.0438575
+POINT (80.1832874 12.9760401),yes,bus_stop,JK Mahal,platform,,,,,,,,80.1832874,12.976040100000002
+POINT (80.2284298 12.9801876),yes,bus_stop,Baby Nagar,platform,,,,,,,,80.2284298,12.9801876
+POINT (80.1830757 12.9710697),yes,bus_stop,MMDA Colony,platform,,,,,,,,80.1830757,12.9710697
+POINT (80.2594022 13.0098921),yes,bus_stop,,platform,,,,,,,,80.2594022,13.009892099999997
+POINT (80.2342733 12.981143),yes,bus_stop,Bharathy Nagar,platform,,,,,,,,80.2342733,12.981143
+POINT (80.2304834 12.9817272),yes,bus_stop,Baby Nagar,platform,,,,,,,,80.2304834,12.981727200000002
+POINT (80.3170561 13.1854145),yes,bus_stop,Barathiyar Nagar,platform,,,,,,,,80.3170561,13.185414499999998
+POINT (80.3169358 13.1856767),yes,bus_stop,Barathiyar Nagar,platform,,,,,,,,80.3169358,13.185676699999998
+POINT (80.2893272 13.0888432),yes,bus_stop,The Esplanade,platform,,,,,,,,80.2893272,13.0888432
+POINT (80.2159694 13.0846068),yes,bus_stop,Anna Nagar Roundtana,platform,,,,Anna Nagar Roundabout,,,,80.2159694,13.0846068
+POINT (80.2367701 13.0289526),,bus_stop,Nandanam YMCA,,,yes,yes,,,,,80.23677010000002,13.028952599999998
+POINT (80.2261973 13.0220342),yes,bus_stop,,platform,,,,,,,,80.2261973,13.022034199999998
+POINT (80.2064926 13.0195376),yes,bus_stop,,platform,,,,,,,,80.2064926,13.019537599999996
+POINT (80.2131366 13.0080474),yes,bus_stop,Guindy Railway Station,platform,,no,no,,,,,80.21313660000001,13.0080474
+POINT (80.2615709 13.0633636),yes,bus_stop,Taj Connemara,platform,,,,,,,,80.2615709,13.0633636
+POINT (80.2530652 13.0536924),yes,bus_stop,US Embassy,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2530652,13.053692399999996
+POINT (80.2566529 13.056719),yes,bus_stop,Anand Theater,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2566529,13.056718999999998
+POINT (80.2610739 13.0606236),yes,bus_stop,Spencer Plaza,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.26107390000001,13.0606236
+POINT (80.263971 13.0630453),yes,bus_stop,LIC,platform,,,,,,,,80.263971,13.0630453
+POINT (80.2511416 13.0305766),yes,bus_stop,TTK Road Adyar Gate,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2511416,13.030576599999998
+POINT (80.2529106 13.0329132),yes,bus_stop,TTK Road,platform,,,,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.2529106,13.032913199999998
+POINT (80.2449173 13.0274071),yes,bus_stop,Kotturpuram Bridge,platform,,yes,yes,,,Metropolitan Transport Corporation (Chennai) Ltd.,,80.24491730000001,13.0274071
+POINT (80.2301533 12.9191476),"95,570,119,102,19",bus_stop,Tcs bus stop,,,,,,,,,80.2301533,12.9191476
+POINT (80.1866674 13.1076464),,bus_stop,,,,,,ESI bus stop,,,,80.1866674,13.107646399999997
+POINT (80.2801183 13.1064674),yes,bus_stop,,platform,,,,,,,,80.2801183,13.1064674
+POINT (80.27785 13.1112707),yes,bus_stop,,platform,,,,,,,,80.27785,13.1112707
+POINT (80.2474527 12.9651441),,bus_stop,Kanthanchavadi,,,,,,,,,80.2474527,12.965144099999998
+POINT (80.2480544 12.9671399),,bus_stop,Kanthanchavadi,,,,,,,,,80.2480544,12.9671399
+POINT (80.2422636 13.0320877),yes,bus_stop,Nandanam Officers Enclave,platform,,,,,,,,80.2422636,13.032087699999998
+POINT (80.241303 13.031926),yes,bus_stop,Nandanam Officers Enclave,platform,,,,,,,,80.241303,13.031926
+POINT (80.2917553 13.0930674),yes,bus_stop,General Post Office,platform,,,,,,,,80.2917553,13.0930674
+POINT (80.2921033 13.0942257),yes,bus_stop,Beach Station,platform,,,,,,,,80.2921033,13.0942257
+POINT (80.2758378 13.1045485),yes,bus_stop,Moolakothalam,platform,,,,,,,,80.2758378,13.104548499999996
+POINT (80.2758788 13.104393),yes,bus_stop,Moolakothalam,platform,,,,,,,,80.2758788,13.104393000000002
+POINT (80.2864412 13.095673),yes,bus_stop,Mannadi,platform,,,,,,,,80.2864412,13.095672999999998
+POINT (80.2861429 13.0936205),yes,bus_stop,Loyer Square,platform,,,,,,,,80.2861429,13.0936205
+POINT (80.1987219 13.0906372),yes,bus_stop,Thirumanglam,platform,,,,,,,,80.1987219,13.0906372
+POINT (80.1985353 13.0949675),yes,bus_stop,Annanagar,platform,,,,,,,,80.1985353,13.0949675
+POINT (80.1988058 13.0950055),yes,bus_stop,Annanagar,platform,,,,,,,,80.1988058,13.0950055
+POINT (80.1943128 13.1020524),yes,bus_stop,Padi,platform,,,,,,,,80.1943128,13.102052399999998
+POINT (80.1945098 13.1020714),yes,bus_stop,Padi,platform,,,,,,,,80.1945098,13.1020714
+POINT (80.2298567 12.919423),,bus_stop,Tcs bus stop,,,,,,,,,80.2298567,12.919422999999998
+POINT (80.2321597 13.0408309),yes,bus_stop,Thyagaraya Nagar,platform,தியாகராய நகர்,,,Thyagaraya Nagar,,,,80.2321597,13.0408309
+POINT (80.2862815 13.074746),yes,bus_stop,Island Grounds,platform,,,,,,,,80.2862815,13.074745999999998
+POINT (80.2864212 13.074677),yes,bus_stop,Island Grounds,platform,,,,,,,,80.2864212,13.074677000000005
+POINT (80.1757089 13.0417795),,bus_stop,Sridevi Kuppam main road bus stop,,,,,,,,,80.1757089,13.0417795
+POINT (80.2798513 13.0856683),yes,bus_stop,Payaigada,platform,பயைகட,,,,,,,80.2798513,13.085668299999998
+POINT (80.2738432 13.103936),yes,bus_stop,Moolakkothanam,platform,மோலக்கொதனம்,,,,,,,80.2738432,13.103936
+POINT (80.2268379 13.0740459),yes,bus_stop,,platform,,yes,yes,,,,,80.2268379,13.074045899999998
+POINT (80.2760763 13.1039058),yes,bus_stop,Mint New Bus Stop,platform,,,,,,,,80.2760763,13.1039058
+POINT (80.2041858 12.9781744),,bus_stop,Puzhuthivakkam Railway Station (Temporary),,,,,,,,,80.2041858,12.978174400000002
+POINT (80.2041858 12.9781744),,bus_stop,Temporary unmarked bus stop,,,,,,,,,80.2041858,12.978174400000002
+POINT (80.2014698 13.1235952),yes,bus_stop,Senthil nagar,platform,,yes,yes,,,MTC,,80.2014698,13.123595200000002
+POINT (80.202265 13.1237598),yes,bus_stop,Senthil nagar,platform,,yes,yes,,,MTC,,80.202265,13.123759799999998
+POINT (80.2028994 13.1238068),yes,bus_stop,Senthil nagar,platform,,yes,yes,,,,,80.2028994,13.1238068
+POINT (80.1983906 13.1182677),yes,bus_stop,,platform,,,,,,,,80.1983906,13.1182677
+POINT (80.2036717 13.1582106),yes,bus_stop,Puzhal Camp,platform,,,,,,,,80.2036717,13.1582106
+POINT (80.2064145 13.1260395),yes,bus_stop,Ambedkar nagar,platform,,,,,,,,80.2064145,13.1260395
+POINT (80.2066103 13.1257782),yes,bus_stop,Ambedkar nagar,platform,,,,,,,,80.2066103,13.1257782
+POINT (80.2139623 13.1299942),yes,bus_stop,Kolathur Metro Water,platform,,,,,,,,80.2139623,13.1299942
+POINT (80.2138201 13.1307073),yes,bus_stop,Kolathur Metro Water,platform,,,,,,,,80.2138201,13.130707299999996
+POINT (80.2162314 13.1356937),yes,bus_stop,Shastri Nagar,platform,,,,,,,,80.2162314,13.1356937
+POINT (80.2165935 13.1359314),yes,bus_stop,Shastri Nagar,platform,,,,,,,,80.2165935,13.1359314
+POINT (80.2193508 13.1449193),yes,bus_stop,Madhavaram Rountana,platform,,,,,,,,80.2193508,13.144919299999996
+POINT (80.220311 13.1440155),yes,bus_stop,Madhavaram Rountana,platform,,,,,,,,80.220311,13.144015499999998
+POINT (80.2081352 13.1532668),yes,bus_stop,Kathirvedu Bypas,platform,,,,,,,,80.2081352,13.1532668
+POINT (80.208343 13.1534862),yes,bus_stop,Kathirvedu Bypass,platform,,,,,,,,80.208343,13.1534862
+POINT (80.2040528 13.1579812),yes,bus_stop,Puzhal Camp,platform,,,,,,,,80.2040528,13.157981200000002
+POINT (80.2033313 13.1580752),yes,bus_stop,Ambattur Camp,platform,,,,,,,,80.2033313,13.1580752
+POINT (80.2023309 13.1643511),yes,bus_stop,Puzhal Jail,platform,,,,,,,,80.2023309,13.1643511
+POINT (80.2023657 13.1651503),yes,bus_stop,Puzhal Jail,platform,,,,,,,,80.2023657,13.1651503
+POINT (80.1992463 13.1704729),yes,bus_stop,Kavankarai,platform,,,,,,,,80.1992463,13.170472899999998
+POINT (80.1998069 13.1700994),yes,bus_stop,Kavankarai,platform,,,,,,,,80.1998069,13.170099399999998
+POINT (80.1986859 13.0790989),yes,bus_stop,Thirumangalam EB Office,platform,,,,,,,,80.19868590000002,13.0790989
+POINT (80.2220062 12.9828708),yes,bus_stop,Dhandeeswaram,platform,,,,,,Metropoliton Transport Corporation (Chennai) Ltd.,,80.2220062,12.9828708
+POINT (80.2093455 13.0316093),yes,bus_stop,BSNL,platform,,,,,,,,80.20934550000001,13.0316093
+POINT (80.2111984 13.0351053),yes,bus_stop,Udhayam Theatre,platform,,,,,,,,80.2111984,13.0351053
+POINT (80.2111129 13.0351199),yes,bus_stop,Udhayam Theatre,platform,,,,,,,,80.2111129,13.035119900000002
+POINT (80.2203974 12.9903945),yes,bus_stop,Guru Nanak,platform,,,,,,,,80.2203974,12.9903945
+POINT (80.2121116 13.0462851),yes,bus_stop,Jawaharlal Nehru Road,platform,,,,,,,,80.2121116,13.0462851
+POINT (80.1993985 13.0744576),yes,bus_stop,Koyambedu,platform,,,yes,,,,,80.1993985,13.074457599999995
+POINT (80.1862757 13.0714012),yes,bus_stop,Nerkundram,platform,,,yes,,,,,80.1862757,13.0714012
+POINT (80.1816826 13.0697316),yes,bus_stop,Vengaya Mandi,platform,,,no,,,,,80.18168260000002,13.0697316
+POINT (80.1748903 13.0665327),yes,bus_stop,Ration Shop,platform,,,,,,,,80.1748903,13.0665327
+POINT (80.1672127 13.0631224),yes,bus_stop,Market,platform,,,,,,,,80.1672127,13.063122399999996
+POINT (80.1646195 13.0612345),yes,bus_stop,Erikkarai,platform,,yes,yes,,,,,80.1646195,13.0612345
+POINT (80.2161601 12.8786189),yes,bus_stop,Nest Apartment,platform,,,yes,,,TNSTC,,80.2161601,12.878618899999998
+POINT (80.1914184 13.1505889),yes,bus_stop,,platform,,,,,,,,80.1914184,13.150588899999995
+POINT (80.1942278 13.1269583),yes,bus_stop,Korattur Water Canal Road,platform,,,,,,,,80.1942278,13.1269583
+POINT (80.1944102 13.1269857),yes,bus_stop,Korattur Water Canal Road,platform,,,,,,,,80.1944102,13.126985700000002
+POINT (80.190348 13.1354867),yes,bus_stop,Madanankuppam,platform,,,,,,,,80.190348,13.1354867
+POINT (80.1903386 13.1355847),yes,bus_stop,Madanankuppam,platform,,,,,,,,80.1903386,13.1355847
+POINT (80.2251117 13.0772379),,bus_stop,,,,,,,,,,80.2251117,13.0772379
+POINT (80.2198834 13.0845003),,bus_stop,,,,,,,,,,80.2198834,13.084500299999998
+POINT (80.2198338 13.0846852),,bus_stop,,,,,,,,,,80.2198338,13.0846852
+POINT (80.2181648 13.0855408),,bus_stop,Kandaswamy College,,,,,,,,,80.2181648,13.0855408
+POINT (80.2178483 13.0855408),,bus_stop,Kandaswamy College,,,,,,,,,80.2178483,13.0855408
+POINT (80.2015899 13.1228548),yes,bus_stop,Senthil nagar,platform,,,no,,,,,80.2015899,13.122854800000002
+POINT (80.205062 13.1185173),yes,bus_stop,Srinivasa nagar,platform,,,,,,,,80.205062,13.1185173
+POINT (80.2050566 13.1186322),yes,bus_stop,Srinivasa nagar,platform,,,,,,,,80.2050566,13.1186322
+POINT (80.2067223 13.1139224),yes,bus_stop,Ilankali amman koil,platform,,,,,,,,80.2067223,13.113922399999998
+POINT (80.2068779 13.1139119),yes,bus_stop,Ilankali amman koil,platform,,,,,,,,80.2068779,13.1139119
+POINT (80.2059605 13.1083791),yes,bus_stop,South Redhills Road Market,platform,,,,,,,,80.2059605,13.1083791
+POINT (80.1734513 13.1326681),yes,bus_stop,Kallikuppam,platform,,,,,,,,80.1734513,13.1326681
+POINT (80.1717346 13.13207),yes,bus_stop,Kallikuppam,platform,,,,,,,,80.1717346,13.132070000000004
+POINT (80.1696533 13.1319864),yes,bus_stop,Kallikuppam koil,platform,,,,,,,,80.1696533,13.1319864
+POINT (80.1652464 13.1319368),yes,bus_stop,West balaji nagar,platform,,,,,,,,80.1652464,13.131936800000002
+POINT (80.1585784 13.1303565),yes,bus_stop,Pudur,platform,,,,,,,,80.1585784,13.1303565
+POINT (80.2275695 12.901036),yes,bus_stop,Sholinganallur bus stand,platform,,,,,,MTC,,80.2275695,12.901035999999998
+POINT (80.3149032 13.1886341),yes,bus_stop,Nethaji Nagar Bus Stop,platform,,,,,,,,80.31490320000002,13.188634100000002
+POINT (80.3089189 13.1842959),yes,bus_stop,ITC,platform,,,no,ITC,,,,80.3089189,13.1842959
+POINT (80.3076209 13.1862231),yes,bus_stop,,platform,,,yes,Murugan Kovil,,,,80.3076209,13.1862231
+POINT (80.3134402 13.1912925),yes,bus_stop,Periyakasi Temple Stop,platform,,,,,,,,80.3134402,13.1912925
+POINT (80.3088046 13.1841093),yes,bus_stop,ITC bus Stop,platform,,,no,,,,,80.3088046,13.1841093
+POINT (80.3085916 13.1839156),yes,bus_stop,ITC Bus Stop,platform,,,no,,,,,80.3085916,13.1839156
+POINT (80.3133575 13.1914849),yes,bus_stop,Bus Stop,platform,,,,,,Government,,80.3133575,13.1914849
+POINT (80.230819 13.1366014),yes,bus_stop,,platform,,,,,,,,80.230819,13.136601399999998
+POINT (80.2385828 13.1350989),yes,bus_stop,,platform,,,,,,,,80.2385828,13.135098899999996
+POINT (80.2413545 13.1292868),yes,bus_stop,,platform,,,,,,,,80.2413545,13.129286799999996
+POINT (80.2293073 12.9133328),yes,bus_stop,Karappakkam,platform,,,,,,,,80.2293073,12.913332799999996
+POINT (80.2269108 12.8857366),,bus_stop,Ponniyamman Koyil,,,,,,,,,80.2269108,12.8857366
+POINT (80.2269472 12.8779737),,bus_stop,Kumaran Nagar,,,,,,,,,80.2269472,12.877973700000002
+POINT (80.2287432 12.9806227),,bus_stop,Baby nagar,,,,,,,,,80.2287432,12.980622699999998
+POINT (80.2421911 13.0538791),yes,bus_stop,Valluvar kottam,platform,,,,,,,,80.2421911,13.0538791
+POINT (80.2401152 13.0589363),yes,bus_stop,Pushpa nagar,platform,,,,,,,,80.2401152,13.058936299999996
+POINT (80.2076601 13.1032304),yes,bus_stop,,platform,,,,Kalpana Hotel Bus Stop,,,,80.2076601,13.1032304
+POINT (80.2678137 13.0332722),yes,bus_stop,மயிலாப்பூர் டேங்க்,platform,மயிலாப்பூர் டேங்க்,yes,yes,Mylapore Tank,,,,80.2678137,13.0332722
+POINT (80.1618573 13.0840455),yes,bus_stop,,platform,,yes,yes,,,,,80.1618573,13.084045499999998
+POINT (80.152549 13.0955464),yes,bus_stop,Kalaivanar Nagar,platform,,,,,,,,80.152549,13.095546400000002
+POINT (80.2316353 12.9908853),yes,bus_stop,,platform,,yes,yes,,,,,80.2316353,12.9908853
+POINT (80.235282 12.9864768),yes,bus_stop,,platform,,yes,yes,,,,,80.235282,12.986476799999997
+"POLYGON ((80.2376529 13.0407766, 80.2377914 13.0407679, 80.2377934 13.0407989, 80.237655 13.0408076, 80.2376529 13.0407766))",yes,bus_stop,T. Nagar,platform,,yes,yes,,,,,80.23772317254836,13.040787748297204

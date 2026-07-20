@@ -6,9 +6,18 @@ from src.utils.helper import save_dataframe
 from src.config.config import raw_data_path
 
 
-def collect_merchants(place:str, tags:dict, filename:str):
+def collect_osm_data(
+        place:str, 
+        tag_key:str,
+        tag_value:str, 
+        filename:str
+    ):
 
     Logger.info(f"starting data collection for {filename}")
+
+    tags = {
+        tag_key: tag_value
+        }
 
     gdf=ox.features_from_place(place, tags)
 
@@ -39,18 +48,3 @@ def collect_merchants(place:str, tags:dict, filename:str):
 
     print("\nRaw data collection completed successfully.")
 
-def collect_pharmacies():
-
-    place="Chennai, Tamil Nadu, India"
-
-    tags={
-        "amenity":"pharmacy"
-    }
-
-    filename="chennai_pharmacies.csv"
-
-    collect_merchants(
-        place=place,
-        tags=tags,
-        filename=filename
-    )

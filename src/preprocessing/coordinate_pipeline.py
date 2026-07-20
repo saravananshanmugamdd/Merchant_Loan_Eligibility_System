@@ -6,13 +6,16 @@ from src.utils.helper import load_dataframe, save_dataframe
 from src.config.config import raw_data_path, processed_data_path
 
 
-def coordinate_pipeline():
+def coordinate_pipeline(
+    input_filename: str,
+    output_filename: str
+):
 
-    Logger.info("Coordinate Pipeline Started")
+    Logger.info(f"Coordinate Pipeline Started for {input_filename}")
 
     input_path = os.path.join(
         raw_data_path,
-        "chennai_pharmacies.csv"
+        input_filename
     )
 
     df = load_dataframe(input_path)
@@ -20,7 +23,6 @@ def coordinate_pipeline():
     print("\nRaw Shape:")
     print(df.shape)
 
-    # Convert geometry column into GeoDataFrame
     gdf = gpd.GeoDataFrame(
         df,
         geometry=gpd.GeoSeries.from_wkt(df["geometry"]),
@@ -36,17 +38,16 @@ def coordinate_pipeline():
         "centroid"
     ).to_crs(epsg=4326)
 
-    # Extract longitude and latitude
     gdf["longitude"] = centroid_gdf.geometry.x
     gdf["latitude"] = centroid_gdf.geometry.y
 
     print("\nCoordinates Added Successfully")
     print(gdf[["longitude", "latitude"]].head())
 
-    # Save processed dataset
+
     output_path = os.path.join(
         processed_data_path,
-        "chennai_pharmacies_coordinates.csv"
+        output_filename
     )
 
     save_dataframe(
@@ -59,4 +60,6 @@ def coordinate_pipeline():
     print("\nProcessed Shape:")
     print(gdf.shape)
 
-    print("\nCoordinate dataset saved successfully.")
+    print(f"\nCoordinate dataset saved successfully as {output_filename}.")
+
+    return gdf

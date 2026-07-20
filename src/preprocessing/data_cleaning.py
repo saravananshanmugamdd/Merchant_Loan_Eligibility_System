@@ -6,13 +6,16 @@ from src.preprocessing.missing_value_handler import calculate_missing_report,rem
 
 
 
-def clean_pharmacy_data():
+def clean_data(
+    input_filename: str,
+    output_filename: str
+):
 
-    Logger.info("Starting Data Cleaning Pipeline")
+    Logger.info(f"Starting Data Cleaning Pipeline{input_filename}")
 
     input_path = os.path.join(
     processed_data_path,
-    "chennai_pharmacies_coordinates.csv"
+    input_filename
     )
 
     df = load_dataframe(input_path)
@@ -35,7 +38,7 @@ def clean_pharmacy_data():
 
     output_path = os.path.join(
         processed_data_path,
-        "chennai_pharmacies_clean.csv"
+        output_filename
     )
 
     save_dataframe(
@@ -44,3 +47,5 @@ def clean_pharmacy_data():
     )
 
     Logger.info("Clean dataset saved successfully.")
+
+    return df
