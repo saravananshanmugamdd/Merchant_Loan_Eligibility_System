@@ -5,7 +5,7 @@ from src.preprocessing.data_cleaning import clean_data
 from src.preprocessing.null_value_handler import handle_null_values
 from src.preprocessing.duplicate_handler import duplicate_handler
 from src.preprocessing.datatype_handler import handle_datatypes
-
+from src.feature_engineering.feature_pipeline import feature_pipeline
 
 def main():
 
@@ -43,6 +43,7 @@ def main():
             output_filename=config["datatype_file"]
         )
 
+        feature_pipeline()
 
 if __name__ == "__main__":
     main()
