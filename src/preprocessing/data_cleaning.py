@@ -1,47 +1,46 @@
 import os
-import pandas as pd
 from src.utils.logger import Logger
-from src.utils.helper import save_dataframe, load_dataframe
-from src.config.config import raw_data_path, processed_data_path
+from src.utils.helper import load_dataframe, save_dataframe
+from src.config.config import processed_data_path
+from src.preprocessing.missing_value_handler import calculate_missing_report,remove_high_missing_columns,validate_missing_values
+
+
 
 def clean_pharmacy_data():
-    Logger.info("pharmacies data cleaning initialised")
 
-    input_path=os.path.join(
-        raw_data_path,
-        "chennai_pharmacies.csv"
+    Logger.info("Starting Data Cleaning Pipeline")
+
+    input_path = os.path.join(
+    processed_data_path,
+    "chennai_pharmacies_coordinates.csv"
     )
-    df=load_dataframe(input_path)
 
-    print(df.shape)
-    print(df.columns)
-    print(df.head())
-    print(df.isnull().sum())
+    df = load_dataframe(input_path)
 
-    missing_percentage=(df.isnull().sum()/ len(df))*100
+    print("Original Shape:", df.shape)
 
-    missing_df=pd.DataFrame({
-        "Column"        :df.columns,
-        "Missing Values":df.isnull().sum(),
-        "Missing percentage":missing_percentage.round(2)
+    report = calculate_missing_report(df)
 
-    })
-    missing_df=missing_df.sort_values(
-        by="Missing Values",
-        ascending=False
+    print(report)
+
+    df = remove_high_missing_columns(
+        df,
+        threshold=90
     )
-    print(missing_df)
 
-    missing_threshold=90
+    validate_missing_values(df)
 
-    columns_to_drop=missing_df[missing_df["Missing percentage"]>missing_threshold]["Column"].tolist()
-    print("columns_to_drop")
-    print(columns_to_drop)
-
-    df=df.drop(columns=columns_to_drop)
-
+    print("\nShape After Cleaning:")
     print(df.shape)
-    print(df.columns)
 
+    output_path = os.path.join(
+        processed_data_path,
+        "chennai_pharmacies_clean.csv"
+    )
 
-    
+    save_dataframe(
+        df,
+        output_path
+    )
+
+    Logger.info("Clean dataset saved successfully.")

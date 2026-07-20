@@ -1,35 +1,56 @@
-import osmnx as ox
-import pandas as pd
 import os
+import osmnx as ox
 
 from src.utils.logger import Logger
 from src.utils.helper import save_dataframe
 from src.config.config import raw_data_path
 
-def collector_pharmacies():
-    Logger.info("starting pharmacy data collection")
+
+def collect_merchants(place:str, tags:dict, filename:str):
+
+    Logger.info(f"starting data collection for {filename}")
+
+    gdf=ox.features_from_place(place, tags)
+
+    Logger.info(f"Downloaded {len(gdf)} records")
+
+    gdf = gdf.reset_index(drop=True)
+
+    output_path = os.path.join(
+        raw_data_path,
+        filename
+    )
+
+    save_dataframe(
+        gdf,
+        output_path
+    )
+
+    Logger.info(f"Raw dataset saved at {output_path}")
+
+    print("\n========== RAW DATA ==========")
+    print(gdf.head())
+
+    print("\nShape:")
+    print(gdf.shape)
+
+    print("\nColumns:")
+    print(gdf.columns.tolist())
+
+    print("\nRaw data collection completed successfully.")
+
+def collect_pharmacies():
 
     place="Chennai, Tamil Nadu, India"
 
     tags={
-        "amenity": "pharmacy"
+        "amenity":"pharmacy"
     }
 
-    gdf=ox.features_from_place(place, tags)
+    filename="chennai_pharmacies.csv"
 
-    Logger.info(f"{len(gdf)} pharmacies downloaded")
-
-    print(gdf.head())
-
-    output_path=os.path.join(
-        raw_data_path, 
-        "chennai_pharmacies.csv"
+    collect_merchants(
+        place=place,
+        tags=tags,
+        filename=filename
     )
-
-    save_dataframe(gdf, output_path)
-
-    Logger.info("CSV saved successfully")
-
-    print("completed")
-
-
