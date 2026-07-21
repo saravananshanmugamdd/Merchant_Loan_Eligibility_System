@@ -9,6 +9,8 @@ from src.preprocessing.duplicate_handler import duplicate_handler
 from src.preprocessing.datatype_handler import handle_datatypes
 from src.feature_engineering.feature_pipeline import feature_pipeline
 from src.feature_engineering.feature_validation import validate_feature
+from src.target_engineering.target_creator import create_data
+from src.modeling.data_split import prepare_ml_dataset
 
 
 def run_collection():
@@ -70,6 +72,19 @@ def run_feature_validation():
 
     validate_feature()
 
+def run_target_featuring():
+
+    print("\n =============Target Engineering ============")
+
+    create_data()
+
+def run_ml_data_preparation():
+
+    print("\n =============Preparing ML Dataset============")
+
+    prepare_ml_dataset()
+
+
 def main():
 
     parser = argparse.ArgumentParser(
@@ -83,6 +98,8 @@ def main():
             "preprocess",
             "features",
             "validate",
+            "target",
+            "prepare",
             "all"
         ],
         default="all",
@@ -106,10 +123,19 @@ def main():
 
         run_feature_engineering()
 
+
     elif args.stage == "validate":
 
         run_feature_validation()
 
+
+    elif args.stage == "target":
+
+        run_target_featuring()
+
+    elif args.stage == "prepare":
+
+        run_ml_data_preparation()
 
     elif args.stage == "all":
 
@@ -119,6 +145,11 @@ def main():
 
         run_feature_engineering()
 
+        run_feature_validation()
+
+        run_target_featuring()
+
+        run_ml_data_preparation()
 
 if __name__ == "__main__":
 
