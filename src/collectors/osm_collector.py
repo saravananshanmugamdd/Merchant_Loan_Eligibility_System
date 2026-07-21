@@ -4,6 +4,7 @@ import osmnx as ox
 from src.utils.logger import Logger
 from src.utils.helper import save_dataframe
 from src.config.config import raw_data_path
+from src.config.osm_config import PLACE, OSM_COLLECTIONS
 
 
 def collect_osm_data(
@@ -47,4 +48,26 @@ def collect_osm_data(
     print(gdf.columns.tolist())
 
     print("\nRaw data collection completed successfully.")
+
+def collect_all_osm_data():
+
+    Logger.info("Starting OSM data collection pipeline")
+
+    for collection in OSM_COLLECTIONS:
+
+        collect_osm_data(
+
+            place=PLACE,
+
+            tag_key=collection["tag_key"],
+
+            tag_value=collection["tag_value"],
+
+            filename=collection["raw_file"]
+
+        )
+
+    Logger.info(
+        "All OSM datasets collected successfully"
+    )
 

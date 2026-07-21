@@ -1,49 +1,125 @@
-from src.collectors.osm_collector import collect_osm_data
-from src.config.osm_config import PLACE,OSM_COLLECTIONS
+import argparse
+
+from src.collectors.osm_collector import collect_all_osm_data
+from src.config.osm_config import OSM_COLLECTIONS
 from src.preprocessing.coordinate_pipeline import coordinate_pipeline
 from src.preprocessing.data_cleaning import clean_data
 from src.preprocessing.null_value_handler import handle_null_values
 from src.preprocessing.duplicate_handler import duplicate_handler
 from src.preprocessing.datatype_handler import handle_datatypes
 from src.feature_engineering.feature_pipeline import feature_pipeline
+from src.feature_engineering.feature_validation import validate_feature
 
-def main():
 
-    for config in OSM_COLLECTIONS:
+def run_collection():
 
-        collect_osm_data(
-            place=PLACE,
-            tag_key=config["tag_key"],
-            tag_value=config["tag_value"],
-            filename=config["raw_file"]
+    print("\n========== DATA COLLECTION ==========")
+
+    collect_all_osm_data()
+
+
+def run_preprocessing():
+
+    print("\n========== PREPROCESSING ==========")
+
+    for collection in OSM_COLLECTIONS:
+
+        print(
+            f"\n========== PROCESSING "
+            f"{collection['raw_file']} =========="
         )
 
         coordinate_pipeline(
-            input_filename=config["raw_file"],
-            output_filename=config["coordinate_file"]
+            input_filename=collection["raw_file"],
+            output_filename=collection["coordinate_file"]
         )
 
         clean_data(
-            input_filename=config["coordinate_file"],
-            output_filename=config["clean_file"]
+            input_filename=collection["coordinate_file"],
+            output_filename=collection["clean_file"]
         )
 
         handle_null_values(
-            input_filename=config["clean_file"],
-            output_filename=config["null_file"]
+            input_filename=collection["clean_file"],
+            output_filename=collection["null_file"]
         )
 
         duplicate_handler(
-            input_filename=config["null_file"],
-            output_filename=config["duplicate_file"]
+            input_filename=collection["null_file"],
+            output_filename=collection["duplicate_file"]
         )
 
         handle_datatypes(
-            input_filename=config["duplicate_file"],
-            output_filename=config["datatype_file"]
+            input_filename=collection["duplicate_file"],
+            output_filename=collection["datatype_file"]
         )
 
-        feature_pipeline()
+    print(
+        "\n========== ALL DATASETS PREPROCESSED SUCCESSFULLY =========="
+    )
+
+def run_feature_engineering():
+
+    print("\n========== FEATURE ENGINEERING ==========")
+
+    feature_pipeline()
+
+def run_feature_validation():
+
+    print("\n =============Feature Validation ==========")
+
+    validate_feature()
+
+def main():
+
+    parser = argparse.ArgumentParser(
+        description="Merchant Loan Eligibility ML Pipeline"
+    )
+
+    parser.add_argument(
+        "--stage",
+        choices=[
+            "collect",
+            "preprocess",
+            "features",
+            "validate",
+            "all"
+        ],
+        default="all",
+        help="Select pipeline stage to execute"
+    )
+
+    args = parser.parse_args()
+
+
+    if args.stage == "collect":
+
+        run_collection()
+
+
+    elif args.stage == "preprocess":
+
+        run_preprocessing()
+
+
+    elif args.stage == "features":
+
+        run_feature_engineering()
+
+    elif args.stage == "validate":
+
+        run_feature_validation()
+
+
+    elif args.stage == "all":
+
+        run_collection()
+
+        run_preprocessing()
+
+        run_feature_engineering()
+
 
 if __name__ == "__main__":
+
     main()
