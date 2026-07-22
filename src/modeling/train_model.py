@@ -7,10 +7,16 @@ from src.utils.exceptions import ModelTrainingError
 from src.config.config import processed_data_path
 
 from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import SVC
+from sklearn.naive_bayes import GaussianNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.calibration import CalibratedClassifierCV
 
-def train_logistic_regression():
+def train_models():
     try:
-        Logger.info("Started Logistic Regression Model Training")
+        Logger.info("Starting Model Training Pipeline")
 
         train_path = os.path.join(
             processed_data_path,
@@ -27,16 +33,35 @@ def train_logistic_regression():
         x_train = train_df.drop(columns= [target_column])
         y_train = train_df[target_column]
 
-        model = LogisticRegression(
-            max_iter=1000,
-            random_state=42
-        )
+        models ={ 
+            "logistic_regression":LogisticRegression(
+                max_iter=1000,
+                random_state=42
+                ),
+                
+                "decision_tree":DecisionTreeClassifier(
+                    random_state=42
+                ),
 
-        Logger.info("Training Logistic regression Model")
+                "random_forest":
+                RandomForestClassifier(
+                    n_estimators=100,
+                    random_state=42
+                ),
 
-        model.fit(x_train, y_train)
+                "knn":
+                    KNeighborsClassifier(
+                        n_neighbors=5
+                    ),
 
-        Logger.info(" Logistic Regression Model Training Completed")
+                "gaussian_nb":
+                    GaussianNB(),
+
+                "svm":CalibratedClassifierCV(SVC(
+                    random_state=42),
+                    ensemble=False)
+
+        }
 
         model_directory = "models"
 
@@ -45,33 +70,45 @@ def train_logistic_regression():
             exist_ok=True
         )
 
-        model_path = os.path.join(
-            model_directory,
-            "logistic_regression_model.pkl"
-        )
+        trained_models= {}
 
-        joblib.dump(
-            model,
-            model_path
-        )
+        for model_name, model in models.items():
 
-        print("\n Logistic Regression Model"
-              "saved Succesfully"
-             )
-        print(f"Model path = {model_path}")
+            Logger.info(f"Training {model_name} model")
 
-        Logger.info(
-            f"Logistic Regression Model "
-            f"saved at {model_path}"
-            )        
+            print(f"\n Training {model_name}")
+
+            model.fit(
+                x_train,
+                y_train
+            )
+
+            trained_models[model_name]=model
+
+            model_path = os.path.join(
+                model_directory,
+                f"{model_name}_model.pkl"
+            )
+
+            joblib.dump(
+                model,
+                model_path
+            )
+
+            print(f"\n {model_name}saved Succesfully")
+
+            Logger.info(f"{model_name} training completed")
+
+        print("===============Model Training Completed")
+
+        return trained_models      
         
     except Exception as e:
 
         Logger.error(
-            "Logistic Regression Training Failed"
-            f"{str(e)}"
+            f"model training failed :{e}"
         )
 
         raise ModelTrainingError(
-            "failed to train Logistic Regression model"
+            "failed to train model"
         ) from e

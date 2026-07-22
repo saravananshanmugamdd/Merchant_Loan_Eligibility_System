@@ -1,0 +1,7 @@
+model,accuracy,precision,recall,f1_score
+logistic_regression,0.9783,0.9583,1.0,0.9787
+svm,0.9565,0.92,1.0,0.9583
+gaussian_nb,0.9348,0.8846,1.0,0.9388
+random_forest,0.913,0.913,0.913,0.913
+knn,0.8913,0.9091,0.8696,0.8889
+decision_tree,0.8261,0.8261,0.8261,0.8261
