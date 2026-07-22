@@ -12,6 +12,8 @@ from src.feature_engineering.feature_validation import validate_feature
 from src.target_engineering.target_creator import create_data
 from src.modeling.data_split import prepare_ml_dataset
 
+from src.modeling.train_model import train_logistic_regression
+
 
 def run_collection():
 
@@ -84,6 +86,11 @@ def run_ml_data_preparation():
 
     prepare_ml_dataset()
 
+def run_model_training():
+
+    print("\n==========Training Model================")
+
+    train_logistic_regression()
 
 def main():
 
@@ -100,6 +107,7 @@ def main():
             "validate",
             "target",
             "prepare",
+            "train",
             "all"
         ],
         default="all",
@@ -137,6 +145,10 @@ def main():
 
         run_ml_data_preparation()
 
+    elif args.stage == "train":
+
+        run_model_training()
+
     elif args.stage == "all":
 
         run_collection()
@@ -150,6 +162,9 @@ def main():
         run_target_featuring()
 
         run_ml_data_preparation()
+
+        run_model_training()
+
 
 if __name__ == "__main__":
 

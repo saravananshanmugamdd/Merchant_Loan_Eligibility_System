@@ -13,7 +13,7 @@ class DataCleaningError(MerchantLoanException):
 class DataValidationError(MerchantLoanException):
     pass
 
-class IvalidCoordinateError(MerchantLoanException):
+class InvalidCoordinateError(MerchantLoanException):
     pass
 
 class FeatureEngineeringError(MerchantLoanException):
