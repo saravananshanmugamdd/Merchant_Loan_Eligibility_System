@@ -139,36 +139,67 @@ def evaluate_models():
 
         best_model = results_df.iloc[0]
 
+        best_model_name = best_model["model"]
 
-        print(
-            "\n========== BEST MODEL =========="
+        best_model_path = os.path.join(
+            model_directory,
+            f"{best_model_name}_model.pkl"
         )
 
-        print(
-            f"Model     : {best_model['model']}"
+        final_model = joblib.load(
+            best_model_path
         )
 
-        print(
-            f"Accuracy  : {best_model['accuracy']}"
+        final_model_path = os.path.join(
+            model_directory,
+            "final_model.pkl"
         )
 
-        print(
-            f"Precision : {best_model['precision']}"
+        joblib.dump(
+            final_model,
+            final_model_path
         )
 
-        print(
-            f"Recall    : {best_model['recall']}"
+        print("\n========== BEST MODEL ==========")
+
+        print(f"Model     : {best_model['model']}")
+
+        print(f"Accuracy  : {best_model['accuracy']}")
+
+        print(f"Precision : {best_model['precision']}")
+
+        print(f"Recall    : {best_model['recall']}")
+
+        print(f"F1 Score  : {best_model['f1_score']}")
+
+
+        Logger.info("Model Evaluation Pipeline Completed")
+
+        best_model_name = best_model["model"]
+
+        best_model_path = os.path.join(
+            model_directory,
+            f"{best_model_name}_model.pkl"
         )
 
-        print(
-            f"F1 Score  : {best_model['f1_score']}"
+        final_model = joblib.load(
+            best_model_path
         )
 
-
-        Logger.info(
-            "Model Evaluation Pipeline Completed"
+        final_model_path = os.path.join(
+            model_directory,
+            "final_model.pkl"
         )
 
+        joblib.dump(
+            final_model,
+            final_model_path
+        )
+
+        Logger.info("Final Model Saved")
+
+        print("\n Final model saved successully")
+        print(f"Final Model {final_model_name}")
 
         return results_df
 

@@ -14,6 +14,7 @@ from src.modeling.data_split import prepare_ml_dataset
 
 from src.modeling.train_model import train_models
 from src.modeling.model_evaluation import evaluate_models
+from src.modeling.prediction import MerchantLoanPrediction
 
 
 def run_collection():
@@ -99,6 +100,11 @@ def run_model_evaluation():
 
     evaluate_models()
 
+def run_model_prediction():
+
+    print("\n =========== Model Prediction ===========")
+
+
 def main():
 
     parser = argparse.ArgumentParser(
@@ -116,6 +122,7 @@ def main():
             "prepare",
             "train",
             "evaluate",
+            "predict",
             "all"
         ],
         default="all",
@@ -161,6 +168,10 @@ def main():
 
         run_model_evaluation()
 
+    elif args.stage =="predict":
+
+        run_model_prediction()
+
     elif args.stage == "all":
 
         run_collection()
@@ -178,6 +189,8 @@ def main():
         run_model_training()
 
         run_model_evaluation()
+
+        run_model_prediction()
 
 
 if __name__ == "__main__":
