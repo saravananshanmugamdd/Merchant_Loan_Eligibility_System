@@ -32,9 +32,9 @@ input_data = {
 
 
 result = predictor.predict(
-    input_data
+    latitude=13.064540,
+    longitude=80.243327
 )
-
 
 print(
     "\n========== PREDICTION =========="

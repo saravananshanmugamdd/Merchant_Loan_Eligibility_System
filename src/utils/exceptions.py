@@ -24,3 +24,6 @@ class ModelTrainingError(MerchantLoanException):
 
 class PredictionError(MerchantLoanException):
     pass
+
+class GeocodingError(MerchantLoanException):
+    pass
